@@ -1,0 +1,1658 @@
+Loading model...
+Loading checkpoint shards:   0%|          | 0/5 [00:00<?, ?it/s]Loading checkpoint shards:  20%|██        | 1/5 [00:04<00:16,  4.17s/it]Loading checkpoint shards:  40%|████      | 2/5 [00:07<00:11,  3.95s/it]Loading checkpoint shards:  60%|██████    | 3/5 [00:11<00:07,  3.88s/it]Loading checkpoint shards:  80%|████████  | 4/5 [00:15<00:03,  3.81s/it]Loading checkpoint shards: 100%|██████████| 5/5 [00:17<00:00,  2.99s/it]Loading checkpoint shards: 100%|██████████| 5/5 [00:17<00:00,  3.40s/it]
+Using a slow image processor as `use_fast` is unset and a slow processor was saved with this model. `use_fast=True` will be the default behavior in v4.52, even if the model was saved with a slow processor. This will result in minor differences in outputs. You'll still be able to use a slow processor with `use_fast=False`.
+You have video processor config saved in `preprocessor.json` file which is deprecated. Video processor configs should be saved in their own `video_preprocessor.json` file. You can rename the file or load and save the processor back which renames it automatically. Loading from `preprocessor.json` will be removed in v5.0.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+
+======== CYCLE for TARGET INDEX 1 ========
+
+
+----------------------------------------
+Trial: 000_Xf39GqLsVwUGe7ErHgdq44
+Target image: 1 (COCO_val2014_000000334417_blur.jpg)
+Generated description: The image features a person with short hair, wearing a light-colored top, and appears to be in an indoor setting with a neutral background. The lighting is soft and even, highlighting the subject's face without harsh shadows.
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 001_aKfods2rkcEf5uQAmFttZZ
+Target image: 1 (COCO_val2014_000000087912_blur.jpg)
+Generated description: The image features a clear blue sky with a few scattered clouds and what appears to be the silhouette of a tree in the foreground. The overall scene suggests an outdoor setting on a calm day.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 003_YEkc8XE8SmupZd36vuvi5P
+Target image: 1 (COCO_val2014_000000241638_blur.jpg)
+Generated description: The image features a dark, almost black shape centered against a gradient background that transitions from light gray at the bottom to a darker shade at the top. The shape appears to be elongated and somewhat irregular in form, with no distinct features or colors other than its shadowy appearance.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 004_VB3Tm7rg77rEpjpTYuBZnZ
+Target image: 1 (COCO_val2014_000000201004_blur.jpg)
+Generated description: The image features a clear blue sky above a lush green field, with a distinct horizon line separating the sky and the grassy area below. The background includes some indistinct shapes that appear to be trees or bushes, adding depth to the scene.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 013_WthoLxjCvzwKsmKQzK5foy
+Target image: 1 (COCO_val2014_000000159716_blur.jpg)
+Generated description: The image features a vibrant mix of colors with a prominent green and orange hue dominating the scene. The background appears to be softly blurred, drawing attention to the central area where the colors blend together in a warm, inviting palette.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 014_RwUsQicUBpeLmoCYMX8ZPC
+Target image: 1 (COCO_val2014_000000050962_blur.jpg)
+Generated description: The image features a blurred scene with a mix of green and blue hues, suggesting a natural setting like a park or forest. The background appears to have a dense cluster of trees, while the foreground has a lighter, possibly grassy area. The overall impression is one of a serene outdoor environment.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 026_P46gnKM3fMXy9E5usBPHFi
+Target image: 1 (COCO_val2014_000000198367_blur.jpg)
+Generated description: The image features a central, warm-toned circular pattern with a gradient of colors radiating outward, transitioning from a soft yellow at the center to a rich orange and then to a muted brown at the edges. The overall effect is one of a warm, almost sunburst-like appearance.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 029_UCEfbeigsYRDkWUU6cPZez
+Target image: 1 (COCO_val2014_000000102478_blur.jpg)
+Generated description: The image features a vibrant green background with a distinct orange and red shape in the lower left corner, creating a warm contrast against the cool tones.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 031_TKJu7P3rwMbMr52DcaEoNE
+Target image: 1 (COCO_val2014_000000036492_blur.jpg)
+Generated description: The image presents a soft, muted palette dominated by shades of brown and gray, with a subtle gradient that suggests depth and a sense of mystery. The overall tone is subdued, evoking a feeling of calmness and perhaps a hint of melancholy. There are no distinct shapes or objects, but rather an abstract blur that could be interpreted as a landscape or a foggy scene.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 033_TdYvgoHk686bLdRV8cQUZz
+Target image: 1 (COCO_val2014_000000014592_blur.jpg)
+Generated description: The image features a person with a blurred face, wearing what appears to be a dark-colored top and light-colored pants. The background is plain and light-colored, providing a stark contrast to the darker tones of the clothing. There is a noticeable shadow cast on the right side of the figure, suggesting a light source from the left.
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 035_n49vPZ3tnANdnJvMfGztyZ
+Target image: 1 (COCO_val2014_000000140076_blur.jpg)
+Generated description: The image features a vibrant mix of red and blue hues, with a distinct circular shape in the center, surrounded by a gradient background that transitions smoothly into lighter tones. The overall composition suggests a dynamic and energetic visual element.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 038_9LmxKyXxN8JCfER2MZAAmP
+Target image: 1 (COCO_val2014_000000161044_blur.jpg)
+Generated description: The image features a gradient of soft, muted colors transitioning smoothly from light to dark, with a subtle central focus that draws the eye inward, creating a sense of depth and calmness.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 040_DCKLDRfProbXeJ8aSZT9Ha
+Target image: 1 (COCO_val2014_000000033958_blur.jpg)
+Generated description: The image features a gradient of dark blue to lighter blue shades, with a subtle, almost ethereal glow in the center, giving it a serene and slightly mystical appearance. The overall tone is calm and uniform, lacking any distinct shapes or textures.
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 041_3QHn6AW28dZzz3gNoNUpMw
+Target image: 1 (COCO_val2014_000000027272_blur.jpg)
+Generated description: The image features a blurred scene with a prominent, slightly darker area in the center, surrounded by a gradient of green hues. The background appears to be a natural setting, possibly a field or forest, with soft, out-of-focus details that suggest depth and distance.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 043_MgeX72ppzXHrehgU2qhmvu
+Target image: 1 (COCO_val2014_000000027285_blur.jpg)
+Generated description: The image features a warm, orange-toned background with a soft, glowing light source in the upper left corner, creating a cozy and inviting atmosphere. The foreground includes a blurred figure, possibly a person, standing against this backdrop, adding depth to the scene. The overall composition suggests an indoor setting, perhaps a living room or a studio, with a focus on ambient lighting and a relaxed mood.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 044_2CCtpozAj5QAP67odNo3uH
+Target image: 1 (COCO_val2014_000000272958_blur.jpg)
+Generated description: The image features a prominent, dark circular shape at its center, surrounded by a gradient of light blue hues that transition smoothly into a lighter shade towards the edges. The overall composition is simple and minimalistic, with no additional elements or distractions.
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 047_GcbutkAxNTuoVYBWqcZ2EF
+Target image: 1 (COCO_val2014_000000068740_blur.jpg)
+Generated description: The image features a vibrant mix of colors with a prominent yellow and green area in the foreground, transitioning into a darker background with hints of blue and purple. The composition suggests an abstract or impressionistic style, with soft edges and a blend of hues creating a dynamic visual effect.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 048_XhuayYKd34YZFYLCHqgKJH
+Target image: 1 (COCO_val2014_000000142537_blur.jpg)
+Generated description: The image features a close-up of a person's face with a blurred background, emphasizing the facial details and expressions. The lighting appears to be soft, creating a gentle contrast between the subject and the surroundings.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 051_BeUywrzY9YptGCuU8ktavy
+Target image: 1 (COCO_val2014_000000019763_blur.jpg)
+Generated description: The image features a close-up of a person's face with a warm, reddish hue, possibly due to lighting or a filter. The background appears blurred and indistinct, drawing focus to the subject's facial features.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 063_K7jBopRVF4UL6mnkbRBiw9
+Target image: 1 (COCO_val2014_000000093670_blur.jpg)
+Generated description: The image features a person wearing a light-colored shirt with a dark background, and there appears to be a blurred object in the foreground that resembles a piece of furniture or a decorative item. The overall composition suggests an indoor setting with soft lighting.
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 064_miaVnypWFPWnnWt7F3kNWc
+Target image: 1 (COCO_val2014_000000182170_blur.jpg)
+Generated description: The image features two distinct silhouettes against a warm, yellowish background, with one figure appearing slightly larger and more prominent than the other. The overall composition suggests a minimalist scene with a focus on the shapes and their relative sizes.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 065_GbFKdkEGtHUgCeWsoDggAK
+Target image: 1 (COCO_val2014_000000248382_blur.jpg)
+Generated description: The image features a bright orange object with a distinct shape, possibly a piece of clothing or fabric, set against a blurred background of green and brown hues. The orange color stands out prominently in contrast to the softer tones around it.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 066_3tcgywbsLeQuwqKYELedoC
+Target image: 1 (COCO_val2014_000000043314_blur.jpg)
+Generated description: The image features a person sitting in what appears to be an indoor setting with soft lighting. The individual is wearing a light-colored top and seems to be in a relaxed posture, possibly leaning back slightly. The background includes muted tones of blue and gray, suggesting a calm and subdued environment.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 067_AwprMBTcVE96Ffg36Y8atE
+Target image: 1 (COCO_val2014_000000199442_blur.jpg)
+Generated description: The image features a person standing outdoors with a clear blue sky in the background and what appears to be a light-colored, possibly fluffy cloud formation in front of them. The overall scene suggests a serene, open-air environment.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 068_FdWLXJSnNYHdNjCnjnuZEh
+Target image: 1 (COCO_val2014_000000391269_blur.jpg)
+Generated description: The image features a person wearing a red shirt and a dark jacket, standing in an indoor setting with a blurred background that includes a hint of greenery. The lighting appears to be soft and natural, suggesting a daytime scene.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 069_D2AD2pPKPXsAEETXVPyPV5
+Target image: 1 (COCO_val2014_000000190700_blur.jpg)
+Generated description: The image features a soft, warm-toned background with a prominent, slightly blurred figure in the center. The colors are muted and earthy, with shades of beige and brown dominating the scene. There's a gentle gradient effect that adds depth to the overall composition.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 070_k9jbok9FBRFgcn2GGRZLeX
+Target image: 1 (COCO_val2014_000000059567_blur.jpg)
+Generated description: The image features a gradient of dark to light shades, creating a smooth transition across the frame without any distinct shapes or objects. The overall effect is abstract and lacks sharp edges or clear focal points.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 077_EbSYwUW6XVqfQJNf9pkVnx
+Target image: 1 (COCO_val2014_000000193401_blur.jpg)
+Generated description: The image features a person wearing a red shirt with a blurred background that includes greenery and possibly a building structure. The individual appears to be outdoors in a natural setting.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 082_cGiZG8ch4Q2bfCL9cE9FQi
+Target image: 1 (COCO_val2014_000000050326_blur.jpg)
+Generated description: The image features a person standing outdoors with a blurred background, possibly a park or garden setting, and there appears to be a body of water in the distance. The individual is wearing a light-colored top and dark pants, and their posture suggests they might be looking towards something off-camera.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 083_JoDPa8R2noHgCzsGY6F23Q
+Target image: 1 (COCO_val2014_000000040842_blur.jpg)
+Generated description: The image features a bright, almost glowing blue light source at its center, surrounded by a gradient of darker shades that transition smoothly into the background. The overall impression is one of a soft, diffused glow emanating from a central point, creating a sense of depth and focus on the luminous area.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 084_jpYy9QmonaLYSmEbEpBsge
+Target image: 1 (COCO_val2014_000000191721_blur.jpg)
+Generated description: The image features a person wearing a bright red outfit standing on what appears to be a reddish-brown surface, possibly dirt or sand, with a blurred green background suggesting an outdoor setting. The individual's pose and attire stand out distinctly against the other images due to the vivid color and the clear contrast between the clothing and the background.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 086_82DLfNxneWqVNpjQi4zjCB
+Target image: 1 (COCO_val2014_000000000724_blur.jpg)
+Generated description: The image features a blurred scene with a prominent red object in the center, surrounded by a mix of muted colors and indistinct shapes. The background appears to be an outdoor setting with hints of greenery and possibly a structure.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 089_SSPbt5fSrj8o2f9aAaZdp4
+Target image: 1 (COCO_val2014_000000017003_blur.jpg)
+Generated description: The image features a vibrant mix of green and yellow hues, with a prominent dark shape in the center, suggesting a tree or bush against a blurred background. The colors are vivid and the composition is dynamic, making it distinct from the other images.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 092_LycEamGLGeYyKbotzNQrbm
+Target image: 1 (COCO_val2014_000000194903_blur.jpg)
+Generated description: The image features a vibrant orange hue with a distinct darker area in the upper left corner, creating a contrast against the lighter background. The overall composition has a smooth gradient effect, transitioning from a lighter shade at the bottom to a deeper tone at the top.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 094_CTiCNB8PENFFcZ9v7AGrAq
+Target image: 1 (COCO_val2014_000000022118_blur.jpg)
+Generated description: The image features two distinct circular shapes in the foreground, set against a blurred background with a gradient of light blue to white, suggesting a sky and possibly a distant horizon. The shapes appear to be slightly out of focus, giving the scene a soft, dreamy quality.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 098_NswjCBbcgQAKLr7YKeNQui
+Target image: 1 (COCO_val2014_000000013168_blur.jpg)
+Generated description: The image features a warm, earthy color palette with a prominent orange hue dominating the lower portion, transitioning into softer tones towards the top. The overall composition appears to be abstract, with blurred shapes and a gradient effect that creates a sense of depth and movement.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 099_ZDmf2r8sEcG5hw5U3vDaSd
+Target image: 1 (COCO_val2014_000000289620_blur.jpg)
+Generated description: The image features a blurred scene with two figures standing on a sandy beach, facing the ocean. The background shows a gradient of light blue to darker shades, suggesting a clear sky and calm sea. The figures appear slightly out of focus, adding a dreamy quality to the scene.
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+======== CYCLE for TARGET INDEX 2 ========
+
+
+----------------------------------------
+Trial: 000_Xf39GqLsVwUGe7ErHgdq44
+Target image: 2 (COCO_val2014_000000359105_blur.jpg)
+Generated description: The image features a person with a light-colored shirt and a dark background, creating a contrast that highlights the subject's upper body. The lighting appears to be soft, casting gentle shadows on the face, which adds depth to the portrait.
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 001_aKfods2rkcEf5uQAmFttZZ
+Target image: 2 (COCO_val2014_000000335119_blur.jpg)
+Generated description: The image features a scene with a prominent structure in the background, possibly a bridge or an archway, with a vehicle partially visible on the left side. The foreground includes a flat expanse of ground, and there's a faint suggestion of a person or figure near the center-right. The overall tone is muted, with soft, diffused lighting.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 003_YEkc8XE8SmupZd36vuvi5P
+Target image: 2 (COCO_val2014_000000249687_blur.jpg)
+Generated description: The image features a prominent red and white pattern, with a distinct diamond shape at its center, surrounded by a blurred background. The colors are vibrant and stand out against the lighter tones around them.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 004_VB3Tm7rg77rEpjpTYuBZnZ
+Target image: 2 (COCO_val2014_000000338826_blur.jpg)
+Generated description: The image features a blurred view of a landscape with a prominent green area in the foreground and a darker, indistinct shape in the background, suggesting a tree or hill. The sky appears to be a mix of light blue and white, indicating either early morning or late afternoon light.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 013_WthoLxjCvzwKsmKQzK5foy
+Target image: 2 (COCO_val2014_000000214919_blur.jpg)
+Generated description: The image features a vibrant green plant with broad leaves, set against a backdrop of warm, earthy tones. The plant appears to be in a natural setting, possibly a garden or a forest floor, with soft lighting that enhances its lush appearance.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 014_RwUsQicUBpeLmoCYMX8ZPC
+Target image: 2 (COCO_val2014_000000092644_blur.jpg)
+Generated description: The image features a soft, muted background with a gradient of light gray tones, transitioning smoothly from darker shades at the top to lighter hues near the bottom. There are no distinct objects or figures present, giving it an abstract and serene quality.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 026_P46gnKM3fMXy9E5usBPHFi
+Target image: 2 (COCO_val2014_000000337247_blur.jpg)
+Generated description: The image features a vibrant mix of colors, including shades of blue, yellow, and red, creating a dynamic and lively composition. The central area is dominated by a bright yellow hue, which contrasts sharply with the surrounding cooler tones. The overall impression is one of energy and movement, with no distinct shapes or objects immediately apparent.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 029_UCEfbeigsYRDkWUU6cPZez
+Target image: 2 (COCO_val2014_000000124712_blur.jpg)
+Generated description: The image features a blend of green and yellow hues with a noticeable blue spot in the center, creating a distinct contrast against the surrounding colors. The overall composition has a soft, blurred effect, giving it a dreamy quality.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 031_TKJu7P3rwMbMr52DcaEoNE
+Target image: 2 (COCO_val2014_000000267521_blur.jpg)
+Generated description: The image features a gradient of light blue and white hues, transitioning smoothly from a darker shade at the bottom to a lighter one at the top, creating a soft, ethereal atmosphere. The overall impression is one of calmness and tranquility, with no distinct shapes or objects present.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 033_TdYvgoHk686bLdRV8cQUZz
+Target image: 2 (COCO_val2014_000000045387_blur.jpg)
+Generated description: The image features a person with a distinctively warm-toned outfit, including a red and yellow patterned top, standing against a light background. The individual appears to be in motion, with their arms slightly raised, suggesting an active pose. The overall composition is slightly blurred, giving it a soft, dreamy quality.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 035_n49vPZ3tnANdnJvMfGztyZ
+Target image: 2 (COCO_val2014_000000166401_blur.jpg)
+Generated description: The image features a warm, golden hue with a soft, blurred background, suggesting an indoor setting with warm lighting. The central focus appears to be a dark, possibly wooden object, which contrasts sharply against the lighter surroundings. The overall tone is calm and inviting, with no distinct sharp edges or bright colors.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 038_9LmxKyXxN8JCfER2MZAAmP
+Target image: 2 (COCO_val2014_000000419074_blur.jpg)
+Generated description: The image features a gradient of soft, muted colors transitioning smoothly from a lighter shade at the center to darker tones towards the edges, creating a subtle and calming visual effect.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 040_DCKLDRfProbXeJ8aSZT9Ha
+Target image: 2 (COCO_val2014_000000195974_blur.jpg)
+Generated description: The image features a gradient of cool tones, transitioning smoothly from dark blue at the top to lighter shades towards the bottom, with a subtle hint of a soft, diffused light source on the right side.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 041_3QHn6AW28dZzz3gNoNUpMw
+Target image: 2 (COCO_val2014_000000083773_blur.jpg)
+Generated description: The image features a blurred figure with a distinct dark outline against a lighter background, suggesting depth and contrast in its composition.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 043_MgeX72ppzXHrehgU2qhmvu
+Target image: 2 (COCO_val2014_000000053697_blur.jpg)
+Generated description: The image features a soft gradient of colors transitioning from light to dark, with a subtle hint of a circular shape in the center, giving it a dreamy and abstract quality.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 044_2CCtpozAj5QAP67odNo3uH
+Target image: 2 (COCO_val2014_000000317070_blur.jpg)
+Generated description: The image features a gradient of soft blues and whites, with a subtle, almost ethereal glow at the center, creating a serene and dreamy atmosphere. The overall composition is minimalist, with no distinct objects or figures present, allowing the viewer to focus on the gentle transitions between colors.
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 047_GcbutkAxNTuoVYBWqcZ2EF
+Target image: 2 (COCO_val2014_000000359843_blur.jpg)
+Generated description: A vertical red pole stands prominently in the foreground, with a blurred background featuring indistinct shapes and muted colors. The pole's sharp contrast against the softer hues behind it makes it the focal point of the image.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 048_XhuayYKd34YZFYLCHqgKJH
+Target image: 2 (COCO_val2014_000000264121_blur.jpg)
+Generated description: The image features a clear blue sky with scattered white clouds, and below, there's a blurred view of what appears to be a landscape or open field. The colors are vibrant, with the blue sky contrasting against the lighter tones of the clouds and the ground.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 051_BeUywrzY9YptGCuU8ktavy
+Target image: 2 (COCO_val2014_000000044934_blur.jpg)
+Generated description: The image features a vibrant mix of colors with a prominent yellow and orange hue dominating the center, surrounded by softer, blurred tones of pink and white. The overall composition has a dreamy, ethereal quality, with the colors blending seamlessly into each other, creating a soft, almost abstract effect.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 063_K7jBopRVF4UL6mnkbRBiw9
+Target image: 2 (COCO_val2014_000000134807_blur.jpg)
+Generated description: The image features a gradient of warm colors, transitioning smoothly from a deep purple at the top to a soft yellow at the bottom, with hints of orange and pink blending in between. The overall effect is a gentle, flowing transition that evokes a sense of calm and warmth.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 064_miaVnypWFPWnnWt7F3kNWc
+Target image: 2 (COCO_val2014_000000350855_blur.jpg)
+Generated description: The image features a blurred figure with warm tones and a gradient background, transitioning from dark at the top to lighter shades towards the bottom. The subject appears to be in motion, with a sense of depth created by the varying brightness levels.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 065_GbFKdkEGtHUgCeWsoDggAK
+Target image: 2 (COCO_val2014_000000315939_blur.jpg)
+Generated description: The image features a blurred scene with a mix of green and brown hues, suggesting an outdoor setting. There appears to be a small, indistinct figure in the foreground, possibly a person or animal, with a blurred background that includes what looks like foliage or trees. The overall impression is one of soft focus and muted colors, creating a sense of depth and mystery.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 066_3tcgywbsLeQuwqKYELedoC
+Target image: 2 (COCO_val2014_000000290602_blur.jpg)
+Generated description: The image features a gradient of blue and purple hues, with a subtle light source creating a soft glow in the upper right corner. The overall composition has a dreamy, ethereal quality, distinct from the other images which have more varied or contrasting colors.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 067_AwprMBTcVE96Ffg36Y8atE
+Target image: 2 (COCO_val2014_000000423113_blur.jpg)
+Generated description: The image features a blurred figure with a distinct purple hue in the center, surrounded by soft, muted tones that blend into each other. The overall composition has a dreamy quality, with no sharp edges or clear details.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 068_FdWLXJSnNYHdNjCnjnuZEh
+Target image: 2 (COCO_val2014_000000427965_blur.jpg)
+Generated description: The image features a person wearing a light-colored shirt with a patterned design, standing in an indoor setting with warm lighting and a blurred background that includes hints of furniture and possibly a window. The individual appears to be in motion, with their head slightly tilted and their hair falling over one shoulder.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 069_D2AD2pPKPXsAEETXVPyPV5
+Target image: 2 (COCO_val2014_000000322987_blur.jpg)
+Generated description: A blurred image with a prominent pink hue in the center, surrounded by a gradient of warm tones that transition into a darker background. The overall impression is soft and somewhat abstract.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 070_k9jbok9FBRFgcn2GGRZLeX
+Target image: 2 (COCO_val2014_000000297578_blur.jpg)
+Generated description: The image features a blurred figure with a distinct pink hue in the center, surrounded by darker tones and soft gradients, creating a sense of depth and mystery.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 077_EbSYwUW6XVqfQJNf9pkVnx
+Target image: 2 (COCO_val2014_000000212545_blur.jpg)
+Generated description: The image features a person standing indoors with a warm, dimly lit background, possibly a living room or a similar setting. The individual appears to be wearing a dark-colored top and is positioned slightly off-center in the frame. The lighting creates soft shadows and highlights on the subject's figure, adding depth to the scene.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 082_cGiZG8ch4Q2bfCL9cE9FQi
+Target image: 2 (COCO_val2014_000000083277_blur.jpg)
+Generated description: The image features a close-up of a hand holding a small object, possibly a toy or a piece of paper, with a blurred background that includes hints of greenery and a hint of blue, suggesting an outdoor setting. The focus on the hand and the object contrasts with the other images, which show more abstract or less detailed scenes.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 083_JoDPa8R2noHgCzsGY6F23Q
+Target image: 2 (COCO_val2014_000000142890_blur.jpg)
+Generated description: The image features a prominent dark area with a lighter, almost white shape in the foreground, creating a stark contrast against the surrounding darkness. The overall composition is minimalistic and evokes a sense of mystery due to its simplicity and the absence of additional details.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 084_jpYy9QmonaLYSmEbEpBsge
+Target image: 2 (COCO_val2014_000000284220_blur.jpg)
+Generated description: The image features a figure in a red outfit standing on an orange surface, with a blurred background that includes shades of green and gray. The figure appears to be slightly turned, and the overall composition suggests an outdoor setting.
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 086_82DLfNxneWqVNpjQi4zjCB
+Target image: 2 (COCO_val2014_000000098268_blur.jpg)
+Generated description: The image features a vibrant mix of green and red hues, with a blurred figure in the foreground that appears to be wearing a red top. The background is softly out of focus, suggesting an outdoor setting with natural light.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 089_SSPbt5fSrj8o2f9aAaZdp4
+Target image: 2 (COCO_val2014_000000135785_blur.jpg)
+Generated description: The image features a soft gradient of colors transitioning from light to dark, with a prominent circular shape in the center that appears to be a lens or a similar object, surrounded by a subtle glow. The overall composition has a minimalist and abstract quality.
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 092_LycEamGLGeYyKbotzNQrbm
+Target image: 2 (COCO_val2014_000000281500_blur.jpg)
+Generated description: The image features a gradient of warm tones, transitioning smoothly from a darker shade at the top to a lighter hue towards the bottom, with a subtle, almost ethereal light spot near the center.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 094_CTiCNB8PENFFcZ9v7AGrAq
+Target image: 2 (COCO_val2014_000000234595_blur.jpg)
+Generated description: The image features a gradient of soft blues and pinks, transitioning smoothly from a lighter shade at the top to a deeper hue towards the bottom, with no distinct objects or landmarks visible.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 098_NswjCBbcgQAKLr7YKeNQui
+Target image: 2 (COCO_val2014_000000178982_blur.jpg)
+Generated description: The image features a prominent, glowing blue orb at the center, surrounded by a gradient of dark and muted tones, creating a mysterious and ethereal atmosphere. The surrounding area is predominantly dark with hints of orange and brown, giving it a somewhat otherworldly feel.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 099_ZDmf2r8sEcG5hw5U3vDaSd
+Target image: 2 (COCO_val2014_000000515792_blur.jpg)
+Generated description: A blurred scene featuring a person standing on sandy ground with a clear blue sky and a hint of green in the background, suggesting a beach setting.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+======== CYCLE for TARGET INDEX 3 ========
+
+
+----------------------------------------
+Trial: 000_Xf39GqLsVwUGe7ErHgdq44
+Target image: 3 (COCO_val2014_000000473237_blur.jpg)
+Generated description: The image features a person with a warm, golden glow, possibly from lighting or a filter, creating a soft and inviting ambiance. The background appears to be a mix of earthy tones, including greens and browns, which complement the subject's attire. There is a noticeable contrast between the subject and the background, making the individual stand out prominently.
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 001_aKfods2rkcEf5uQAmFttZZ
+Target image: 3 (COCO_val2014_000000376677_blur.jpg)
+Generated description: The image features a cluster of dark, indistinct shapes against a lighter background, with a hint of red and blue colors in the lower right corner, suggesting some form of objects or structures. The overall impression is one of a dense, possibly urban scene with a mix of muted tones and subtle highlights.
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 003_YEkc8XE8SmupZd36vuvi5P
+Target image: 3 (COCO_val2014_000000331727_blur.jpg)
+Generated description: The image features a central, dark, circular shape with a gradient background transitioning from light blue at the edges to a darker shade towards the center. The overall composition is simple and minimalistic, with no additional elements or distractions.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 004_VB3Tm7rg77rEpjpTYuBZnZ
+Target image: 3 (COCO_val2014_000000436138_blur.jpg)
+Generated description: The image features a close-up view of what appears to be a person's hand holding a small object, possibly a piece of fruit or a flower, with a blurred background that includes hints of greenery and a hint of white, suggesting a natural setting. The focus on the hand and the object contrasts with the other images, which are more abstract and lack distinct foreground elements.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 013_WthoLxjCvzwKsmKQzK5foy
+Target image: 3 (COCO_val2014_000000256660_blur.jpg)
+Generated description: The image features a vibrant mix of colors with a prominent orange hue dominating the foreground, transitioning into a softer green and brown background. The composition has a blurred effect, giving it an abstract quality.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 014_RwUsQicUBpeLmoCYMX8ZPC
+Target image: 3 (COCO_val2014_000000111909_blur.jpg)
+Generated description: The image features a clear, light-colored surface with a blurred background that includes a mix of green and brown tones, suggesting an outdoor setting with trees or foliage in the distance. The overall impression is one of a serene, open space, possibly a park or a field.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 026_P46gnKM3fMXy9E5usBPHFi
+Target image: 3 (COCO_val2014_000000344758_blur.jpg)
+Generated description: The image features a soft, pastel-colored gradient with a prominent yellow hue in the center, transitioning into lighter shades towards the edges. The overall effect is dreamy and ethereal, with a subtle blend of colors creating a gentle, almost cloud-like appearance.
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 029_UCEfbeigsYRDkWUU6cPZez
+Target image: 3 (COCO_val2014_000000377588_blur.jpg)
+Generated description: The image features a gradient of soft, muted colors transitioning from a light teal at the top to a pale green and then to a warm orange hue near the bottom. The overall effect is smooth and somewhat abstract, with no distinct shapes or objects present.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 031_TKJu7P3rwMbMr52DcaEoNE
+Target image: 3 (COCO_val2014_000000283498_blur.jpg)
+Generated description: The image features a gradient of cool tones, transitioning from a deep blue at the bottom to a lighter, almost teal hue towards the top. There's a subtle, hazy quality to the colors, giving it an ethereal and dreamy appearance. The overall impression is one of calmness and tranquility, with no distinct shapes or objects present.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 033_TdYvgoHk686bLdRV8cQUZz
+Target image: 3 (COCO_val2014_000000360318_blur.jpg)
+Generated description: The image features a close-up of a textured surface with a mix of earthy tones, including shades of brown and beige. The focus is on the intricate details of the texture, which appears to be natural, possibly resembling bark or a similar organic material. The lighting is soft, highlighting the subtle variations in color and depth within the texture.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 035_n49vPZ3tnANdnJvMfGztyZ
+Target image: 3 (COCO_val2014_000000213224_blur.jpg)
+Generated description: The image features a vibrant mix of colors with a prominent green hue dominating the center, surrounded by soft, warm tones in the background. The overall composition has a blurred effect, giving it an abstract and dreamy quality.
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 038_9LmxKyXxN8JCfER2MZAAmP
+Target image: 3 (COCO_val2014_000000455943_blur.jpg)
+Generated description: The image features a square frame with a gradient background transitioning from light at the center to darker shades towards the edges, creating a subtle vignette effect. The corners are softly rounded, giving the impression of a gentle curve rather than sharp angles.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 040_DCKLDRfProbXeJ8aSZT9Ha
+Target image: 3 (COCO_val2014_000000196442_blur.jpg)
+Generated description: The image features a gradient of light blue to white, with a prominent, soft, and slightly curved shape in the center, resembling a cloud or a wave, which contrasts subtly against the lighter background.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 041_3QHn6AW28dZzz3gNoNUpMw
+Target image: 3 (COCO_val2014_000000174457_blur.jpg)
+Generated description: The image features a blurred figure standing in a grassy area with a backdrop of trees and a hint of a path leading into the distance. The colors are predominantly green and brown, suggesting an outdoor setting.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 043_MgeX72ppzXHrehgU2qhmvu
+Target image: 3 (COCO_val2014_000000454907_blur.jpg)
+Generated description: The image features a vibrant orange hue in the background, with a blurred figure in the foreground that appears to be wearing a dark outfit. The overall composition suggests an indoor setting with warm lighting.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 044_2CCtpozAj5QAP67odNo3uH
+Target image: 3 (COCO_val2014_000000339676_blur.jpg)
+Generated description: The image features a prominent, slightly blurred figure in the center, surrounded by a gradient of soft blues and whites, with a subtle hint of green near the bottom right corner. The overall composition has a dreamy, ethereal quality.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 047_GcbutkAxNTuoVYBWqcZ2EF
+Target image: 3 (COCO_val2014_000000453390_blur.jpg)
+Generated description: The image features a vibrant yellow object with a red circular element attached to it, set against a blurred background of green and brown hues. The red circle appears to be a button or a tag, contrasting sharply with the yellow base.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 048_XhuayYKd34YZFYLCHqgKJH
+Target image: 3 (COCO_val2014_000000271177_blur.jpg)
+Generated description: The image features a close-up of a person with a blurred background, where the focus is on the individual's face and upper body. The lighting appears to be natural, possibly outdoors, with soft shadows and highlights that suggest a gentle light source. The colors are muted, with earthy tones dominating the scene.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 051_BeUywrzY9YptGCuU8ktavy
+Target image: 3 (COCO_val2014_000000050422_blur.jpg)
+Generated description: The image features a vibrant mix of colors with a prominent yellow and orange hue dominating the scene. There's a distinct circular shape in the center, surrounded by a gradient of warm tones that transition smoothly into cooler shades towards the edges. The overall composition has a soft, dreamy quality, with subtle hints of green and blue adding depth to the background.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 063_K7jBopRVF4UL6mnkbRBiw9
+Target image: 3 (COCO_val2014_000000198625_blur.jpg)
+Generated description: The image features a mix of warm and cool tones, with a prominent yellow hue blending into soft purples and blues. The background appears to have a gradient effect, transitioning smoothly from one color to another, creating a serene and abstract atmosphere.
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 064_miaVnypWFPWnnWt7F3kNWc
+Target image: 3 (COCO_val2014_000000363922_blur.jpg)
+Generated description: The image features a silhouette of a person against a warm, golden background with soft, blurred edges. The lighting creates a gentle glow around the figure, giving it a dreamy and ethereal quality.
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 065_GbFKdkEGtHUgCeWsoDggAK
+Target image: 3 (COCO_val2014_000000388398_blur.jpg)
+Generated description: The image features two individuals standing close together, with one person wearing a blue top and the other in a red garment. The background appears to be an outdoor setting with greenery, suggesting a park or garden environment.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 066_3tcgywbsLeQuwqKYELedoC
+Target image: 3 (COCO_val2014_000000465489_blur.jpg)
+Generated description: The image features a gradient of soft blues and whites, with a subtle hint of a darker blue in the upper left corner, creating a serene and abstract atmosphere. The overall composition is smooth and lacks distinct shapes or objects, giving it an ethereal quality.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 067_AwprMBTcVE96Ffg36Y8atE
+Target image: 3 (COCO_val2014_000000483358_blur.jpg)
+Generated description: The image features a close-up of a person wearing sunglasses with a blue tint, set against a blurred background that includes hints of greenery and possibly a body of water. The focus on the sunglasses and the contrast between the bright lens and the darker surroundings make this image distinct from the others.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 068_FdWLXJSnNYHdNjCnjnuZEh
+Target image: 3 (COCO_val2014_000000468162_blur.jpg)
+Generated description: The image features a close-up of a person with a blurred background, where the focus is on the individual's face and upper body. The lighting appears soft and natural, suggesting an outdoor setting. There are hints of greenery in the background, indicating a possible park or garden environment. The overall tone is warm and slightly hazy, giving the photo a dreamy quality.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 069_D2AD2pPKPXsAEETXVPyPV5
+Target image: 3 (COCO_val2014_000000475330_blur.jpg)
+Generated description: The image features a vibrant red background with a blurred figure in the foreground, which appears to be a person wearing a yellow top and dark pants. The colors are warm and the overall composition suggests a casual, possibly candid moment captured against a bold backdrop.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 070_k9jbok9FBRFgcn2GGRZLeX
+Target image: 3 (COCO_val2014_000000386089_blur.jpg)
+Generated description: The image features a person standing outdoors with a blurred background, possibly indicating a natural setting like a park or a beach. The individual appears to be wearing dark clothing and has a neutral expression. The lighting suggests it might be either early morning or late afternoon, given the warm tones in the sky.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 077_EbSYwUW6XVqfQJNf9pkVnx
+Target image: 3 (COCO_val2014_000000318888_blur.jpg)
+Generated description: The image features a person standing outdoors with a bright blue sky in the background. The individual appears to be wearing a light-colored top and dark pants. The scene suggests a sunny day, with the greenery visible around the person adding a natural element to the composition.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 082_cGiZG8ch4Q2bfCL9cE9FQi
+Target image: 3 (COCO_val2014_000000285314_blur.jpg)
+Generated description: The image features a person wearing a light-colored shirt and dark pants, standing outdoors with a blurred background that includes greenery and possibly a building. The individual appears to be in motion, with their body slightly tilted forward, suggesting they might be walking or running. The overall scene has a soft focus, emphasizing the subject over the details of the surroundings.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 083_JoDPa8R2noHgCzsGY6F23Q
+Target image: 3 (COCO_val2014_000000232383_blur.jpg)
+Generated description: The image features a bright, glowing light source at the bottom, surrounded by a dark, almost black background. The light appears to be emanating from a small, circular area, creating a stark contrast with the surrounding darkness. There are no other distinct objects or colors present in the image.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 084_jpYy9QmonaLYSmEbEpBsge
+Target image: 3 (COCO_val2014_000000501898_blur.jpg)
+Generated description: The image features a person wearing a vibrant pink outfit, standing on an orange surface with a blurred background that includes shades of green and blue. The individual appears to be in motion, possibly dancing or performing a dynamic pose.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 086_82DLfNxneWqVNpjQi4zjCB
+Target image: 3 (COCO_val2014_000000136400_blur.jpg)
+Generated description: The image features a vibrant red object with a distinct circular shape, set against a background that includes shades of green and beige. The red element appears to be a prominent focal point, contrasting sharply with the surrounding colors.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 089_SSPbt5fSrj8o2f9aAaZdp4
+Target image: 3 (COCO_val2014_000000251857_blur.jpg)
+Generated description: The image features a vibrant mix of green and yellow hues, with a distinct circular shape in the center that appears to be a flower or a burst of light, surrounded by soft, blurred edges. The background is a gradient of white to light blue, creating a serene and dreamy atmosphere.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 092_LycEamGLGeYyKbotzNQrbm
+Target image: 3 (COCO_val2014_000000428254_blur.jpg)
+Generated description: The image features a gradient background transitioning from a warm orange hue at the bottom to a cooler grayish tone towards the top, with a subtle, indistinct shape in the center that appears to be a faint silhouette of a person or object.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 094_CTiCNB8PENFFcZ9v7AGrAq
+Target image: 3 (COCO_val2014_000000388846_blur.jpg)
+Generated description: The image features a blurred view of what appears to be a landscape with a mix of earthy tones and a hint of greenery in the background, suggesting a natural setting. The colors are muted and blend together softly, creating a serene and somewhat abstract scene.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 098_NswjCBbcgQAKLr7YKeNQui
+Target image: 3 (COCO_val2014_000000325666_blur.jpg)
+Generated description: The image features a prominent green hue in the center, surrounded by a mix of warm and cool tones, creating a soft gradient effect. The background appears to be a textured surface with subtle variations in color and light, giving it a slightly abstract quality.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 099_ZDmf2r8sEcG5hw5U3vDaSd
+Target image: 3 (COCO_val2014_000000536416_blur.jpg)
+Generated description: The image features a clear blue sky with scattered white clouds, and the ground appears to be sandy, suggesting a beach setting. There is a distinct shadow cast on the sand, indicating the presence of an object or person just out of view. The overall scene has a bright and airy feel, typical of a sunny day at the beach.
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+======== CYCLE for TARGET INDEX 4 ========
+
+
+----------------------------------------
+Trial: 000_Xf39GqLsVwUGe7ErHgdq44
+Target image: 4 (COCO_val2014_000000553667_blur.jpg)
+Generated description: The image features a person wearing a green top with a yellow accent on the shoulder, standing against a dark background. The lighting highlights the upper part of their body, creating a contrast between the bright colors and the darker surroundings.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 001_aKfods2rkcEf5uQAmFttZZ
+Target image: 4 (COCO_val2014_000000579036_blur.jpg)
+Generated description: The image features a blurred scene with a prominent red object in the foreground, partially obscuring what appears to be a tall structure or building in the background. The overall composition suggests an urban setting, possibly a cityscape viewed through a window or a similar translucent surface.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 003_YEkc8XE8SmupZd36vuvi5P
+Target image: 4 (COCO_val2014_000000396542_blur.jpg)
+Generated description: The image features a blurred figure with distinct red and blue tones, standing against a neutral background. The colors are vivid and stand out prominently in contrast to the surrounding area.
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 004_VB3Tm7rg77rEpjpTYuBZnZ
+Target image: 4 (COCO_val2014_000000479099_blur.jpg)
+Generated description: The image features a blurred view of a grassy area with a mix of green and brown tones, suggesting a natural outdoor setting. The background includes indistinct shapes that could be trees or bushes, adding depth to the scene. The overall impression is one of a serene, possibly rural landscape.
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 013_WthoLxjCvzwKsmKQzK5foy
+Target image: 4 (COCO_val2014_000000558640_blur.jpg)
+Generated description: The image features a vibrant mix of colors with a prominent green and yellow hue dominating the scene. There appears to be a blurred figure in the background, possibly a person, adding depth to the composition. The overall impression is one of motion and energy, with soft, diffused lighting enhancing the dreamy quality of the photograph.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 014_RwUsQicUBpeLmoCYMX8ZPC
+Target image: 4 (COCO_val2014_000000435308_blur.jpg)
+Generated description: The image features a body of water with a small, dark object floating on its surface, surrounded by a blurred background of greenery and sky. The contrast between the dark object and the lighter water creates a focal point in the scene.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 026_P46gnKM3fMXy9E5usBPHFi
+Target image: 4 (COCO_val2014_000000353558_blur.jpg)
+Generated description: The image features a swirling pattern with warm tones of orange and yellow, creating a dynamic and abstract effect. The colors blend smoothly into each other, giving a sense of movement and depth. This image stands out due to its distinct circular motion and the harmonious interplay of the warm hues.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 029_UCEfbeigsYRDkWUU6cPZez
+Target image: 4 (COCO_val2014_000000541123_blur.jpg)
+Generated description: The image features a vibrant mix of colors with a prominent purple hue in the upper right corner, contrasting sharply against a lighter green background. There's a subtle circular pattern near the center, adding depth to the composition. The overall impression is one of dynamic color blending and a sense of movement.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 031_TKJu7P3rwMbMr52DcaEoNE
+Target image: 4 (COCO_val2014_000000347253_blur.jpg)
+Generated description: The image features a blend of warm and cool tones, with a prominent yellowish hue in the center, contrasting against darker areas on either side. The overall composition has a soft, blurred quality, giving it an ethereal and dreamy appearance.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 033_TdYvgoHk686bLdRV8cQUZz
+Target image: 4 (COCO_val2014_000000460732_blur.jpg)
+Generated description: The image features a person with a distinctively large, round object in their hands, which appears to be a ball or a similar spherical item. The background is predominantly white, and there's a hint of greenery on the left side, suggesting an outdoor setting. The overall composition is slightly blurred, giving it a soft, dreamy quality.
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 035_n49vPZ3tnANdnJvMfGztyZ
+Target image: 4 (COCO_val2014_000000290477_blur.jpg)
+Generated description: The image features a vibrant mix of green and purple hues, with a distinct circular shape in the center, surrounded by a gradient of warm tones. The background appears to have a soft, blurred texture, giving it an ethereal quality.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 038_9LmxKyXxN8JCfER2MZAAmP
+Target image: 4 (COCO_val2014_000000551650_blur.jpg)
+Generated description: The image features a gradient of dark to light shades with a distinct horizontal band of lighter tones near the bottom, creating a subtle contrast against the darker upper portion.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 040_DCKLDRfProbXeJ8aSZT9Ha
+Target image: 4 (COCO_val2014_000000549789_blur.jpg)
+Generated description: The image features a predominantly white background with subtle gray and black tones scattered throughout, creating a textured appearance. There are no distinct shapes or objects, but rather an abstract blend of light and shadow that gives it a soft, ethereal quality.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 041_3QHn6AW28dZzz3gNoNUpMw
+Target image: 4 (COCO_val2014_000000452263_blur.jpg)
+Generated description: The image features a prominent, dark circular shape with a lighter, textured area in its center, set against a soft, gradient background that transitions from light green to darker shades towards the edges. The overall composition is simple and minimalistic, with no additional elements or distractions.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 043_MgeX72ppzXHrehgU2qhmvu
+Target image: 4 (COCO_val2014_000000548523_blur.jpg)
+Generated description: The image features a dark, almost black background with a faint, indistinct shape in the center, which appears to be a small, light-colored object or figure. The overall impression is one of minimalism and obscurity, with no clear details or distinct elements that stand out.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 044_2CCtpozAj5QAP67odNo3uH
+Target image: 4 (COCO_val2014_000000408534_blur.jpg)
+Generated description: The image features a gradient of soft blues and whites, with a prominent, rounded shape in the center that appears to be a cloud or a large, diffuse object against a lighter background. The overall composition is serene and lacks sharp edges, giving it a dreamy, ethereal quality.
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 047_GcbutkAxNTuoVYBWqcZ2EF
+Target image: 4 (COCO_val2014_000000483941_blur.jpg)
+Generated description: The image features a person wearing a white shirt and dark pants, standing outdoors with a blurred background that includes greenery and possibly a building. The individual appears to be in motion, with their arms slightly raised, suggesting an action pose.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 048_XhuayYKd34YZFYLCHqgKJH
+Target image: 4 (COCO_val2014_000000566249_blur.jpg)
+Generated description: The image features a close-up of a person's hand holding a small object, possibly a piece of jewelry or a tool, with a blurred background that includes hints of greenery and a hint of a yellowish surface. The focus is on the hand and the object, creating a sense of intimacy and detail in the foreground.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 051_BeUywrzY9YptGCuU8ktavy
+Target image: 4 (COCO_val2014_000000317798_blur.jpg)
+Generated description: The image features a close-up of a person's face with a warm, reddish hue, possibly due to lighting or a filter. The background appears blurred and indistinct, drawing focus to the subject's facial features. The overall tone suggests an intimate or personal setting.
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 063_K7jBopRVF4UL6mnkbRBiw9
+Target image: 4 (COCO_val2014_000000572850_blur.jpg)
+Generated description: The image features a prominent white object with a distinct shape, set against a dark background. The object appears to have a smooth surface and is centrally positioned within the frame. The contrast between the white object and the dark surroundings makes it stand out distinctly from the other images in the set.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 064_miaVnypWFPWnnWt7F3kNWc
+Target image: 4 (COCO_val2014_000000447854_blur.jpg)
+Generated description: The image features a person wearing a light-colored top with a green accent, standing in what appears to be an indoor setting with warm lighting. The background includes a yellowish hue and some indistinct shapes, possibly furniture or decor.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 065_GbFKdkEGtHUgCeWsoDggAK
+Target image: 4 (COCO_val2014_000000504977_blur.jpg)
+Generated description: The image features a person with light-colored hair, wearing a dark outfit, standing outdoors in a natural setting with greenery in the background. The individual appears to be facing slightly to the side, and there is a soft focus on the surroundings, giving the scene a serene and somewhat abstract quality.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 066_3tcgywbsLeQuwqKYELedoC
+Target image: 4 (COCO_val2014_000000514518_blur.jpg)
+Generated description: The image features a gradient background with a soft blend of light blue and white hues, creating a serene and minimalist atmosphere. The colors transition smoothly from darker shades at the top to lighter tones towards the bottom, giving the impression of a calm sky or a distant horizon. There are no distinct objects or figures present, emphasizing the abstract nature of the scene.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 067_AwprMBTcVE96Ffg36Y8atE
+Target image: 4 (COCO_val2014_000000485212_blur.jpg)
+Generated description: The image features a person standing outdoors with a body of water in the background, possibly a lake or sea, under a clear sky. The individual appears to be wearing light-colored clothing and is positioned slightly off-center, with the horizon line dividing the frame into two distinct sections.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 068_FdWLXJSnNYHdNjCnjnuZEh
+Target image: 4 (COCO_val2014_000000535312_blur.jpg)
+Generated description: The image features a close-up of a person's face with a blurred background, showing a mix of warm and cool tones. The individual appears to be wearing glasses, and there is a hint of greenery in the background, suggesting an outdoor setting. The overall composition is soft and slightly out of focus, giving it a dreamy quality.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 069_D2AD2pPKPXsAEETXVPyPV5
+Target image: 4 (COCO_val2014_000000516766_blur.jpg)
+Generated description: The image features a vibrant red background with a blurred figure in the foreground, wearing what appears to be a blue and white outfit. The contrast between the bright red backdrop and the lighter tones of the clothing creates a striking visual effect.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 070_k9jbok9FBRFgcn2GGRZLeX
+Target image: 4 (COCO_val2014_000000391199_blur.jpg)
+Generated description: The image features a person with short hair and a light-colored shirt, standing in an outdoor setting with a blurred background that includes hints of greenery and possibly a building. The lighting suggests it might be daytime.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 077_EbSYwUW6XVqfQJNf9pkVnx
+Target image: 4 (COCO_val2014_000000468043_blur.jpg)
+Generated description: The image features a person standing outdoors with a blurred background that includes a mix of greenery and a hint of a blue sky. The individual appears to be wearing a dark-colored top and light-colored pants, with their arms slightly raised in a gesture that suggests they might be dancing or moving energetically. The overall scene has a soft, dreamy quality due to the blurriness.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 082_cGiZG8ch4Q2bfCL9cE9FQi
+Target image: 4 (COCO_val2014_000000574666_blur.jpg)
+Generated description: The image features a person sitting on the ground with their legs crossed, wearing jeans and a dark top. The background appears to be an outdoor setting with some greenery visible.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 083_JoDPa8R2noHgCzsGY6F23Q
+Target image: 4 (COCO_val2014_000000375509_blur.jpg)
+Generated description: The image features a person standing indoors with a blurred background, wearing what appears to be a dark outfit and light-colored shoes. The setting includes a wooden floor and a wall with a visible door frame in the background.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 084_jpYy9QmonaLYSmEbEpBsge
+Target image: 4 (COCO_val2014_000000580847_blur.jpg)
+Generated description: The image features a person wearing a red outfit with a distinct pattern on the back, standing against a background that includes a mix of green and orange hues. The overall composition suggests an outdoor setting with a blurred effect that emphasizes the subject in the foreground.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 086_82DLfNxneWqVNpjQi4zjCB
+Target image: 4 (COCO_val2014_000000321308_blur.jpg)
+Generated description: The image features a vibrant mix of green and pink hues, with a prominent circular shape in the center that appears to be a flower or a similar object. The background is softly blurred, drawing attention to the central element.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 089_SSPbt5fSrj8o2f9aAaZdp4
+Target image: 4 (COCO_val2014_000000476258_blur.jpg)
+Generated description: The image features a close-up of a person's face with a warm, golden hue dominating the scene. The background appears to be softly blurred, drawing attention to the subject's facial features and the gentle lighting that highlights their skin tone.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 092_LycEamGLGeYyKbotzNQrbm
+Target image: 4 (COCO_val2014_000000567276_blur.jpg)
+Generated description: The image features a gradient of warm tones, transitioning from a deep orange at the bottom to a lighter, almost teal hue at the top. The colors blend smoothly without distinct boundaries, creating a soft and uniform appearance across the frame.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 094_CTiCNB8PENFFcZ9v7AGrAq
+Target image: 4 (COCO_val2014_000000490244_blur.jpg)
+Generated description: The image features a vibrant mix of colors, including bright yellow and blue hues, with a distinct pattern that resembles a stylized landscape or abstract art piece. The background includes a gradient of light to darker shades, giving it a dynamic and energetic feel.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 098_NswjCBbcgQAKLr7YKeNQui
+Target image: 4 (COCO_val2014_000000568961_blur.jpg)
+Generated description: The image features a prominent, elongated shape with a gradient of warm colors, transitioning from yellow to orange and red hues. The background is darker, with subtle hints of blue and green, creating a contrast that highlights the central form. The overall composition suggests a close-up view of an object or surface with a smooth texture.
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 099_ZDmf2r8sEcG5hw5U3vDaSd
+Target image: 4 (COCO_val2014_000000566049_blur.jpg)
+Generated description: The image features a clear blue sky and a sandy beach, with a person standing in the distance near the water's edge. The horizon line is distinct, separating the bright blue sky from the lighter sand below. There are no other people or objects in the foreground, making the individual appear isolated against the vastness of the beach and sky.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+JOB STATISTICS
+==============
+Job ID: 12491148
+Cluster: snellius
+User/Group: sbaratella/sbaratella
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 16
+CPU Utilized: 00:04:13
+CPU Efficiency: 5.40% of 01:18:08 core-walltime
+Job Wall-clock time: 00:04:53
+Memory Utilized: 2.28 GB
+Memory Efficiency: 7.59% of 30.00 GB (30.00 GB/node)

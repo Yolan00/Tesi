@@ -1,0 +1,92 @@
+Loading model...
+Loading checkpoint shards:   0%|          | 0/5 [00:00<?, ?it/s]Loading checkpoint shards:  20%|██        | 1/5 [00:04<00:17,  4.29s/it]Loading checkpoint shards:  40%|████      | 2/5 [00:07<00:11,  3.93s/it]Loading checkpoint shards:  60%|██████    | 3/5 [00:11<00:07,  3.90s/it]Loading checkpoint shards:  80%|████████  | 4/5 [00:15<00:03,  3.83s/it]Loading checkpoint shards: 100%|██████████| 5/5 [00:16<00:00,  2.84s/it]Loading checkpoint shards: 100%|██████████| 5/5 [00:16<00:00,  3.33s/it]
+Using a slow image processor as `use_fast` is unset and a slow processor was saved with this model. `use_fast=True` will be the default behavior in v4.52, even if the model was saved with a slow processor. This will result in minor differences in outputs. You'll still be able to use a slow processor with `use_fast=False`.
+You have video processor config saved in `preprocessor.json` file which is deprecated. Video processor configs should be saved in their own `video_preprocessor.json` file. You can rename the file or load and save the processor back which renames it automatically. Loading from `preprocessor.json` will be removed in v5.0.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+000_Xf39GqLsVwUGe7ErHgdq44: The image features a person in formal attire, holding a plate and eating a sandwich, with a bright, well-lit background that includes visible structural elements like beams and a ceiling light fixture.
+001_aKfods2rkcEf5uQAmFttZZ: A bustling urban scene featuring a large bus driving on a bridge with multiple lanes and traffic lights overhead. The bridge has a distinctive metal framework, and the sky above is partly cloudy.
+003_YEkc8XE8SmupZd36vuvi5P: A dynamic scene captures an individual skiing down a snowy slope, dressed in dark winter gear and a vibrant yellow helmet adorned with a patterned design. The skier's posture suggests motion and control, with ski poles planted firmly for balance. The backdrop features a clear blue sky, contrasting sharply with the pristine white snow.
+004_VB3Tm7rg77rEpjpTYuBZnZ: A sprawling campus with a prominent clock tower, classical architecture, and lush green lawns, surrounded by mature trees under a clear blue sky.
+013_WthoLxjCvzwKsmKQzK5foy: A bento box meal featuring grilled chicken with sesame seeds, steamed broccoli, a carrot stick, and a portion of brown rice. The arrangement is vibrant and colorful, with the green broccoli and orange carrot providing a striking contrast to the brown rice and golden-brown chicken.
+014_RwUsQicUBpeLmoCYMX8ZPC: A vibrant scene featuring a small motorboat gliding across calm waters, surrounded by lush greenery and dense foliage in the background. The boat is painted in bright colors with a visible outboard motor at the stern, and two individuals are seated inside, enjoying the serene environment.
+026_P46gnKM3fMXy9E5usBPHFi: A vibrant bowl filled with ripe bananas and apples sits atop a colorful polka-dotted tablecloth, creating a cheerful and inviting scene.
+029_UCEfbeigsYRDkWUU6cPZez: The image depicts an aerial view of a baseball field during a game. The batter is at home plate, preparing to hit, with the pitcher on the mound in the background. The field is marked with clear white lines and bases, and the grass appears well-maintained.
+031_TKJu7P3rwMbMr52DcaEoNE: A large commercial airplane is parked at an airport gate, connected to a jet bridge for passenger boarding. The aircraft features a prominent red and white logo on its tail fin, and the scene includes ground service equipment and a clear view of the tarmac.
+033_TdYvgoHk686bLdRV8cQUZz: A monkey is holding a banana in its mouth and a bag of snacks in its hand, set against a natural outdoor background with a sandy ground.
+035_n49vPZ3tnANdnJvMfGztyZ: The image showcases a cozy dining area with a vibrant patchwork quilt hanging on the wall above a table set for four. The table is adorned with red placemats and a centerpiece featuring a vase of fresh flowers. The chairs around the table have black leather upholstery, adding to the warm and inviting atmosphere.
+038_9LmxKyXxN8JCfER2MZAAmP: The image features two airplanes flying in formation against a dramatic sky filled with dark, swirling clouds. The planes appear to be small and are positioned at an angle, suggesting they are in mid-flight. The contrast between the dark clouds and the lighter planes creates a striking visual effect.
+040_DCKLDRfProbXeJ8aSZT9Ha: A skier in a vibrant blue and yellow outfit is captured mid-air against a clear blue sky, performing an impressive jump with snow spraying around them. The skis are prominently visible, and the dynamic pose suggests a high level of skill and athleticism.
+041_3QHn6AW28dZzz3gNoNUpMw: A large brown bear rests in a lush green meadow, surrounded by tall grass and dense foliage. The bear's fur is thick and dark, blending subtly with the natural environment. Its relaxed posture suggests a moment of calm in its habitat.
+043_MgeX72ppzXHrehgU2qhmvu: The image showcases a modern kitchen with light wood paneling on the wall, a stainless steel range hood above a black stove, and white cabinetry with multiple drawers. A white refrigerator stands to the left, adorned with a red note, and there's a countertop with various kitchen items including a toaster, a kettle, and some bottles. The scene is well-lit, giving a clean and organized
+044_2CCtpozAj5QAP67odNo3uH: A dynamic scene captures a person engaged in kiteboarding, suspended mid-air above the ocean's surface. The individual is dressed in dark clothing and is holding onto a control bar connected to a kite, which is not visible but implied by the position of their arms. The water below is textured with ripples and small waves, suggesting movement and wind. The sky is not visible, focusing attention on the action
+047_GcbutkAxNTuoVYBWqcZ2EF: A vibrant yellow fire hydrant with a blue top stands prominently in a residential area. The hydrant has the number "296" clearly marked on its side and is surrounded by fallen autumn leaves, indicating a seasonal setting. In the background, there's a wooden fence and trees with yellowing foliage, adding to the autumnal atmosphere.
+048_XhuayYKd34YZFYLCHqgKJH: A sleek black motorcycle with chrome accents and white-walled tires is parked on a paved area, surrounded by other motorcycles. The setting appears to be an outdoor parking lot near a building with large windows, and there are people walking in the background.
+051_BeUywrzY9YptGCuU8ktavy: A slice of deep-dish pizza sits on a white plate, topped with a generous layer of red sauce and melted cheese, accompanied by two large mugs of beer in the background, set against a checkered tablecloth.
+063_K7jBopRVF4UL6mnkbRBiw9: The image showcases a close-up of a person wearing a dark brown suit jacket paired with a light blue dress shirt and a matching dark brown tie. The background appears to be an outdoor setting with greenery visible in the upper left corner.
+064_miaVnypWFPWnnWt7F3kNWc: The image shows two individuals standing in front of a television, each holding a white controller, seemingly engaged in a video game. The room has a warm ambiance with beige walls and a visible door in the background. The scene captures an interactive moment, likely involving motion-based gameplay.
+065_GbFKdkEGtHUgCeWsoDggAK: The image features a person seated on a wooden bench in an outdoor setting with greenery and a body of water visible in the background. The individual is dressed in a vibrant orange outfit adorned with intricate patterns, complemented by a beige shawl draped over their shoulders. The person's arms are crossed, and they appear to be wearing dark sunglasses. The scene suggests a calm, possibly autumnal day due
+066_3tcgywbsLeQuwqKYELedoC: The image captures an action-packed moment of a skier mid-air, performing a jump over a snowy slope. The skier is dressed in a vibrant orange and white outfit, with skis extended outward, showcasing dynamic movement against a backdrop of rugged mountain terrain and evergreen trees. The scene is framed by a clear blue sky, adding to the exhilarating atmosphere of the winter sports setting.
+067_AwprMBTcVE96Ffg36Y8atE: A dynamic scene captures a surfer mid-action, skillfully riding a wave with a white surfboard marked with a red and black logo. The ocean's vibrant blue contrasts sharply with the white spray, emphasizing the energy and movement of the moment.
+068_FdWLXJSnNYHdNjCnjnuZEh: The image depicts a cozy living room with a mix of furniture and personal items scattered around. There's a brown leather couch facing a television mounted on the wall, surrounded by various bags and boxes, suggesting a move-in or packing scenario. A dining table with chairs is visible in the background, along with a bicycle leaning against the wall near the entrance. The room has wooden flooring and is warmly lit,
+069_D2AD2pPKPXsAEETXVPyPV5: The image features a plush teddy bear dressed in a vibrant red and blue outfit with a matching hat, sitting on a light-colored surface. The bear is accompanied by a smaller, similar-looking teddy bear, both positioned close together against a plain background.
+070_k9jbok9FBRFgcn2GGRZLeX: The image features a black and white photograph of three individuals in an outdoor setting. The central figure is a man with curly hair, wearing a striped shirt and a watch on his left wrist, holding a phone to his ear. He appears to be engaged in a conversation. Behind him, another man in a striped shirt and sunglasses is partially visible, while a woman with short hair, wearing a sleeveless
+077_EbSYwUW6XVqfQJNf9pkVnx: A person in a red jacket and a black and red beanie is crouching down, holding a camera, with a small white pony standing nearby on a grassy area surrounded by trees and greenery.
+082_cGiZG8ch4Q2bfCL9cE9FQi: A person stands on a sandy beach, holding a kite string and raising one arm in the air, with the ocean waves crashing behind them. A green chair is partially visible to the right, adding a pop of color against the natural backdrop.
+083_JoDPa8R2noHgCzsGY6F23Q: The image features a computer monitor displaying a coding interface with lines of code visible on the screen. Above the monitor, there is a cat perched on a shelf, adding a cozy and relatable touch to the scene. The background includes a dark curtain and part of a desk setup, suggesting a home office environment.
+084_jpYy9QmonaLYSmEbEpBsge: A young tennis player in a striped sleeveless shirt and red shorts is captured mid-swing on a clay court, holding a tennis racket with both hands. The background shows a green fence and some trees, along with a partially visible sign that includes a phone number.
+086_82DLfNxneWqVNpjQi4zjCB: The image features a red octagonal stop sign with white lettering, standing on a metal pole in an outdoor setting. Surrounding the sign are trees and a paved area, suggesting a street or parking lot environment. The sky is clear with some scattered clouds, indicating a sunny day.
+089_SSPbt5fSrj8o2f9aAaZdp4: A dynamic scene captures a person skateboarding outdoors on a sunny day. The individual is wearing a beanie and sunglasses, with a casual outfit consisting of a jacket and jeans. The background features blurred greenery and a building, suggesting motion and an urban park setting.
+092_LycEamGLGeYyKbotzNQrbm: A dynamic tennis player in action on a clay court, wearing a red top and white visor, poised to strike with her racket. The vibrant orange surface contrasts sharply with the player's attire and the green backdrop.
+094_CTiCNB8PENFFcZ9v7AGrAq: A vibrant beach scene with people relaxing under colorful umbrellas and on the sand, surrounded by a lively atmosphere under a bright blue sky.
+098_NswjCBbcgQAKLr7YKeNQui: A nighttime scene at a train station platform, illuminated by a bright overhead light. A train is stopped on the tracks, with its doors open and some passengers visible inside. A signpost stands prominently in the foreground, displaying directions and possibly station information. The overall ambiance suggests a quiet, urban setting.
+099_ZDmf2r8sEcG5hw5U3vDaSd: A lively beach scene featuring two individuals engaged in a paddleball game on a sandy shore. The ocean waves roll in the background, and one person is mid-swing with a paddle, while the other stands ready with a ball in hand. The vibrant colors of their attire contrast against the natural tones of the sand and sea.
+
+JOB STATISTICS
+==============
+Job ID: 12639999
+Cluster: snellius
+User/Group: sbaratella/sbaratella
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 16
+CPU Utilized: 00:01:23
+CPU Efficiency: 3.99% of 00:34:40 core-walltime
+Job Wall-clock time: 00:02:10
+Memory Utilized: 1.49 GB
+Memory Efficiency: 4.96% of 30.00 GB (30.00 GB/node)

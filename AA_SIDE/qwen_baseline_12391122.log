@@ -1,0 +1,28 @@
+Avvio dell'analisi nella directory: /projects/0/prjs1482/UvA/AA_DATASET/dataset
+
+
+--- RISULTATI DELL'ANALISI ---
+
+Numero di cartelle analizzate con successo: 37
+Numero totale di descrizioni analizzate:   148
+
+
+Lunghezza media delle descrizioni: 6.99 parole
+Deviazione standard:               3.98 parole
+
+----------------------------------
+
+
+JOB STATISTICS
+==============
+Job ID: 12391122
+Cluster: snellius
+User/Group: sbaratella/sbaratella
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 16
+CPU Utilized: 00:00:02
+CPU Efficiency: 0.52% of 00:06:24 core-walltime
+Job Wall-clock time: 00:00:24
+Memory Utilized: 1.52 MB
+Memory Efficiency: 0.00% of 30.00 GB (30.00 GB/node)

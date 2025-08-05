@@ -1,0 +1,39 @@
+/projects/0/prjs1482/miniconda/envs/deepseek/lib/python3.10/site-packages/huggingface_hub/file_download.py:943: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Python version is above 3.10, patching the collections module.
+Loading DeepSeek-VL2...
+Add pad token = ['<｜▁pad▁｜>'] to the tokenizer
+<｜▁pad▁｜>:2
+Add image token = ['<image>'] to the tokenizer
+<image>:128815
+Add grounding-related tokens = ['<|ref|>', '<|/ref|>', '<|det|>', '<|/det|>', '<|grounding|>'] to the tokenizer with input_ids
+<|ref|>:128816
+<|/ref|>:128817
+<|det|>:128818
+<|/det|>:128819
+<|grounding|>:128820
+Add chat tokens = ['<|User|>', '<|Assistant|>'] to the tokenizer with input_ids
+<|User|>:128821
+<|Assistant|>:128822
+
+Loading checkpoint shards:   0%|          | 0/8 [00:00<?, ?it/s]Loading checkpoint shards:  12%|█▎        | 1/8 [00:27<03:14, 27.74s/it]Loading checkpoint shards:  25%|██▌       | 2/8 [00:57<02:54, 29.12s/it]Loading checkpoint shards:  38%|███▊      | 3/8 [01:27<02:27, 29.49s/it]Loading checkpoint shards:  50%|█████     | 4/8 [01:32<01:19, 19.80s/it]Loading checkpoint shards:  62%|██████▎   | 5/8 [02:01<01:08, 22.88s/it]Loading checkpoint shards:  75%|███████▌  | 6/8 [02:30<00:50, 25.20s/it]Loading checkpoint shards:  88%|████████▊ | 7/8 [03:04<00:28, 28.12s/it]Loading checkpoint shards: 100%|██████████| 8/8 [03:13<00:00, 21.86s/it]Loading checkpoint shards: 100%|██████████| 8/8 [03:13<00:00, 24.17s/it]
+Traceback (most recent call last):
+  File "/gpfs/work5/0/prjs1482/UvA/AA_PART_1/Multiple_Answers/Deep/clarification.py", line 123, in <module>
+    with open(JSON_BASELINE, "r") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/projects/0/prjs1482/UvA/Outputs/Blur/deepseek_BLUR5_output_descriptions.json'
+
+JOB STATISTICS
+==============
+Job ID: 12522882
+Cluster: snellius
+User/Group: sbaratella/sbaratella
+State: RUNNING
+Nodes: 1
+Cores per node: 16
+CPU Utilized: 00:00:00
+CPU Efficiency: 0.00% of 01:06:08 core-walltime
+Job Wall-clock time: 00:04:08
+Memory Utilized: 0.00 MB
+Memory Efficiency: 0.00% of 128.00 GB (128.00 GB/node)
+WARNING: Efficiency statistics can only be obtained after the job has ended as seff tool is based on the accounting database data.

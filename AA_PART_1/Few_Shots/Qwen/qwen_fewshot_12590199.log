@@ -1,0 +1,476 @@
+Loading model...
+Loading checkpoint shards:   0%|          | 0/5 [00:00<?, ?it/s]Loading checkpoint shards:  20%|██        | 1/5 [00:04<00:18,  4.58s/it]Loading checkpoint shards:  40%|████      | 2/5 [00:08<00:12,  4.10s/it]Loading checkpoint shards:  60%|██████    | 3/5 [00:12<00:08,  4.04s/it]Loading checkpoint shards:  80%|████████  | 4/5 [00:16<00:04,  4.04s/it]Loading checkpoint shards: 100%|██████████| 5/5 [00:17<00:00,  3.06s/it]Loading checkpoint shards: 100%|██████████| 5/5 [00:17<00:00,  3.54s/it]
+Using a slow image processor as `use_fast` is unset and a slow processor was saved with this model. `use_fast=True` will be the default behavior in v4.52, even if the model was saved with a slow processor. This will result in minor differences in outputs. You'll still be able to use a slow processor with `use_fast=False`.
+You have video processor config saved in `preprocessor.json` file which is deprecated. Video processor configs should be saved in their own `video_preprocessor.json` file. You can rename the file or load and save the processor back which renames it automatically. Loading from `preprocessor.json` will be removed in v5.0.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+
+======== CYCLE for TARGET INDEX 1 ========
+
+Trial 1/156 | Folder: 000_Xf39GqLsVwUGe7ErHgdq44 | Target: first | Result: correct
+Trial 2/156 | Folder: 001_aKfods2rkcEf5uQAmFttZZ | Target: first | Result: correct
+Trial 3/156 | Folder: 003_YEkc8XE8SmupZd36vuvi5P | Target: first | Result: correct
+Trial 4/156 | Folder: 004_VB3Tm7rg77rEpjpTYuBZnZ | Target: first | Result: correct
+Trial 5/156 | Folder: 013_WthoLxjCvzwKsmKQzK5foy | Target: first | Result: correct
+Trial 6/156 | Folder: 014_RwUsQicUBpeLmoCYMX8ZPC | Target: first | Result: correct
+Trial 7/156 | Folder: 026_P46gnKM3fMXy9E5usBPHFi | Target: first | Result: correct
+Trial 8/156 | Folder: 029_UCEfbeigsYRDkWUU6cPZez | Target: first | Result: correct
+Trial 9/156 | Folder: 031_TKJu7P3rwMbMr52DcaEoNE | Target: first | Result: wrong
+Trial 10/156 | Folder: 033_TdYvgoHk686bLdRV8cQUZz | Target: first | Result: correct
+Trial 11/156 | Folder: 035_n49vPZ3tnANdnJvMfGztyZ | Target: first | Result: correct
+Trial 12/156 | Folder: 038_9LmxKyXxN8JCfER2MZAAmP | Target: first | Result: correct
+Trial 13/156 | Folder: 040_DCKLDRfProbXeJ8aSZT9Ha | Target: first | Result: correct
+Trial 14/156 | Folder: 041_3QHn6AW28dZzz3gNoNUpMw | Target: first | Result: correct
+Trial 15/156 | Folder: 043_MgeX72ppzXHrehgU2qhmvu | Target: first | Result: wrong
+Trial 16/156 | Folder: 044_2CCtpozAj5QAP67odNo3uH | Target: first | Result: wrong
+Trial 17/156 | Folder: 047_GcbutkAxNTuoVYBWqcZ2EF | Target: first | Result: correct
+Trial 18/156 | Folder: 048_XhuayYKd34YZFYLCHqgKJH | Target: first | Result: correct
+Trial 19/156 | Folder: 051_BeUywrzY9YptGCuU8ktavy | Target: first | Result: wrong
+Trial 20/156 | Folder: 063_K7jBopRVF4UL6mnkbRBiw9 | Target: first | Result: correct
+Trial 21/156 | Folder: 064_miaVnypWFPWnnWt7F3kNWc | Target: first | Result: correct
+Trial 22/156 | Folder: 065_GbFKdkEGtHUgCeWsoDggAK | Target: first | Result: correct
+Trial 23/156 | Folder: 066_3tcgywbsLeQuwqKYELedoC | Target: first | Result: correct
+Trial 24/156 | Folder: 067_AwprMBTcVE96Ffg36Y8atE | Target: first | Result: correct
+Trial 25/156 | Folder: 068_FdWLXJSnNYHdNjCnjnuZEh | Target: first | Result: correct
+Trial 26/156 | Folder: 069_D2AD2pPKPXsAEETXVPyPV5 | Target: first | Result: correct
+Trial 27/156 | Folder: 070_k9jbok9FBRFgcn2GGRZLeX | Target: first | Result: correct
+Trial 28/156 | Folder: 077_EbSYwUW6XVqfQJNf9pkVnx | Target: first | Result: correct
+Trial 29/156 | Folder: 082_cGiZG8ch4Q2bfCL9cE9FQi | Target: first | Result: correct
+Trial 30/156 | Folder: 083_JoDPa8R2noHgCzsGY6F23Q | Target: first | Result: correct
+Trial 31/156 | Folder: 084_jpYy9QmonaLYSmEbEpBsge | Target: first | Result: correct
+Trial 32/156 | Folder: 086_82DLfNxneWqVNpjQi4zjCB | Target: first | Result: correct
+Trial 33/156 | Folder: 089_SSPbt5fSrj8o2f9aAaZdp4 | Target: first | Result: correct
+Trial 34/156 | Folder: 092_LycEamGLGeYyKbotzNQrbm | Target: first | Result: correct
+Trial 35/156 | Folder: 094_CTiCNB8PENFFcZ9v7AGrAq | Target: first | Result: correct
+Trial 36/156 | Folder: 098_NswjCBbcgQAKLr7YKeNQui | Target: first | Result: correct
+Trial 37/156 | Folder: 099_ZDmf2r8sEcG5hw5U3vDaSd | Target: first | Result: correct
+
+======== CYCLE for TARGET INDEX 2 ========
+
+Trial 38/156 | Folder: 000_Xf39GqLsVwUGe7ErHgdq44 | Target: second | Result: correct
+Trial 39/156 | Folder: 001_aKfods2rkcEf5uQAmFttZZ | Target: second | Result: correct
+Trial 40/156 | Folder: 003_YEkc8XE8SmupZd36vuvi5P | Target: second | Result: correct
+Trial 41/156 | Folder: 004_VB3Tm7rg77rEpjpTYuBZnZ | Target: second | Result: correct
+Trial 42/156 | Folder: 013_WthoLxjCvzwKsmKQzK5foy | Target: second | Result: correct
+Trial 43/156 | Folder: 014_RwUsQicUBpeLmoCYMX8ZPC | Target: second | Result: correct
+Trial 44/156 | Folder: 026_P46gnKM3fMXy9E5usBPHFi | Target: second | Result: wrong
+Trial 45/156 | Folder: 029_UCEfbeigsYRDkWUU6cPZez | Target: second | Result: correct
+Trial 46/156 | Folder: 031_TKJu7P3rwMbMr52DcaEoNE | Target: second | Result: correct
+Trial 47/156 | Folder: 033_TdYvgoHk686bLdRV8cQUZz | Target: second | Result: correct
+Trial 48/156 | Folder: 035_n49vPZ3tnANdnJvMfGztyZ | Target: second | Result: correct
+Trial 49/156 | Folder: 038_9LmxKyXxN8JCfER2MZAAmP | Target: second | Result: wrong
+Trial 50/156 | Folder: 040_DCKLDRfProbXeJ8aSZT9Ha | Target: second | Result: correct
+Trial 51/156 | Folder: 041_3QHn6AW28dZzz3gNoNUpMw | Target: second | Result: correct
+Trial 52/156 | Folder: 043_MgeX72ppzXHrehgU2qhmvu | Target: second | Result: correct
+Trial 53/156 | Folder: 044_2CCtpozAj5QAP67odNo3uH | Target: second | Result: wrong
+Trial 54/156 | Folder: 047_GcbutkAxNTuoVYBWqcZ2EF | Target: second | Result: correct
+Trial 55/156 | Folder: 048_XhuayYKd34YZFYLCHqgKJH | Target: second | Result: correct
+Trial 56/156 | Folder: 051_BeUywrzY9YptGCuU8ktavy | Target: second | Result: wrong
+Trial 57/156 | Folder: 063_K7jBopRVF4UL6mnkbRBiw9 | Target: second | Result: correct
+Trial 58/156 | Folder: 064_miaVnypWFPWnnWt7F3kNWc | Target: second | Result: correct
+Trial 59/156 | Folder: 065_GbFKdkEGtHUgCeWsoDggAK | Target: second | Result: correct
+Trial 60/156 | Folder: 066_3tcgywbsLeQuwqKYELedoC | Target: second | Result: correct
+Trial 61/156 | Folder: 067_AwprMBTcVE96Ffg36Y8atE | Target: second | Result: correct
+Trial 62/156 | Folder: 068_FdWLXJSnNYHdNjCnjnuZEh | Target: second | Result: correct
+Trial 63/156 | Folder: 069_D2AD2pPKPXsAEETXVPyPV5 | Target: second | Result: correct
+Trial 64/156 | Folder: 070_k9jbok9FBRFgcn2GGRZLeX | Target: second | Result: correct
+Trial 65/156 | Folder: 077_EbSYwUW6XVqfQJNf9pkVnx | Target: second | Result: correct
+Trial 66/156 | Folder: 082_cGiZG8ch4Q2bfCL9cE9FQi | Target: second | Result: correct
+Trial 67/156 | Folder: 083_JoDPa8R2noHgCzsGY6F23Q | Target: second | Result: correct
+Trial 68/156 | Folder: 084_jpYy9QmonaLYSmEbEpBsge | Target: second | Result: wrong
+Trial 69/156 | Folder: 086_82DLfNxneWqVNpjQi4zjCB | Target: second | Result: correct
+Trial 70/156 | Folder: 089_SSPbt5fSrj8o2f9aAaZdp4 | Target: second | Result: correct
+Trial 71/156 | Folder: 092_LycEamGLGeYyKbotzNQrbm | Target: second | Result: correct
+Trial 72/156 | Folder: 094_CTiCNB8PENFFcZ9v7AGrAq | Target: second | Result: wrong
+Trial 73/156 | Folder: 098_NswjCBbcgQAKLr7YKeNQui | Target: second | Result: correct
+Trial 74/156 | Folder: 099_ZDmf2r8sEcG5hw5U3vDaSd | Target: second | Result: correct
+
+======== CYCLE for TARGET INDEX 3 ========
+
+Trial 75/156 | Folder: 000_Xf39GqLsVwUGe7ErHgdq44 | Target: third | Result: correct
+Trial 76/156 | Folder: 001_aKfods2rkcEf5uQAmFttZZ | Target: third | Result: correct
+Trial 77/156 | Folder: 003_YEkc8XE8SmupZd36vuvi5P | Target: third | Result: correct
+Trial 78/156 | Folder: 004_VB3Tm7rg77rEpjpTYuBZnZ | Target: third | Result: correct
+Trial 79/156 | Folder: 013_WthoLxjCvzwKsmKQzK5foy | Target: third | Result: correct
+Trial 80/156 | Folder: 014_RwUsQicUBpeLmoCYMX8ZPC | Target: third | Result: correct
+Trial 81/156 | Folder: 026_P46gnKM3fMXy9E5usBPHFi | Target: third | Result: correct
+Trial 82/156 | Folder: 029_UCEfbeigsYRDkWUU6cPZez | Target: third | Result: correct
+Trial 83/156 | Folder: 031_TKJu7P3rwMbMr52DcaEoNE | Target: third | Result: correct
+Trial 84/156 | Folder: 033_TdYvgoHk686bLdRV8cQUZz | Target: third | Result: correct
+Trial 85/156 | Folder: 035_n49vPZ3tnANdnJvMfGztyZ | Target: third | Result: correct
+Trial 86/156 | Folder: 038_9LmxKyXxN8JCfER2MZAAmP | Target: third | Result: correct
+Trial 87/156 | Folder: 040_DCKLDRfProbXeJ8aSZT9Ha | Target: third | Result: correct
+Trial 88/156 | Folder: 041_3QHn6AW28dZzz3gNoNUpMw | Target: third | Result: correct
+Trial 89/156 | Folder: 043_MgeX72ppzXHrehgU2qhmvu | Target: third | Result: correct
+Trial 90/156 | Folder: 044_2CCtpozAj5QAP67odNo3uH | Target: third | Result: correct
+Trial 91/156 | Folder: 047_GcbutkAxNTuoVYBWqcZ2EF | Target: third | Result: correct
+Trial 92/156 | Folder: 048_XhuayYKd34YZFYLCHqgKJH | Target: third | Result: correct
+Trial 93/156 | Folder: 051_BeUywrzY9YptGCuU8ktavy | Target: third | Result: correct
+Trial 94/156 | Folder: 063_K7jBopRVF4UL6mnkbRBiw9 | Target: third | Result: correct
+Trial 95/156 | Folder: 064_miaVnypWFPWnnWt7F3kNWc | Target: third | Result: correct
+Trial 96/156 | Folder: 065_GbFKdkEGtHUgCeWsoDggAK | Target: third | Result: correct
+Trial 97/156 | Folder: 066_3tcgywbsLeQuwqKYELedoC | Target: third | Result: correct
+Trial 98/156 | Folder: 067_AwprMBTcVE96Ffg36Y8atE | Target: third | Result: correct
+Trial 99/156 | Folder: 068_FdWLXJSnNYHdNjCnjnuZEh | Target: third | Result: correct
+Trial 100/156 | Folder: 069_D2AD2pPKPXsAEETXVPyPV5 | Target: third | Result: correct
+Trial 101/156 | Folder: 070_k9jbok9FBRFgcn2GGRZLeX | Target: third | Result: correct
+Trial 102/156 | Folder: 077_EbSYwUW6XVqfQJNf9pkVnx | Target: third | Result: correct
+Trial 103/156 | Folder: 082_cGiZG8ch4Q2bfCL9cE9FQi | Target: third | Result: correct
+Trial 104/156 | Folder: 083_JoDPa8R2noHgCzsGY6F23Q | Target: third | Result: correct
+Trial 105/156 | Folder: 084_jpYy9QmonaLYSmEbEpBsge | Target: third | Result: correct
+Trial 106/156 | Folder: 086_82DLfNxneWqVNpjQi4zjCB | Target: third | Result: correct
+Trial 107/156 | Folder: 089_SSPbt5fSrj8o2f9aAaZdp4 | Target: third | Result: correct
+Trial 108/156 | Folder: 092_LycEamGLGeYyKbotzNQrbm | Target: third | Result: correct
+Trial 109/156 | Folder: 094_CTiCNB8PENFFcZ9v7AGrAq | Target: third | Result: correct
+Trial 110/156 | Folder: 098_NswjCBbcgQAKLr7YKeNQui | Target: third | Result: correct
+Trial 111/156 | Folder: 099_ZDmf2r8sEcG5hw5U3vDaSd | Target: third | Result: correct
+
+======== CYCLE for TARGET INDEX 4 ========
+
+Trial 112/156 | Folder: 000_Xf39GqLsVwUGe7ErHgdq44 | Target: fourth | Result: correct
+Trial 113/156 | Folder: 001_aKfods2rkcEf5uQAmFttZZ | Target: fourth | Result: correct
+Trial 114/156 | Folder: 003_YEkc8XE8SmupZd36vuvi5P | Target: fourth | Result: correct
+Trial 115/156 | Folder: 004_VB3Tm7rg77rEpjpTYuBZnZ | Target: fourth | Result: correct
+Trial 116/156 | Folder: 013_WthoLxjCvzwKsmKQzK5foy | Target: fourth | Result: correct
+Trial 117/156 | Folder: 014_RwUsQicUBpeLmoCYMX8ZPC | Target: fourth | Result: correct
+Trial 118/156 | Folder: 026_P46gnKM3fMXy9E5usBPHFi | Target: fourth | Result: correct
+Trial 119/156 | Folder: 029_UCEfbeigsYRDkWUU6cPZez | Target: fourth | Result: correct
+Trial 120/156 | Folder: 031_TKJu7P3rwMbMr52DcaEoNE | Target: fourth | Result: wrong
+Trial 121/156 | Folder: 033_TdYvgoHk686bLdRV8cQUZz | Target: fourth | Result: correct
+Trial 122/156 | Folder: 035_n49vPZ3tnANdnJvMfGztyZ | Target: fourth | Result: correct
+Trial 123/156 | Folder: 038_9LmxKyXxN8JCfER2MZAAmP | Target: fourth | Result: correct
+Trial 124/156 | Folder: 040_DCKLDRfProbXeJ8aSZT9Ha | Target: fourth | Result: correct
+Trial 125/156 | Folder: 041_3QHn6AW28dZzz3gNoNUpMw | Target: fourth | Result: correct
+Trial 126/156 | Folder: 043_MgeX72ppzXHrehgU2qhmvu | Target: fourth | Result: correct
+Trial 127/156 | Folder: 044_2CCtpozAj5QAP67odNo3uH | Target: fourth | Result: correct
+Trial 128/156 | Folder: 047_GcbutkAxNTuoVYBWqcZ2EF | Target: fourth | Result: correct
+Trial 129/156 | Folder: 048_XhuayYKd34YZFYLCHqgKJH | Target: fourth | Result: correct
+Trial 130/156 | Folder: 051_BeUywrzY9YptGCuU8ktavy | Target: fourth | Result: correct
+Trial 131/156 | Folder: 063_K7jBopRVF4UL6mnkbRBiw9 | Target: fourth | Result: correct
+Trial 132/156 | Folder: 064_miaVnypWFPWnnWt7F3kNWc | Target: fourth | Result: correct
+Trial 133/156 | Folder: 065_GbFKdkEGtHUgCeWsoDggAK | Target: fourth | Result: correct
+Trial 134/156 | Folder: 066_3tcgywbsLeQuwqKYELedoC | Target: fourth | Result: correct
+Trial 135/156 | Folder: 067_AwprMBTcVE96Ffg36Y8atE | Target: fourth | Result: wrong
+Trial 136/156 | Folder: 068_FdWLXJSnNYHdNjCnjnuZEh | Target: fourth | Result: correct
+Trial 137/156 | Folder: 069_D2AD2pPKPXsAEETXVPyPV5 | Target: fourth | Result: correct
+Trial 138/156 | Folder: 070_k9jbok9FBRFgcn2GGRZLeX | Target: fourth | Result: correct
+Trial 139/156 | Folder: 077_EbSYwUW6XVqfQJNf9pkVnx | Target: fourth | Result: correct
+Trial 140/156 | Folder: 082_cGiZG8ch4Q2bfCL9cE9FQi | Target: fourth | Result: correct
+Trial 141/156 | Folder: 083_JoDPa8R2noHgCzsGY6F23Q | Target: fourth | Result: correct
+Trial 142/156 | Folder: 084_jpYy9QmonaLYSmEbEpBsge | Target: fourth | Result: correct
+Trial 143/156 | Folder: 086_82DLfNxneWqVNpjQi4zjCB | Target: fourth | Result: correct
+Trial 144/156 | Folder: 089_SSPbt5fSrj8o2f9aAaZdp4 | Target: fourth | Result: correct
+Trial 145/156 | Folder: 092_LycEamGLGeYyKbotzNQrbm | Target: fourth | Result: correct
+Trial 146/156 | Folder: 094_CTiCNB8PENFFcZ9v7AGrAq | Target: fourth | Result: correct
+Trial 147/156 | Folder: 098_NswjCBbcgQAKLr7YKeNQui | Target: fourth | Result: correct
+Trial 148/156 | Folder: 099_ZDmf2r8sEcG5hw5U3vDaSd | Target: fourth | Result: correct
+
+Experiment finished. Results saved to /projects/0/prjs1482/UvA/Outputs/PART_1/Qwen/Few_Shots/qwen_fewshot_SIMPLE_FINAL.txt
+
+JOB STATISTICS
+==============
+Job ID: 12590199
+Cluster: snellius
+User/Group: sbaratella/sbaratella
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 16
+CPU Utilized: 00:02:29
+CPU Efficiency: 2.89% of 01:25:52 core-walltime
+Job Wall-clock time: 00:05:22
+Memory Utilized: 1.50 GB
+Memory Efficiency: 5.02% of 30.00 GB (30.00 GB/node)

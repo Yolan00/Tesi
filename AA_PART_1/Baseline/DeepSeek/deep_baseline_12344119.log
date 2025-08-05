@@ -1,0 +1,1382 @@
+/projects/0/prjs1482/miniconda/envs/deepseek/lib/python3.10/site-packages/huggingface_hub/file_download.py:943: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Python version is above 3.10, patching the collections module.
+Loading DeepSeek-VL2...
+Add pad token = ['<｜▁pad▁｜>'] to the tokenizer
+<｜▁pad▁｜>:2
+Add image token = ['<image>'] to the tokenizer
+<image>:128815
+Add grounding-related tokens = ['<|ref|>', '<|/ref|>', '<|det|>', '<|/det|>', '<|grounding|>'] to the tokenizer with input_ids
+<|ref|>:128816
+<|/ref|>:128817
+<|det|>:128818
+<|/det|>:128819
+<|grounding|>:128820
+Add chat tokens = ['<|User|>', '<|Assistant|>'] to the tokenizer with input_ids
+<|User|>:128821
+<|Assistant|>:128822
+
+Loading checkpoint shards:   0%|          | 0/8 [00:00<?, ?it/s]Loading checkpoint shards:  12%|█▎        | 1/8 [00:26<03:04, 26.33s/it]Loading checkpoint shards:  25%|██▌       | 2/8 [00:56<02:52, 28.77s/it]Loading checkpoint shards:  38%|███▊      | 3/8 [01:22<02:16, 27.32s/it]Loading checkpoint shards:  50%|█████     | 4/8 [01:26<01:13, 18.26s/it]Loading checkpoint shards:  62%|██████▎   | 5/8 [01:51<01:02, 20.75s/it]Loading checkpoint shards:  75%|███████▌  | 6/8 [02:16<00:44, 22.19s/it]Loading checkpoint shards:  88%|████████▊ | 7/8 [02:44<00:23, 23.85s/it]Loading checkpoint shards: 100%|██████████| 8/8 [02:51<00:00, 18.43s/it]Loading checkpoint shards: 100%|██████████| 8/8 [02:51<00:00, 21.38s/it]
+You're using a LlamaTokenizerFast tokenizer. Please note that with a fast tokenizer, using the `__call__` method is faster than using a method to encode the text followed by a call to the `pad` method to get a padded encoding.
+/projects/0/prjs1482/miniconda/envs/deepseek/lib/python3.10/site-packages/torch/nn/modules/conv.py:459: UserWarning: Applied workaround for CuDNN issue, install nvrtc.so (Triggered internally at ../aten/src/ATen/native/cudnn/Conv_v8.cpp:80.)
+  return F.conv2d(input, weight, bias, self.stride,
+
+======== CYCLE for TARGET INDEX 1 ========
+
+
+----------------------------------------
+Trial: 000_Xf39GqLsVwUGe7ErHgdq44
+Target image: 1 (COCO_val2014_000000334417.jpg)
+Generated description: The image depicts a man wearing a suit and tie, holding a white shirt, eating a piece of food. The background is plain and appears to the man.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 001_aKfods2rkcEf5uQAmFttZZ
+Target image: 1 (COCO_val2014_000000087912.jpg)
+Generated description: The image depicts a bridge with a metal structure featuring a series of a bus driving on it. The bridge has a metal structure with a series of a bus driving on it. The bridge has a metal structure with a series of a bus driving on it. The bridge has a metal structure with a series of a bus driving
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 003_YEkc8XE8SmupZd36vuvi5P
+Target image: 1 (COCO_val2014_000000241638.jpg)
+Generated description: The image depicts a person skiing down a snowy slope. The skier is wearing a colorful hat and goggles. The skier is leaning forward, and is holding ski poles. The is in motion, and the snow is visible.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 004_VB3Tm7rg77rEpjpTYuBZnZ
+Target image: 1 (COCO_val2014_000000201004.jpg)
+Generated description: The image depicts a building with a brown roof and a tower structure. The building has a flagpole a flagpole in front of it. There is a fire hydrant red in front of the building. The building has a signboard a signboard a black with white text. The building has a large garage doors.
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 013_WthoLxjCvzwKsmKQzK5foy
+Target image: 1 (COCO_val2014_000000159716.jpg)
+Generated description: The image depicts a meal served in a white takeout container. The meal consists of grilled meat with sesame seeds on top, a portion of rice, a piece of broccoli, and a carrot. The broccoli is bright green and the rice are placed on the right side of the container. The meat is on the left side
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 014_RwUsQicUBpeLmoCYMX8ZPC
+Target image: 1 (COCO_val2014_000000050962.jpg)
+Generated description: The image depicts a motorboat with a blue and white color scheme, with a person wearing a yellow shirt and black shorts, operating the boat. The boat is on a body of the water, creating a wake behind it. The background consists of dense green trees, and the water appears to be a river or lake.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 026_P46gnKM3fMXy9E5usBPHFi
+Target image: 1 (COCO_val2014_000000198367.jpg)
+Generated description: The image shows a bowl containing two bananas and two apples. The bowl is white and is placed on a colorful placemat with a polka dots. The mat has a orange background. The apples are red and yellow and greenish-yellow in color. The bananas are yellow with brown spots.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 029_UCEfbeigsYRDkWUU6cPZez
+Target image: 1 (COCO_val2014_000000102478.jpg)
+Generated description: The image depicts a baseball game in progress, with a pitcher in the middle of a pitch. The batter is ready to swing the bat, and the umpire behind him. The pitcher is in the mound, and the field. The field is green, and the stands are visible.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 031_TKJu7P3rwMbMr52DcaEoNE
+Target image: 1 (COCO_val2014_000000036492.jpg)
+Generated description: The image depicts a large commercial airplane parked at an airport gate, with a white fuselage and a red logo on the tail. The plane is connected to a jet bridge, and a staircase leading to the ground. There are vehicles and equipment around the tarmac. The sky is clear, and the background.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 033_TdYvgoHk686bLdRV8cQUZz
+Target image: 1 (COCO_val2014_000000014592.jpg)
+Generated description: The image depicts a monkey holding a banana and a bottle of juice. The monkey is sitting on a bottle of juice with a banana in its right hand. The monkey is holding a bottle of juice in its right hand. The monkey is holding a bottle of juice. The monkey is holding a bottle of juice. The monkey
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 035_n49vPZ3tnANdnJvMfGztyZ
+Target image: 1 (COCO_val2014_000000140076.jpg)
+Generated description: The image depicts a dining room with a wooden table set for four chairs around it. The table is a vase with flowers on it. The wall a tapestry on the wall. There is a bar cart with bottles on the side.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 038_9LmxKyXxN8JCfER2MZAAmP
+Target image: 1 (COCO_val2014_000000161044.jpg)
+Generated description: The image depicts two airplanes flying in a cloudy sky. The sky. The planes are positioned in a formation, with one slightly higher and to the other. The sky is filled with clouds, creating a dramatic backdrop. The clouds are dense and dark, suggesting an overcast. The planes are silhouetted against the sky,
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 040_DCKLDRfProbXeJ8aSZT9Ha
+Target image: 1 (COCO_val2014_000000033958.jpg)
+Generated description: The image depicts a skier performing a mid-air trick against a blue sky backdrop. The skier is wearing a blue and yellow jacket, black helmet, and goggles. The skis are crossed in front of them, and snow is flying off the ground.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 041_3QHn6AW28dZzz3gNoNUpMw
+Target image: 1 (COCO_val2014_000000027272.jpg)
+Generated description: The image depicts a bear standing on a grassy area with a river in the background. The bear is brown and appears to be wet, possibly after a swim. The surrounding area is lush and green, with tall grass and dense. The river is calm and reflects the greenery. The bear is facing to the left side of
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 043_MgeX72ppzXHrehgU2qhmvu
+Target image: 1 (COCO_val2014_000000027285.jpg)
+Generated description: The image depicts a kitchen with a modern design. It features a stainless steel range hood above a stove. There are white cabinets and a refrigerator with a wooden backsplash. On the countertop, there are various kitchen appliances and utensils. The floor is a light-colored.
+Listener guess: the description refers to the first image.
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 044_2CCtpozAj5QAP67odNo3uH
+Target image: 1 (COCO_val2014_000000272958.jpg)
+Generated description: The image depicts a person engaged in a water sport, likely kiteboarding. The individual is airborne, with a board attached to a harness and a kite. The background shows a body is angled, and the water below. The kiteboarder is connected to a harness. The kite is visible in the sky. The water
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 047_GcbutkAxNTuoVYBWqcZ2EF
+Target image: 1 (COCO_val2014_000000068740.jpg)
+Generated description: The image features a fire hydrant with a yellow body and a blue top and a number '296' on it. The hydrant is located on a grassy area with a sidewalk in the background.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 048_XhuayYKd34YZFYLCHqgKJH
+Target image: 1 (COCO_val2014_000000142537.jpg)
+Generated description: The image depicts a motorcycle parked on a street with a black and a white wall in the background. The motorcycle has a black and a white wall the wall in the background.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 051_BeUywrzY9YptGCuU8ktavy
+Target image: 1 (COCO_val2014_000000019763.jpg)
+Generated description: The image depicts a slice of deep-dish dish with a thick crust, topped with a layer of tomato sauce, and melted cheese, and green peppers. The dish is served on a white plate, with a fork to the side. In the background, there are two glasses of beer, one with amber liquid, and
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 063_K7jBopRVF4UL6mnkbRBiw9
+Target image: 1 (COCO_val2014_000000093670.jpg)
+Generated description: The image depicts a man wearing a brown suit with a light blue shirt and a tie with a plaid pattern. The shirt has a collar and a pocket on the left side.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 064_miaVnypWFPWnnWt7F3kNWc
+Target image: 1 (COCO_val2014_000000182170.jpg)
+Generated description: The image depicts two individuals standing in a room, facing away from the viewer. The person on the person on the left is wearing a dark green shirt and holding a white object in their right hand. The person on the right is wearing a patterned shirt with a shirt and holding a white object in their right hand. In
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 065_GbFKdkEGtHUgCeWsoDggAK
+Target image: 1 (COCO_val2014_000000248382.jpg)
+Generated description: The image depicts a woman sitting on a bench in a park. She is wearing a bright orange dress with a beige scarf draped over her shoulders. She has her arms crossed and is wearing black and white shoes with stripes. The background shows greenery and a path.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 066_3tcgywbsLeQuwqKYELedoC
+Target image: 1 (COCO_val2014_000000043314.jpg)
+Generated description: The image depicts a skier in mid-air performing a trick on a snowy mountain slope. The skier is wearing a white jacket and orange pants, and is holding ski poles. The background shows a clear blue sky and snow-covered mountains. The image has text indicating a date and location.
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 067_AwprMBTcVE96Ffg36Y8atE
+Target image: 1 (COCO_val2014_000000199442.jpg)
+Generated description: The image depicts a surfer in a black wetsuit riding a wave on a white surfboard. The surfer is in a crouched forward with arms outstretched for balance. The wave is breaking with white foam and the sky is clear blue.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 068_FdWLXJSnNYHdNjCnjnuZEh
+Target image: 1 (COCO_val2014_000000391269.jpg)
+Generated description: The image depicts a living room with a brown leather sofa, a wooden floor, a television, a black dog, a pink flamingo, a wooden, a white rug, a wooden, a television, a wooden, a wooden, a wooden, a wooden, a wooden, a wooden, a wooden, a wooden
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 069_D2AD2pPKPXsAEETXVPyPV5
+Target image: 1 (COCO_val2014_000000190700.jpg)
+Generated description: The image features two teddy bears. one large white bear wearing blue ribbon. smaller brown bear has pink ears.
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 070_k9jbok9FBRFgcn2GGRZLeX
+Target image: 1 (COCO_val2014_000000059567.jpg)
+Generated description: The image depicts a man in a suit, standing on a street. He is wearing a gray suit, a tie, and holding a cigarette in his hand. There is a bag hanging from his shoulder. The background shows a street with a few people walking and a building.
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 077_EbSYwUW6XVqfQJNf9pkVnx
+Target image: 1 (COCO_val2014_000000193401.jpg)
+Generated description: The image depicts a person wearing a red jacket and a red beanie, crouching down in a forested area with pony setting. y[[0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 082_cGiZG8ch4Q2bfCL9cE9FQi
+Target image: 1 (COCO_val2014_000000050326.jpg)
+Generated description: The image depicts a person standing on a beach, wearing a hat, shorts, and holding a phone. The person is near a chair and a kite on the sand, and the ocean in the background.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 083_JoDPa8R2noHgCzsGY6F23Q
+Target image: 1 (COCO_val2014_000000040842.jpg)
+Generated description: The image depicts a cat resting on a shelf above a desk, with a computer monitor displaying a blue screen in the foreground. The cat is a gray color, and appears to beige walls in the background.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 084_jpYy9QmonaLYSmEbEpBsge
+Target image: 1 (COCO_val2014_000000191721.jpg)
+Generated description: The image depicts a young girl playing tennis on a red clay court. She is wearing a striped shirt and a red skirt, holding a blue and a tennis racket. The background a green fence.
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 086_82DLfNxneWqVNpjQi4zjCB
+Target image: 1 (COCO_val2014_000000000724.jpg)
+Generated description: The image depicts a stop sign with the word "STOP"
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 089_SSPbt5fSrj8o2f9aAaZdp4
+Target image: 1 (COCO_val2014_000000017003.jpg)
+Generated description: The image depicts a person wearing a beanie and sunglasses, a skateboarder performing a trick in a park-like setting with trees and a pathway.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 092_LycEamGLGeYyKbotzNQrbm
+Target image: 1 (COCO_val2014_000000194903.jpg)
+Generated description: The image depicts a tennis player on a clay court, wearing a red shirt, black shorts, white visor, and holding a racketball in a ready position. The player is on a clay court with a green wall in the background.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 094_CTiCNB8PENFFcZ9v7AGrAq
+Target image: 1 (COCO_val2014_000000022118.jpg)
+Generated description: The image depicts a beach scene with a clear blue sky and white sand. There are several people scattered across the beach, some sitting under umbreakers. There are also umbreakers. There are several umbreakers. There are several umbreakers. There are several umbreakers. There are several umbre
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 098_NswjCBbcgQAKLr7YKeNQui
+Target image: 1 (COCO_val2014_000000013168.jpg)
+Generated description: The image depicts a train station at night, with a train on the right side of the platform. The train is silver and has a sign above the platform, indicating directions to New York. The platform is illuminated by a bright light, and the train is in motion, creating a blur effect. The overall ambiance of the
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 099_ZDmf2r8sEcG5hw5U3vDaSd
+Target image: 1 (COCO_val2014_000000289620.jpg)
+Generated description: The image depicts two shirtless men on a beach, one wearing swim trunks, one with a white cap, and the other a green bandana. They are playing a game with paddles, and a ball in the man in the air. The ocean waves in the background.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+======== CYCLE for TARGET INDEX 2 ========
+
+
+----------------------------------------
+Trial: 000_Xf39GqLsVwUGe7ErHgdq44
+Target image: 2 (COCO_val2014_000000359105.jpg)
+Generated description: The image depicts a young girl with dark hair styled with two black clips. She is wearing a white shirt and is holding a cupcake with red frosting and sprinkles. The girl is biting into the cupcake, and has frosting on her mouth. The background beige wall.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 001_aKfods2rkcEf5uQAmFttZZ
+Target image: 2 (COCO_val2014_000000335119.jpg)
+Generated description: The image depicts a blue minivan parked on the side of the sidewalk. Behind the minivan, there is a fence with a bus covered in front of a building. The bus is covered in graffiti. In the background, there is a bridge.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 003_YEkc8XE8SmupZd36vuvi5P
+Target image: 2 (COCO_val2014_000000249687.jpg)
+Generated description: The image depicts a young child wearing a pink jacket with a pattern, holding a pair of skis, and a beanie. The child is smiling. The background shows a snowy landscape with other people and skiers and ski equipment.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 004_VB3Tm7rg77rEpjpTYuBZnZ
+Target image: 2 (COCO_val2014_000000338826.jpg)
+Generated description: The image depicts a building with a brown roof and a sign in front of a grassy area. There is a flagpole and a fire hydrant.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 013_WthoLxjCvzwKsmKQzK5foy
+Target image: 2 (COCO_val2014_000000214919.jpg)
+Generated description: The image shows a meal served in a rectangular container. The meal consists of a portion of broccoli, a serving of broccoli, a grain, and a side of mixed vegetables. The broccoli is on the left side, and the right. The grain is in the side. The vegetables are a mix of corn, black beans
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 014_RwUsQicUBpeLmoCYMX8ZPC
+Target image: 2 (COCO_val2014_000000092644.jpg)
+Generated description: The image depicts a scene on a lake with a white boat carrying several people. There is a person on a jet ski being pulled by the boat. The background features a park-like setting with trees and a grassy areas. The boat is moving at a speed, and the person on the ski is in the water.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 026_P46gnKM3fMXy9E5usBPHFi
+Target image: 2 (COCO_val2014_000000337247.jpg)
+Generated description: The image shows a cardboard box with the word 'amazon' on it. There are two bananas on top of the box. Below the bananas. There is a mango on the box. The box is on a tray with a floral pattern.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 029_UCEfbeigsYRDkWUU6cPZez
+Target image: 2 (COCO_val2014_000000124712.jpg)
+Generated description: The image depicts a baseball game in progress, with a pitcher in the foreground a batter ready to swing bat, and a catcher positioned behind him. The pitcher is in the mound, and the umpire behind the catcher. The field is surrounded by a chain-link fence. Spectators are seated on chairs, watching the game
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 031_TKJu7P3rwMbMr52DcaEoNE
+Target image: 2 (COCO_val2014_000000267521.jpg)
+Generated description: The image depicts an airplane parked at an airport gate, with the terminal. The airplane has a white body with red and blue stripes and a logo on the tail. There are vehicles and equipment around the plane, including a luggage carts and a truck. The sky is clear with a few clouds.
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 033_TdYvgoHk686bLdRV8cQUZz
+Target image: 2 (COCO_val2014_000000045387.jpg)
+Generated description: The image depicts a monkey sitting on the ground, holding a banana in its hand. The monkey has a reddish face and a brown fur. The monkey is surrounded by a natural environment.
+Listener guess: the description refers to the second.
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 035_n49vPZ3tnANdnJvMfGztyZ
+Target image: 2 (COCO_val2014_000000166401.jpg)
+Generated description: The image depicts a bathroom with a bathtub and a white sink and a mirror above it. There are two candles on the countertop and a plant on the counter. The mirror is above the sink. The bathtub is to the left of the bathtub. The walls are yellow.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 038_9LmxKyXxN8JCfER2MZAAmP
+Target image: 2 (COCO_val2014_000000419074.jpg)
+Generated description: The image depicts a airplane flying in the sky with a clear blue sky with a few clouds. The airplane is positioned towards the center of the image. The sky is mostly clear with a few clouds. The airplane is the sky with few clouds. The airplane is the sky with few clouds. The airplane is the sky with
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 040_DCKLDRfProbXeJ8aSZT9Ha
+Target image: 2 (COCO_val2014_000000195974.jpg)
+Generated description: The image depicts a skier in mid-air performing a trick, wearing a red jacket and blue pants, against a clear blue sky. The skier is above a snow-covered slope with a crowd of spectators on the side. A red flag is visible on the skier is performing a jump.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 041_3QHn6AW28dZzz3gNoNUpMw
+Target image: 2 (COCO_val2014_000000083773.jpg)
+Generated description: The image depicts a bear standing on a rocky terrain with a grassy area. The bear is facing the bear is in a brown fur with a lighter on its face. The bear is a rock behind the bear. The bear is a small orange object on the ground.
+Listener guess: the description provided does not match the first image.
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 043_MgeX72ppzXHrehgU2qhmvu
+Target image: 2 (COCO_val2014_000000053697.jpg)
+Generated description: The image depicts a kitchen with a white stove and oven, a stove and a microwave on a countertop. There are various items on the stove and a microwave on the countertop. The stove is a stove and microwave are on the countertop. The stove and microwave on the countertop. The stove and microwave on
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 044_2CCtpozAj5QAP67odNo3uH
+Target image: 2 (COCO_val2014_000000317070.jpg)
+Generated description: The image depicts a silhouette of a person engaged in a water sport, likely kiteboarding, against a backdrop of a cloudy sky and ocean. The person is suspended in the air, with a kiteboard attached to a harness and lines visible. The ocean below is turbulent, with waves. The sky is overcast, with
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 047_GcbutkAxNTuoVYBWqcZ2EF
+Target image: 2 (COCO_val2014_000000359843.jpg)
+Generated description: The image depicts a fire hydrant that is red in color.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 048_XhuayYKd34YZFYLCHqgKJH
+Target image: 2 (COCO_val2014_000000264121.jpg)
+Generated description: The image depicts a motorcycle parked on a road with a scenic backdrop of a grassy field and a partly cloudy sky. The motorcycle is equipped with a windshield, side mirrors, and storage compartments on the rear. The road is surrounded by a natural landscape.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 051_BeUywrzY9YptGCuU8ktavy
+Target image: 2 (COCO_val2014_000000044934.jpg)
+Generated description: The image depicts a slice of deep-dish dish with a thick crust, topped with a layer of tomato sauce, cheese, and green peppers, and a sprinkle of cheese on top. The dish is served on a white plate, with a fork to the side. In the background, there are glasses of a table,
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 063_K7jBopRVF4UL6mnkbRBiw9
+Target image: 2 (COCO_val2014_000000134807.jpg)
+Generated description: The image depicts a man wearing a white shirt with a pink and a tie with a floral pattern, a lany a lany a black lanyard around his neck.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 064_miaVnypWFPWnnWt7F3kNWc
+Target image: 2 (COCO_val2014_000000350855.jpg)
+Generated description: The image depicts a birthday celebration. A woman is standing in the center, wearing a black dress and a party hat, holding a glass. She is surrounded by other guests. A birthday cake with lit candles is being presented to her. The room has a warm lighting, and a red wall with a painting.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 065_GbFKdkEGtHUgCeWsoDggAK
+Target image: 2 (COCO_val2014_000000315939.jpg)
+Generated description: The image depicts a park setting with a wooden bench in the foreground. A woman wearing a pink dress and a wide-brimmed hat is walking towards the bench. She is holding an orange cooler. A man in beige suit and hat is walking in the background.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 066_3tcgywbsLeQuwqKYELedoC
+Target image: 2 (COCO_val2014_000000290602.jpg)
+Generated description: The image depicts a skier in mid-air performing a trick on a snowy mountain slope. The skier is wearing a black outfit and is holding onto a snowboard. The background features a snow-covered mountain and a clear blue sky.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 067_AwprMBTcVE96Ffg36Y8atE
+Target image: 2 (COCO_val2014_000000423113.jpg)
+Generated description: The image depicts a surfer in a white shirt with black wetsuit, riding a white surfboard on a wave. The surfer is wearing a white shirt with black wetsuit, riding a white surfboard on a wave. The surfer is wearing a white shirt with black wetsuit, riding a
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 068_FdWLXJSnNYHdNjCnjnuZEh
+Target image: 2 (COCO_val2014_000000427965.jpg)
+Generated description: The image depicts a cozy living room with wooden walls adorned with various items. There is a television set on a stand, surrounded by a beige ottoman. A plaid blanket draped over a couch. A pink flamingoover a chair. A black dog is present. A person is holding a leash. The room
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 069_D2AD2pPKPXsAEETXVPyPV5
+Target image: 2 (COCO_val2014_000000322987.jpg)
+Generated description: The image features a teddy bear dressed in a pink dress with a white shirt and beige pants. The teddy bear is holding a cone with a red rose in it. The teddy bear is sitting on a beige couch.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 070_k9jbok9FBRFgcn2GGRZLeX
+Target image: 2 (COCO_val2014_000000297578.jpg)
+Generated description: The image depicts a man dressed in a suit, holding a cigarette in his mouth, standing on a sidewalk. He is wearing a tie and has a bag slung over his shoulder. In the background, there are other people walking. The man appears to be in a city environment.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 077_EbSYwUW6XVqfQJNf9pkVnx
+Target image: 2 (COCO_val2014_000000212545.jpg)
+Generated description: In the image, a young girl wearing a cowboy hat and a sweater, is smiling while holding a dog. the girl is in a yellow shirt, is wearing a sweater, a dog. the girl is wearing a cowboy hat, is smiling while holding a dog.
+Listener guess: image 2
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 082_cGiZG8ch4Q2bfCL9cE9FQi
+Target image: 2 (COCO_val2014_000000083277.jpg)
+Generated description: The image depicts a skateboarder performing a trick in mid-air, wearing a white shirt and black pants, and blue shoes. The skateboard is blue with a design on the skateboard is in the air. The background shows a building with windows and trees, and a few people.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 083_JoDPa8R2noHgCzsGY6F23Q
+Target image: 2 (COCO_val2014_000000142890.jpg)
+Generated description: The image depicts a black cat positioned in front of a computer screen. the cat is facing the computer screen. the cat is in front of the computer screen. the cat is in front of the computer screen. the cat is the cat the computer screen. the cat is in front of the computer screen.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 084_jpYy9QmonaLYSmEbEpBsge
+Target image: 2 (COCO_val2014_000000284220.jpg)
+Generated description: The image depicts a young male tennis player in a red shirt with a blue racket in his right hand. He is on a green fence in a tennis court.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 086_82DLfNxneWqVNpjQi4zjCB
+Target image: 2 (COCO_val2014_000000098268.jpg)
+Generated description: The image depicts a red sign with white text that reads "ONE WAY" on a road surrounded by trees and vegetation. The sign appears weathered and a dirt road.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 089_SSPbt5fSrj8o2f9aAaZdp4
+Target image: 2 (COCO_val2014_000000135785.jpg)
+Generated description: The image depicts a skateboarder performing a trick in mid-air, wearing a beige jacket and pants, with a beanie, in an urban setting with a building in the background.
+Listener guess: the description refers to the second image.
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 092_LycEamGLGeYyKbotzNQrbm
+Target image: 2 (COCO_val2014_000000281500.jpg)
+Generated description: The image depicts a tennis player on a clay court, wearing a white shirt, shorts, socks, and shoes. The player is holding a tennis racket in a ready position, and is looking towards the direction. The court has white boundary lines marking.
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 094_CTiCNB8PENFFcZ9v7AGrAq
+Target image: 2 (COCO_val2014_000000234595.jpg)
+Generated description: The image depicts a beach scene with numerous pink umbrells, and a clear sky with clouds. The umbrells are pink umbrells are positioned over sunbeds and sunbeds, and sunbeds. The sunbeds are on the sand, and the sunbeds are sun
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 098_NswjCBbcgQAKLr7YKeNQui
+Target image: 2 (COCO_val2014_000000178982.jpg)
+Generated description: The image depicts a scene of a tunnel with two motorcyclists on a road, illuminated by artificial lights. The motorcyclists are stationary, and the tunnel is surrounded by walls, and the ceiling. Above the motorists, there are green road signs indicating directions to various locations. The motorists are stationary, and
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 099_ZDmf2r8sEcG5hw5U3vDaSd
+Target image: 2 (COCO_val2014_000000515792.jpg)
+Generated description: The image depicts a man on a beach, wearing white shorts, shirtless, throwing a frisbee. The man is in a sandy beach, with the ocean in the background. The sky is clear blue, and the sun is shining.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+======== CYCLE for TARGET INDEX 3 ========
+
+
+----------------------------------------
+Trial: 000_Xf39GqLsVwUGe7ErHgdq44
+Target image: 3 (COCO_val2014_000000473237.jpg)
+Generated description: The image depicts a young girl wearing a green shirt, eating a slice of pizza. She has her hair styled in a ponytails with a clip. The background appears to beige wall.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 001_aKfods2rkcEf5uQAmFttZZ
+Target image: 3 (COCO_val2014_000000376677.jpg)
+Generated description: The image depicts a construction site with a large concrete structure being transported on a truck. The structure is supported by a truck with a flatbed trailer. The truck is on a large concrete beams. The beams are rectangular and have multiple holes. The truck is on the road. The background shows a cityscape with buildings and
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 003_YEkc8XE8SmupZd36vuvi5P
+Target image: 3 (COCO_val2014_000000331727.jpg)
+Generated description: The image depicts a skier wearing a blue helmet and a white bib with the letters "CHS" and the number "31" on it. The skier is navigating through a snowy slope with poles in hand, surrounded by red and blue poles. The skier is wearing a blue helmet and a white bib with
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 004_VB3Tm7rg77rEpjpTYuBZnZ
+Target image: 3 (COCO_val2014_000000436138.jpg)
+Generated description: The image depicts a quaint two-story house with a light yellow facade. The house features a balcony on the upper floor, a wooden railing and a door with a diamond-shaped window. The ground floor has a small a bench and a pathway leading to the door. The house is surrounded by a lush green lawn and a
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 013_WthoLxjCvzwKsmKQzK5foy
+Target image: 3 (COCO_val2014_000000256660.jpg)
+Generated description: The image depicts a meal consisting of a piece of meat covered in a white plate. The meat is covered in a brown sauce. Surrounding the meat are several pieces of broccoli and a few slices of carrots. The plate is on a beige table.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 014_RwUsQicUBpeLmoCYMX8ZPC
+Target image: 3 (COCO_val2014_000000111909.jpg)
+Generated description: The image depicts a scene on a lake with a boat moving at the center, surrounded by a lush green trees. On the water, a person is being pulled by the boat, creating a spray of water behind them. The boat is white with a blue and a canopy. The person is wearing a life jacket. The
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 026_P46gnKM3fMXy9E5usBPHFi
+Target image: 3 (COCO_val2014_000000344758.jpg)
+Generated description: The image depicts a bowl filled with a variety of fruits, including bananas, apples, oranges, grapes, and pears. The bowl is placed on a white tablecloth. The bowl has a colorful design with floral pattern. The fruits are arranged in a mix of colors, including yellow, red, green, and orange
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 029_UCEfbeigsYRDkWUU6cPZez
+Target image: 3 (COCO_val2014_000000377588.jpg)
+Generated description: The image depicts a baseball game in progress, with a pitcher in the foreground a batter ready to swing bat. The pitcher is in the mound is in the background, and the field is green with a dirt infield. The is a fence in the foreground, and a Pepsi advertisement is visible on the wall in the
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 031_TKJu7P3rwMbMr52DcaEoNE
+Target image: 3 (COCO_val2014_000000283498.jpg)
+Generated description: The image depicts an airplane parked on a tarmac, with a jet bridge connected to its side, and a vehicle nearby. The scene is illuminated by a soft, warm light, and the sky is clear. The airplane has a distinct logo on its tail.
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 033_TdYvgoHk686bLdRV8cQUZz
+Target image: 3 (COCO_val2014_000000360318.jpg)
+Generated description: The image depicts a monkey sitting on a rocky surface, holding a piece of fruit in its hand, with a backdrop of rocks and a natural environment.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 035_n49vPZ3tnANdnJvMfGztyZ
+Target image: 3 (COCO_val2014_000000213224.jpg)
+Generated description: The image depicts a wooden table with a large, clear glass vase filled with a variety of colorful flowers, including pink, purple, white, red, and yellow blooms. There is a smaller red vase with a single white flower on the table. The background shows a room with a wooden door and a string of lights hanging
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 038_9LmxKyXxN8JCfER2MZAAmP
+Target image: 3 (COCO_val2014_000000455943.jpg)
+Generated description: The image depicts a single airplane flying in the sky. The sky is light blue with some clouds. The airplane is small and appears to be a jet.
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 040_DCKLDRfProbXeJ8aSZT9Ha
+Target image: 3 (COCO_val2014_000000196442.jpg)
+Generated description: The image depicts a skier in mid-air performing a trick, wearing a black outfit and holding onto a pair of skis. The skis are attached to a harness connected to a red kite. The background shows a snowy landscape with a few distant figures and a cloudy sky.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 041_3QHn6AW28dZzz3gNoNUpMw
+Target image: 3 (COCO_val2014_000000174457.jpg)
+Generated description: The image depicts a bear in a lush green field with tall grass and wildflowers. The bear is brown and appears to be looking towards the camera. The background has trees and a forest. The bear is in the foreground and the bear is the only animal in the image.
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 043_MgeX72ppzXHrehgU2qhmvu
+Target image: 3 (COCO_val2014_000000454907.jpg)
+Generated description: The image depicts a kitchen with wooden cabinets and a stove. The kitchen has a stove with a blue pot on it. There is a refrigerator and a microwave on the counter. The kitchen has a stove with wooden cabinets and a stove with a blue pot on it. There is a refrigerator and a microwave on the counter.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 044_2CCtpozAj5QAP67odNo3uH
+Target image: 3 (COCO_val2014_000000339676.jpg)
+Generated description: The image depicts a person surfing on a wave, wearing a wetsuit, riding a surfboard. The surfer is in mid-air above the wave, with water splashing around them. In the background, there is another person in the water, possibly waiting for their turn. The sky is clear, and there
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 047_GcbutkAxNTuoVYBWqcZ2EF
+Target image: 3 (COCO_val2014_000000453390.jpg)
+Generated description: The image features a fire hydrant with a red top and a yellow base and a red top. The hydrant is located on a grassy area with a road in the background. The hydrant has a chain attached to the top.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 048_XhuayYKd34YZFYLCHqgKJH
+Target image: 3 (COCO_val2014_000000271177.jpg)
+Generated description: The image depicts a motorcycle parked on a paved road with a backdrop of trees and a few pedestrians in the distance. The motorcycle has a black color, a windshield, and a storage compartments on the rear. The front wheel is visible, and the motorcycle is positioned at an angle to the viewer.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 051_BeUywrzY9YptGCuU8ktavy
+Target image: 3 (COCO_val2014_000000050422.jpg)
+Generated description: The image depicts a slice of deep-dish dish with a thick crust, topped with a layer of tomato sauce, cheese, and green peppers, and a sprinkle of cheese. The dish is on a white plate, with a fork to the side. In the background, there are glasses of beer and a table with a
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 063_K7jBopRVF4UL6mnkbRBiw9
+Target image: 3 (COCO_val2014_000000198625.jpg)
+Generated description: The image depicts a man wearing a blue shirt with a collar and a tie with a plaid pattern of green, yellow, white, blue, and blue. The shirt has a collar. The tie is knotted. The shirt is buttoned. The tie.
+Listener guess: the description refers to the third.
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 064_miaVnypWFPWnnWt7F3kNWc
+Target image: 3 (COCO_val2014_000000363922.jpg)
+Generated description: The image depicts an indoor setting, featuring two individuals. The person wearing a black shirt and beige pants, holding a white object in hand raised. The other person, wearing a white shirt and beige pants, standing to the right. The room has a white wall with a yellow surfboard hanging on it. There
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 065_GbFKdkEGtHUgCeWsoDggAK
+Target image: 3 (COCO_val2014_000000388398.jpg)
+Generated description: In the image, a young girl wearing a plaid shirt and a boy wearing a blue jacket are sitting on a red bench in a park. the girl is wearing a plaid shirt and the boy is sitting on the bench. the girl is wearing aaid shirt and the boy is sitting on the bench. the girl
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 066_3tcgywbsLeQuwqKYELedoC
+Target image: 3 (COCO_val2014_000000465489.jpg)
+Generated description: The image depicts a person snowboarding down a snowy slope. The person is wearing a dark jacket and pants. The sky is partly cloudy. The slope is covered in snow. The person is in the middle of the image.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 067_AwprMBTcVE96Ffg36Y8atE
+Target image: 3 (COCO_val2014_000000483358.jpg)
+Generated description: The image depicts a surfer standing on a beach, holding a surfboard with a blue and white and blue design. The surfer is looking towards the ocean, where waves are crashing onto the shore. In the background, there are people on the beach umbrellas and tents, indicating a crowded beach. The
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 068_FdWLXJSnNYHdNjCnjnuZEh
+Target image: 3 (COCO_val2014_000000468162.jpg)
+Generated description: The image depicts a living room with a beige walls and a large window allowing natural light to enter. There is a beige sofa with a coffee table in front of it, and a person is lying down on the sofa. A black dog is on the floor. There is a lamp on a side table with a
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 069_D2AD2pPKPXsAEETXVPyPV5
+Target image: 3 (COCO_val2014_000000475330.jpg)
+Generated description: The image features two teddy bears dressed in costumes. one bear dressed as a pumpkin with sunglasses and the other bear dressed as a turkey. they are sitting on a red background.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 070_k9jbok9FBRFgcn2GGRZLeX
+Target image: 3 (COCO_val2014_000000386089.jpg)
+Generated description: The image depicts a man wearing a dark coat and a red tie, holding a phone to his earphones. He appears to be in a serious. The background shows a building with a signboard.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 077_EbSYwUW6XVqfQJNf9pkVnx
+Target image: 3 (COCO_val2014_000000318888.jpg)
+Generated description: In the image, a man wearing a striped shirt, is holding a small white puppy with a playful expression. The puppy has a red leash attached to its collar. The background features a grassy field with trees and a clear blue sky.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 082_cGiZG8ch4Q2bfCL9cE9FQi
+Target image: 3 (COCO_val2014_000000285314.jpg)
+Generated description: The image depicts a person skateboarding on a street, wearing a skateboard. The person is wearing a gray t-shirt, black shorts, and knee pads. The skateboard has yellow wheels. The person is in a raised one arm. The background shows a street with trees and a building.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 083_JoDPa8R2noHgCzsGY6F23Q
+Target image: 3 (COCO_val2014_000000232383.jpg)
+Generated description: The image depicts a cat positioned behind a laptop computer screen, with a white face and black markings, and a dark background that appears to beige. The cat is looking directly at the laptop screen, and the room is dimly lit.
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 084_jpYy9QmonaLYSmEbEpBsge
+Target image: 3 (COCO_val2014_000000501898.jpg)
+Generated description: The image depicts a woman wearing a pink shirt and blue shorts, holding a tennis racket in her right hand. She is on a tennis court, with a red surface. There is a black banner in the background with white text.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 086_82DLfNxneWqVNpjQi4zjCB
+Target image: 3 (COCO_val2014_000000136400.jpg)
+Generated description: The image depicts a stop sign with a smaller sign below it, stop sign, red octagonal shape, white letters, bold, black, stop, sign, stop sign, red, white letters, black, stop sign, stop sign, sign, stop, stop sign, red, white, letters, stop, sign
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 089_SSPbt5fSrj8o2f9aAaZdp4
+Target image: 3 (COCO_val2014_000000251857.jpg)
+Generated description: The image depicts a person wearing a black tank top and striped shorts with red and white stripes, standing in the foreground. In the background, there is another person performing a skateboarding on a skateboard in mid-air. The scene is set in an urban environment with trees, buildings, and a road, and a sidewalk
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 092_LycEamGLGeYyKbotzNQrbm
+Target image: 3 (COCO_val2014_000000428254.jpg)
+Generated description: The image depicts a tennis player in action on a clay court, wearing a white shirt with blue and a cap, holding a racket, and a tennis ball in motion. The player is positioned near the net, and appears to be in the middle of a serve or a volley. The background shows the clay court
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 094_CTiCNB8PENFFcZ9v7AGrAq
+Target image: 3 (COCO_val2014_000000388846.jpg)
+Generated description: The image depicts a beach scene with numerous red and white umbreakers
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 098_NswjCBbcgQAKLr7YKeNQui
+Target image: 3 (COCO_val2014_000000325666.jpg)
+Generated description: The image depicts a snowy urban scene at night. A train is on tracks, with a green traffic light. Snow is falling, and the ground. Buildings and streetlights are visible.
+Listener guess: the description refers to the third.
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 099_ZDmf2r8sEcG5hw5U3vDaSd
+Target image: 3 (COCO_val2014_000000536416.jpg)
+Generated description: The image depicts two individuals on a sandy beach, one standing on a surfboard. The person on the board is wearing a red bikini and a blue wetsuit. The other is wearing a bikini and a wetsuit. The person is bending over, appears to be assisting the other. The ocean is
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+======== CYCLE for TARGET INDEX 4 ========
+
+
+----------------------------------------
+Trial: 000_Xf39GqLsVwUGe7ErHgdq44
+Target image: 4 (COCO_val2014_000000553667.jpg)
+Generated description: The image depicts a young girl wearing a green shirt, eating a slice of pizza. She has her eyes wide open, and her mouth slightly a bite. The pizza has a golden crust and melted cheese. The background is a room with a door and furniture.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 001_aKfods2rkcEf5uQAmFttZZ
+Target image: 4 (COCO_val2014_000000579036.jpg)
+Generated description: The image depicts a red double-decker bus with the word "SKY" written on its side, driving on a city street with tall buildings in the background. The bus has passengers on the top deck. The sky is overcast.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 003_YEkc8XE8SmupZd36vuvi5P
+Target image: 4 (COCO_val2014_000000396542.jpg)
+Generated description: The image depicts a person engaged in a winter activity, wearing a snowy forested area. The individual is equipped with skis wearing a blue jacket, black pants, and a pink backpack, and is holding ski poles. The person is pulling a small tree on skis. The background features snow-covered trees, and a
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 004_VB3Tm7rg77rEpjpTYuBZnZ
+Target image: 4 (COCO_val2014_000000479099.jpg)
+Generated description: The image depicts a quaint garden with a variety of colorful flowers, featuring a mix of yellow and purple and white blooms. There is a small tree in the center, and a brick wall in the background. The garden is bordered by a hedge.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 013_WthoLxjCvzwKsmKQzK5foy
+Target image: 4 (COCO_val2014_000000558640.jpg)
+Generated description: The image depicts a meal served in a red bowl. The bowl contains a variety of vegetables, including broccoli, corn, edamaran, and beans. The vegetables are mixed together. The bowl is placed on a dark background.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 014_RwUsQicUBpeLmoCYMX8ZPC
+Target image: 4 (COCO_val2014_000000435308.jpg)
+Generated description: The fourth image depicts a dynamic scene on a water sports activity involving a boat and a person performing a wakeboarder. The boat is blue and the wakeboarder is captured in mid-air, suggesting a jump or trick or flip. The boat is moving at a high speed, as indicated by the wake behind it.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 026_P46gnKM3fMXy9E5usBPHFi
+Target image: 4 (COCO_val2014_000000353558.jpg)
+Generated description: The image shows a bowl containing two apples and three bananas. The bowl is placed on a table. The table has a colorful tablecloth with a bowl on it. The bowl is on the table. The table has a colorful tablecloth. The bowl is on the table. The bowl is on the table. The table
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 029_UCEfbeigsYRDkWUU6cPZez
+Target image: 4 (COCO_val2014_000000541123.jpg)
+Generated description: The image depicts a tennis match taking place on a grass court during the London 2012 Olympic Games. The court is surrounded by a large crowd of spectators. There are four players in red shirts and white shorts, with rackets, and a net dividing the court. A scoreboard is visible in the background, and
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 031_TKJu7P3rwMbMr52DcaEoNE
+Target image: 4 (COCO_val2014_000000347253.jpg)
+Generated description: The image depicts an airport scene with a large commercial airplane parked at a gate. The airplane has a red, white, blue, and silver, and logo on its tail. There are vehicles and equipment around the plane, including a luggage cart and a truck and a van. The sky is clear with a bright, and
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 033_TdYvgoHk686bLdRV8cQUZz
+Target image: 4 (COCO_val2014_000000460732.jpg)
+Generated description: The image depicts a monkey sitting on a sandy ground, holding a banana in its hand, with a piece of it. The monkey has a brown fur, and the background includes some grass and a concrete structure.
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 035_n49vPZ3tnANdnJvMfGztyZ
+Target image: 4 (COCO_val2014_000000290477.jpg)
+Generated description: The image depicts a table with a purple cloth draped over it. On the table, there is a vase with a lush green plant. The plant. On either side of the vase. The table is flanked by two tall candles. The background shows rows of pews.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 038_9LmxKyXxN8JCfER2MZAAmP
+Target image: 4 (COCO_val2014_000000551650.jpg)
+Generated description: The fourth image features a single airplane flying against a cloudy sky with a darker, more overcast sky. The airplane is positioned towards the right side of the image, and appears to the right. The clouds are dense and grayish in color, with some areas. The airplane is relatively small in size compared to the vast
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 040_DCKLDRfProbXeJ8aSZT9Ha
+Target image: 4 (COCO_val2014_000000549789.jpg)
+Generated description: The fourth image depicts a skier in mid-air performing a trick, suspended by a red flag, with a backdrop of a snowy landscape and mountains. The skier is wearing a yellow jacket, and black pants, and a helmet. The skier is holding onto a ski poles. The flag is attached to a rope
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 041_3QHn6AW28dZzz3gNoNUpMw
+Target image: 4 (COCO_val2014_000000452263.jpg)
+Generated description: The image depicts a bear standing amidst tall green grass, with a dense forest backdrop. The bear is surrounded by trees and a variety of green foliage. The bear is in the foreground, there are purple flowers. The bear is a tall, and the bear is a tree trunk.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 043_MgeX72ppzXHrehgU2qhmvu
+Target image: 4 (COCO_val2014_000000548523.jpg)
+Generated description: The fourth image depicts a kitchen with a dark ambiance, featuring a stainless steel countertop that extends across the room. On the counter, there are various items including a helmet, bottles, and containers. The floor is covered with a patterned rug. The lighting is dim, and the overall atmosphere appears to be a night setting
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 044_2CCtpozAj5QAP67odNo3uH
+Target image: 4 (COCO_val2014_000000408534.jpg)
+Generated description: The image depicts a person kiteboarding on the ocean, with a kite in the sky and a board on the water. The sky is clear with clouds. The ocean is calm with waves. The person is in the water is in the foreground.
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 047_GcbutkAxNTuoVYBWqcZ2EF
+Target image: 4 (COCO_val2014_000000483941.jpg)
+Generated description: The image features a fire hydrant with a red top and a red cap and a white body. The hydrant is positioned on a grassy area with a sidewalk in the background. The hydrant has a chain attached to the hydrant is a red and the hydrant is a hydrant.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 048_XhuayYKd34YZFYLCHqgKJH
+Target image: 4 (COCO_val2014_000000566249.jpg)
+Generated description: The fourth image features a sleek black motorcycle with a sporty design, prominently showcasing a large front fairing and a windscreen. The bike is parked on a cobblestone street, with a backdrop of buildings and a clear sky. The motorcycle has a visible exhaust pipes and a rearview mirrors.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 051_BeUywrzY9YptGCuU8ktavy
+Target image: 4 (COCO_val2014_000000317798.jpg)
+Generated description: The fourth image depicts a sandwich with multiple layers of ingredients. The sandwich is made with slices of bread, lettuce, tomato, cucumber, cheese, and other fillings. The sandwich is on a plate. The background shows a kitchen setting.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 063_K7jBopRVF4UL6mnkbRBiw9
+Target image: 4 (COCO_val2014_000000572850.jpg)
+Generated description: The fourth image features a person wearing a black suit with a white shirt with a striped pattern, a tie that has a geometric design in shades of squares and rectangles in various colors. The tie is tied in a knot is neatly and the collar of the shirt is buttoned up. The suit jacket is a formal and the
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 064_miaVnypWFPWnnWt7F3kNWc
+Target image: 4 (COCO_val2014_000000447854.jpg)
+Generated description: The image depicts a wedding scene where a bride and groom are standing on either side of a table with a cake. The bride is wearing a white dress and veil, and the groom is dressed in a black suit. They are holding axes above their heads, appearing to be in the act of cutting the cake. The table
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 065_GbFKdkEGtHUgCeWsoDggAK
+Target image: 4 (COCO_val2014_000000504977.jpg)
+Generated description: The image depicts an older woman sitting on a park bench. She is wearing a light-colored dress with a pattern, and has a short, gray hair. She is holding a black bag on her lap. The bench is green and is surrounded by grass and trees.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 066_3tcgywbsLeQuwqKYELedoC
+Target image: 4 (COCO_val2014_000000514518.jpg)
+Generated description: The image depicts a snow-covered landscape with a slope surrounded by trees on the sides, and a clear sky. A person is skiing down the slope, and the sun is shining brightly. The slope has tracks from previous skiers.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 067_AwprMBTcVE96Ffg36Y8atE
+Target image: 4 (COCO_val2014_000000485212.jpg)
+Generated description: The image depicts a surfer in mid-air above a wave, wearing a black wetsuit and a white shirt. The surfer is holding onto a white surfboard with a red logo on it. The surfer is surrounded by splashing water and waves. The background shows a clear sky and ocean.
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 068_FdWLXJSnNYHdNjCnjnuZEh
+Target image: 4 (COCO_val2014_000000535312.jpg)
+Generated description: The fourth image is a collage of four separate images. The top left shows a living room with a couch and a coffee table. The top right shows a bicycle. The bottom left shows a desk and a chair. The bottom right shows a kitchen counter with a bookshelf.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 069_D2AD2pPKPXsAEETXVPyPV5
+Target image: 4 (COCO_val2014_000000516766.jpg)
+Generated description: The image features a teddy bear wearing a blue ribbon around its neck. the bear is white and a smaller brown bear is wearing a pink ribbon around its neck. the bears are sitting on a red surface.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 070_k9jbok9FBRFgcn2GGRZLeX
+Target image: 4 (COCO_val2014_000000391199.jpg)
+Generated description: The image depicts three men on a street. The man in the man in the middle is wearing a black hat and a beard. The man on the left is wearing a black vest. The man on the right is wearing a white shirt and a beard. The man in the middle is holding a cell phone. The man
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 077_EbSYwUW6XVqfQJNf9pkVnx
+Target image: 4 (COCO_val2014_000000468043.jpg)
+Generated description: The image depicts a young boy sitting on a sheep statue of a sheep on a boat. The boy is wearing a gray shirt and blue jeans. The sheep statue is a realistic in a row of sheep. The background shows a water body of water and mountains.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 082_cGiZG8ch4Q2bfCL9cE9FQi
+Target image: 4 (COCO_val2014_000000574666.jpg)
+Generated description: The image depicts a person wearing a knee pad on their knee, skateboard, red wheels, black shoes, white socks, and shorts. The person is standing on a skateboard, with one foot on the other foot on the board and the other foot on the ground. The knee pad is on the knee is on
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 083_JoDPa8R2noHgCzsGY6F23Q
+Target image: 4 (COCO_val2014_000000375509.jpg)
+Generated description: The fourth image features a cat standing on a desk with its back to the camera, looking over a laptop and a computer monitor. The cat is a white and brown tabby with a long tail. The desk has a keyboard, mouse, and a mouse. The laptop screen shows a webpage with text and the monitor shows
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 084_jpYy9QmonaLYSmEbEpBsge
+Target image: 4 (COCO_val2014_000000580847.jpg)
+Generated description: The image depicts a young girl with blonde hair tied back, wearing a white sleeveless white top and a white skirt, holding a tennis racket. She is on a tennis court with a green fence in the background.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 086_82DLfNxneWqVNpjQi4zjCB
+Target image: 4 (COCO_val2014_000000321308.jpg)
+Generated description: The fourth image features a red stop sign with white lettering on a wooden pole, with the word "STOP" and "CANADA" written in white. The sign is surrounded by trees and a residential area.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 089_SSPbt5fSrj8o2f9aAaZdp4
+Target image: 4 (COCO_val2014_000000476258.jpg)
+Generated description: The image depicts a person wearing a yellow and black suit with a helmet, riding a skateboard, and a helmet. The person is in motion, with a blurred background.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 092_LycEamGLGeYyKbotzNQrbm
+Target image: 4 (COCO_val2014_000000567276.jpg)
+Generated description: The image depicts a tennis player in a green outfit, wearing a red visor, and a red visor, on a clay court. The player is in a serve the ball in the air, with a racket in the air, and the racket racket in the player's right hand. The player's
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 094_CTiCNB8PENFFcZ9v7AGrAq
+Target image: 4 (COCO_val2014_000000490244.jpg)
+Generated description: The image depicts a beach scene with a collection of surfboards lined up against a grassy dune. There are two individuals lying on the sand, one of them appears to be using a mobile device. A flag is flying on a pole is visible in the background. The sky is clear and the is blue.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 098_NswjCBbcgQAKLr7YKeNQui
+Target image: 4 (COCO_val2014_000000568961.jpg)
+Generated description: The image depicts a train station platform with a train approaching. The train has a silver body with red lights at the front. The platform has a sign indicating 'Bronx Tour Track'. The platform is well-lit with a yellow safety lines. The train is moving towards the platform.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 099_ZDmf2r8sEcG5hw5U3vDaSd
+Target image: 4 (COCO_val2014_000000566049.jpg)
+Generated description: The image depicts a beach scene with a woman in the foreground holding a yellow frisbee. She is wearing a blue swimsuit. In the background, there are two other women are walking along the shore. The beach is a clear sky with a few clouds.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+DONE.
+
+JOB STATISTICS
+==============
+Job ID: 12344119
+Cluster: snellius
+User/Group: sbaratella/sbaratella
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 16
+CPU Utilized: 00:21:00
+CPU Efficiency: 9.40% of 03:43:28 core-walltime
+Job Wall-clock time: 00:13:58
+Memory Utilized: 95.61 GB
+Memory Efficiency: 74.69% of 128.00 GB (128.00 GB/node)

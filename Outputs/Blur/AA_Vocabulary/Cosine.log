@@ -1,0 +1,44 @@
+
+[+] Word frequency table saved as word_frequency_table.csv
+             Original  BLUR5  BLUR10  BLUR15  BLUR20  BLUR25
+2nd                 1      0       0       0       0       0
+aa                  1      0       0       0       0       0
+above               9      9       6       4       1       5
+absence             0      0       0       1       1       0
+abstract            0      1       6      12      23      13
+abstraction         0      0       0       1       0       1
+abundance           1      0       0       0       0       0
+accent              0      0       0       0       2       0
+accents             2      1       0       1       0       0
+accessory           0      1       1       0       0       0
+accompanied         2      2       1       0       0       0
+across              5      6       1       0       2       0
+action              1      5       2       1       1       0
+actions             0      0       0       1       0       0
+active              0      2       0       0       1       0
+
+Cosine similarity between conditions:
+
+          Original  BLUR5  BLUR10  BLUR15  BLUR20  BLUR25
+Original     1.000  0.856   0.736   0.652   0.583   0.504
+BLUR5        0.856  1.000   0.913   0.836   0.756   0.642
+BLUR10       0.736  0.913   1.000   0.954   0.892   0.786
+BLUR15       0.652  0.836   0.954   1.000   0.958   0.883
+BLUR20       0.583  0.756   0.892   0.958   1.000   0.956
+BLUR25       0.504  0.642   0.786   0.883   0.956   1.000
+
+[+] Cosine similarity matrix saved as cosine_similarity_matrix.csv
+
+JOB STATISTICS
+==============
+Job ID: 12492709
+Cluster: snellius
+User/Group: sbaratella/sbaratella
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 16
+CPU Utilized: 00:00:04
+CPU Efficiency: 0.74% of 00:09:04 core-walltime
+Job Wall-clock time: 00:00:34
+Memory Utilized: 1.51 MB
+Memory Efficiency: 0.00% of 30.00 GB (30.00 GB/node)

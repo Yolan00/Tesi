@@ -1,0 +1,1927 @@
+
+========================= TRIAL 1 =========================
+Folder: 000_Xf39GqLsVwUGe7ErHgdq44
+Target: [fourth]  Image: COCO_val2014_000000553667.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: The fourth image features a child with dark skin and curly hair, wearing a green jacket adorned with colorful patterns. The child is holding an orange slice close to their mouth, seemingly about to take a bite. The background is blurred, but hints of a
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The fourth image features a child with dark skin and curly hair, wearing a green jacket adorned with colorful patterns. The child is holding an orange slice close to their mouth, seemingly about to take a bite. The background is blurred, but hints of a"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    fourth
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Fourth    | 0.7500 | 88603
+    Third     | 0.1670 | 36975
+    First     | 0.0156 | 5338
+    Second    | 0.0129 | 15666
+    four      | 0.0114 | 34024
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: fourthDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The fourth image features a child with dark skin and curly hair, wearing a green jacket adorned with colorful patterns. The child is holding an orange slice close to their mouth, seemingly about to take a bite. The background is blurred, but hints of a"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+>>> FEEDBACK ROUND <<<
+Images shown: 2 (IMAGE 1 = target)
+Previous speaker desc: The fourth image features a child with dark skin and curly hair, wearing a green jacket adorned with colorful patterns. The child is holding an orange slice close to their mouth, seemingly about to take a bite. The background is blurred, but hints of a
+
+[FEEDBACK SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 2 images. 
+This is the second round of the game. 
+Your previous description was: "The fourth image features a child with dark skin and curly hair, wearing a green jacket adorned with colorful patterns. The child is holding an orange slice close to their mouth, seemingly about to take a bite. The background is blurred, but hints of a" but the listener is still not sure about the target image and selected multiple possible targets. 
+Generate a new description of IMAGE 1 taking into account the other images, so that the listener can identify it among the others. 
+DO NOT MENTION that the image is IMAGE 1. Never use the words 'first', 'second', etc. 
+
+  Generated: The first image shows a person wearing a green jacket with colorful patterns, holding an orange slice close to their mouth, seemingly about to take a bite. The background is blurred, but hints of a colorful setting are visible.
+
+[FEEDBACK LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The first image shows a person wearing a green jacket with colorful patterns, holding an orange slice close to their mouth, seemingly about to take a bite. The background is blurred, but hints of a colorful setting are visible."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    third
+  Result:    WRONG
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Third     | 0.5117 | 36975
+    Fourth    | 0.3516 | 88603
+    Second    | 0.0540 | 15666
+    First     | 0.0308 | 5338
+    third     | 0.0100 | 31727
+
+  [RAW FEEDBACK SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 2 images. 
+This is the second round of the game. 
+Your previous description was: "The fourth image features a child with dark skin and curly hair, wearing a green jacket adorned with colorful patterns. The child is holding an orange slice close to their mouth, seemingly about to take a bite. The background is blurred, but hints of a" but the listener is still not sure about the target image and selected multiple possible targets. 
+Generate a new description of IMAGE 1 taking into account the other images, so that the listener can identify it among the others. 
+DO NOT MENTION that the image is IMAGE 1. Never use the words 'first', 'second', etc.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>TARGET: IMAGE 1DESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW FEEDBACK LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The first image shows a person wearing a green jacket with colorful patterns, holding an orange slice close to their mouth, seemingly about to take a bite. The background is blurred, but hints of a colorful setting are visible."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+============================================================
+
+
+========================= TRIAL 2 =========================
+Folder: 001_aKfods2rkcEf5uQAmFttZZ
+Target: [fourth]  Image: COCO_val2014_000000579036.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: A red double-decker bus with "City" written on its side is driving down a city street, passing by tall buildings and a modern skyscraper. The bus has a blue and white sign on the front displaying the word "City."
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "A red double-decker bus with "City" written on its side is driving down a city street, passing by tall buildings and a modern skyscraper. The bus has a blue and white sign on the front displaying the word "City.""
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    fourth
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Fourth    | 0.9531 | 88603
+    four      | 0.0154 | 34024
+    Third     | 0.0044 | 36975
+    Four      | 0.0042 | 26972
+    The       | 0.0039 | 785
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: fourthDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "A red double-decker bus with "City" written on its side is driving down a city street, passing by tall buildings and a modern skyscraper. The bus has a blue and white sign on the front displaying the word "City.""
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+
+========================= TRIAL 3 =========================
+Folder: 003_YEkc8XE8SmupZd36vuvi5P
+Target: [fourth]  Image: COCO_val2014_000000396542.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: The individual in this image is wearing a blue jacket and black pants while skiing on a snowy slope. They have a backpack on their back and are holding ski poles. The background features trees covered with snow, indicating a winter setting.
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The individual in this image is wearing a blue jacket and black pants while skiing on a snowy slope. They have a backpack on their back and are holding ski poles. The background features trees covered with snow, indicating a winter setting."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    fourth
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Fourth    | 0.9180 | 88603
+    four      | 0.0315 | 34024
+    Third     | 0.0109 | 36975
+    Second    | 0.0084 | 15666
+    Four      | 0.0074 | 26972
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: fourthDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The individual in this image is wearing a blue jacket and black pants while skiing on a snowy slope. They have a backpack on their back and are holding ski poles. The background features trees covered with snow, indicating a winter setting."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+
+========================= TRIAL 4 =========================
+Folder: 004_VB3Tm7rg77rEpjpTYuBZnZ
+Target: [third]  Image: COCO_val2014_000000436138.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: The third image features a quaint house with a wooden balcony and a brown door. The house has a small garden in front, with a few bushes and a tree. The lawn is well-maintained and green, and there is a small wooden bench
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The third image features a quaint house with a wooden balcony and a brown door. The house has a small garden in front, with a few bushes and a tree. The lawn is well-maintained and green, and there is a small wooden bench"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    third
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Third     | 0.9062 | 36975
+    third     | 0.0398 | 31727
+    The       | 0.0310 | 785
+    Fourth    | 0.0074 | 88603
+    Image     | 0.0029 | 1906
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: thirdDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The third image features a quaint house with a wooden balcony and a brown door. The house has a small garden in front, with a few bushes and a tree. The lawn is well-maintained and green, and there is a small wooden bench"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+
+========================= TRIAL 5 =========================
+Folder: 013_WthoLxjCvzwKsmKQzK5foy
+Target: [second]  Image: COCO_val2014_000000214919.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: The second image features a plate with a variety of vegetables and a piece of meat covered in a dark sauce. The vegetables include broccoli florets, sliced carrots, and possibly some corn kernels. The dish appears to be a mix of fresh and cooked ingredients
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The second image features a plate with a variety of vegetables and a piece of meat covered in a dark sauce. The vegetables include broccoli florets, sliced carrots, and possibly some corn kernels. The dish appears to be a mix of fresh and cooked ingredients"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    third
+  Result:    WRONG
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Third     | 0.6875 | 36975
+    Second    | 0.1533 | 15666
+    First     | 0.0684 | 5338
+    third     | 0.0221 | 31727
+    Fourth    | 0.0183 | 88603
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: secondDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The second image features a plate with a variety of vegetables and a piece of meat covered in a dark sauce. The vegetables include broccoli florets, sliced carrots, and possibly some corn kernels. The dish appears to be a mix of fresh and cooked ingredients"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+>>> FEEDBACK ROUND <<<
+Images shown: 2 (IMAGE 1 = target)
+Previous speaker desc: The second image features a plate with a variety of vegetables and a piece of meat covered in a dark sauce. The vegetables include broccoli florets, sliced carrots, and possibly some corn kernels. The dish appears to be a mix of fresh and cooked ingredients
+
+[FEEDBACK SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 2 images. 
+This is the second round of the game. 
+Your previous description was: "The second image features a plate with a variety of vegetables and a piece of meat covered in a dark sauce. The vegetables include broccoli florets, sliced carrots, and possibly some corn kernels. The dish appears to be a mix of fresh and cooked ingredients" but the listener is still not sure about the target image and selected multiple possible targets. 
+Generate a new description of IMAGE 1 taking into account the other images, so that the listener can identify it among the others. 
+DO NOT MENTION that the image is IMAGE 1. Never use the words 'first', 'second', etc. 
+
+  Generated: The first image shows a plate filled with a colorful assortment of vegetables and grains. There are pieces of broccoli, sliced carrots, and what appears to be black beans or lentils mixed in. The vegetables are fresh and vibrant, while the grains look cooked
+
+[FEEDBACK LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The first image shows a plate filled with a colorful assortment of vegetables and grains. There are pieces of broccoli, sliced carrots, and what appears to be black beans or lentils mixed in. The vegetables are fresh and vibrant, while the grains look cooked"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    second
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Second    | 0.6562 | 15666
+    Fourth    | 0.1875 | 88603
+    First     | 0.0884 | 5338
+    Third     | 0.0327 | 36975
+    second    | 0.0120 | 5569
+
+  [RAW FEEDBACK SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 2 images. 
+This is the second round of the game. 
+Your previous description was: "The second image features a plate with a variety of vegetables and a piece of meat covered in a dark sauce. The vegetables include broccoli florets, sliced carrots, and possibly some corn kernels. The dish appears to be a mix of fresh and cooked ingredients" but the listener is still not sure about the target image and selected multiple possible targets. 
+Generate a new description of IMAGE 1 taking into account the other images, so that the listener can identify it among the others. 
+DO NOT MENTION that the image is IMAGE 1. Never use the words 'first', 'second', etc.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>TARGET: IMAGE 1DESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW FEEDBACK LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The first image shows a plate filled with a colorful assortment of vegetables and grains. There are pieces of broccoli, sliced carrots, and what appears to be black beans or lentils mixed in. The vegetables are fresh and vibrant, while the grains look cooked"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+============================================================
+
+
+========================= TRIAL 6 =========================
+Folder: 014_RwUsQicUBpeLmoCYMX8ZPC
+Target: [first]  Image: COCO_val2014_000000050962.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the first image so that the listener can identify it among the others, DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: A small motorboat with a blue hull and white top is speeding across a calm body of water, leaving a trail of white foam behind. The boat is being driven by a person wearing a yellow life jacket and a black helmet. The background features lush
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "A small motorboat with a blue hull and white top is speeding across a calm body of water, leaving a trail of white foam behind. The boat is being driven by a person wearing a yellow life jacket and a black helmet. The background features lush"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    first
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    First     | 0.9102 | 5338
+    first     | 0.0400 | 3896
+    Second    | 0.0214 | 15666
+    Fourth    | 0.0147 | 88603
+    Third     | 0.0045 | 36975
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the first image so that the listener can identify it among the others, DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: firstDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "A small motorboat with a blue hull and white top is speeding across a calm body of water, leaving a trail of white foam behind. The boat is being driven by a person wearing a yellow life jacket and a black helmet. The background features lush"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+
+========================= TRIAL 7 =========================
+Folder: 026_P46gnKM3fMXy9E5usBPHFi
+Target: [first]  Image: COCO_val2014_000000198367.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the first image so that the listener can identify it among the others, DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: The first image features a bowl filled with a variety of fruits placed on a tablecloth with a polka dot pattern. The bowl contains bananas, apples, and oranges, all arranged in a visually appealing manner. The background includes a box with an Amazon
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The first image features a bowl filled with a variety of fruits placed on a tablecloth with a polka dot pattern. The bowl contains bananas, apples, and oranges, all arranged in a visually appealing manner. The background includes a box with an Amazon"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    first
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    First     | 0.5820 | 5338
+    Fourth    | 0.1670 | 88603
+    Third     | 0.1299 | 36975
+    Second    | 0.0894 | 15666
+    first     | 0.0061 | 3896
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the first image so that the listener can identify it among the others, DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: firstDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The first image features a bowl filled with a variety of fruits placed on a tablecloth with a polka dot pattern. The bowl contains bananas, apples, and oranges, all arranged in a visually appealing manner. The background includes a box with an Amazon"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+>>> FEEDBACK ROUND <<<
+Images shown: 3 (IMAGE 1 = target)
+Previous speaker desc: The first image features a bowl filled with a variety of fruits placed on a tablecloth with a polka dot pattern. The bowl contains bananas, apples, and oranges, all arranged in a visually appealing manner. The background includes a box with an Amazon
+
+[FEEDBACK SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 3 images. 
+This is the second round of the game. 
+Your previous description was: "The first image features a bowl filled with a variety of fruits placed on a tablecloth with a polka dot pattern. The bowl contains bananas, apples, and oranges, all arranged in a visually appealing manner. The background includes a box with an Amazon" but the listener is still not sure about the target image and selected multiple possible targets. 
+Generate a new description of IMAGE 1 taking into account the other images, so that the listener can identify it among the others. 
+DO NOT MENTION that the image is IMAGE 1. Never use the words 'first', 'second', etc. 
+
+  Generated: The image shows a bowl filled with a variety of fruits placed on a tablecloth with a polka dot pattern. The bowl contains bananas, apples, and oranges, all arranged in a visually appealing manner. The background includes a box with an Amazon logo
+
+[FEEDBACK LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The image shows a bowl filled with a variety of fruits placed on a tablecloth with a polka dot pattern. The bowl contains bananas, apples, and oranges, all arranged in a visually appealing manner. The background includes a box with an Amazon logo"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    first
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    First     | 0.3887 | 5338
+    Third     | 0.2676 | 36975
+    Fourth    | 0.1621 | 88603
+    Second    | 0.1113 | 15666
+    first     | 0.0103 | 3896
+
+  [RAW FEEDBACK SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 3 images. 
+This is the second round of the game. 
+Your previous description was: "The first image features a bowl filled with a variety of fruits placed on a tablecloth with a polka dot pattern. The bowl contains bananas, apples, and oranges, all arranged in a visually appealing manner. The background includes a box with an Amazon" but the listener is still not sure about the target image and selected multiple possible targets. 
+Generate a new description of IMAGE 1 taking into account the other images, so that the listener can identify it among the others. 
+DO NOT MENTION that the image is IMAGE 1. Never use the words 'first', 'second', etc.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>TARGET: IMAGE 1DESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW FEEDBACK LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The image shows a bowl filled with a variety of fruits placed on a tablecloth with a polka dot pattern. The bowl contains bananas, apples, and oranges, all arranged in a visually appealing manner. The background includes a box with an Amazon logo"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+============================================================
+
+
+========================= TRIAL 8 =========================
+Folder: 029_UCEfbeigsYRDkWUU6cPZez
+Target: [fourth]  Image: COCO_val2014_000000541123.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: The fourth image depicts a tennis match on a grass court with players in red and white uniforms. The court is surrounded by a crowd of spectators seated in stands. The background features a large scoreboard displaying scores and advertisements, including one for "London 2
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The fourth image depicts a tennis match on a grass court with players in red and white uniforms. The court is surrounded by a crowd of spectators seated in stands. The background features a large scoreboard displaying scores and advertisements, including one for "London 2"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    fourth
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Fourth    | 0.9141 | 88603
+    four      | 0.0515 | 34024
+    The       | 0.0090 | 785
+    第四        | 0.0051 | 102232
+    fourth    | 0.0048 | 11737
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: fourthDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The fourth image depicts a tennis match on a grass court with players in red and white uniforms. The court is surrounded by a crowd of spectators seated in stands. The background features a large scoreboard displaying scores and advertisements, including one for "London 2"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+
+========================= TRIAL 9 =========================
+Folder: 031_TKJu7P3rwMbMr52DcaEoNE
+Target: [second]  Image: COCO_val2014_000000267521.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: The second image features an airplane with a distinctive red and blue stripe running along its side, parked on a tarmac with a clear sky in the background. The plane has a large jet engine visible under its wing, and there are several ground service vehicles
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The second image features an airplane with a distinctive red and blue stripe running along its side, parked on a tarmac with a clear sky in the background. The plane has a large jet engine visible under its wing, and there are several ground service vehicles"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    second
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Second    | 0.6133 | 15666
+    Fourth    | 0.1367 | 88603
+    First     | 0.1367 | 5338
+    Third     | 0.0645 | 36975
+    second    | 0.0119 | 5569
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: secondDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The second image features an airplane with a distinctive red and blue stripe running along its side, parked on a tarmac with a clear sky in the background. The plane has a large jet engine visible under its wing, and there are several ground service vehicles"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+>>> FEEDBACK ROUND <<<
+Images shown: 3 (IMAGE 1 = target)
+Previous speaker desc: The second image features an airplane with a distinctive red and blue stripe running along its side, parked on a tarmac with a clear sky in the background. The plane has a large jet engine visible under its wing, and there are several ground service vehicles
+
+[FEEDBACK SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 3 images. 
+This is the second round of the game. 
+Your previous description was: "The second image features an airplane with a distinctive red and blue stripe running along its side, parked on a tarmac with a clear sky in the background. The plane has a large jet engine visible under its wing, and there are several ground service vehicles" but the listener is still not sure about the target image and selected multiple possible targets. 
+Generate a new description of IMAGE 1 taking into account the other images, so that the listener can identify it among the others. 
+DO NOT MENTION that the image is IMAGE 1. Never use the words 'first', 'second', etc. 
+
+  Generated: The first image shows an airplane with a distinctive red and blue stripe running along its side, parked on a tarmac with a clear sky in the background. The plane has a large jet engine visible under its wing, and there are several ground service vehicles
+
+[FEEDBACK LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The first image shows an airplane with a distinctive red and blue stripe running along its side, parked on a tarmac with a clear sky in the background. The plane has a large jet engine visible under its wing, and there are several ground service vehicles"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    first
+  Result:    WRONG
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    First     | 0.4316 | 5338
+    Fourth    | 0.2314 | 88603
+    Second    | 0.2041 | 15666
+    Third     | 0.0850 | 36975
+    The       | 0.0062 | 785
+
+  [RAW FEEDBACK SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 3 images. 
+This is the second round of the game. 
+Your previous description was: "The second image features an airplane with a distinctive red and blue stripe running along its side, parked on a tarmac with a clear sky in the background. The plane has a large jet engine visible under its wing, and there are several ground service vehicles" but the listener is still not sure about the target image and selected multiple possible targets. 
+Generate a new description of IMAGE 1 taking into account the other images, so that the listener can identify it among the others. 
+DO NOT MENTION that the image is IMAGE 1. Never use the words 'first', 'second', etc.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>TARGET: IMAGE 1DESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW FEEDBACK LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The first image shows an airplane with a distinctive red and blue stripe running along its side, parked on a tarmac with a clear sky in the background. The plane has a large jet engine visible under its wing, and there are several ground service vehicles"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+============================================================
+
+
+========================= TRIAL 10 =========================
+Folder: 033_TdYvgoHk686bLdRV8cQUZz
+Target: [fourth]  Image: COCO_val2014_000000460732.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: A monkey sits on a sandy ground, holding a banana in its hand and eating it. The background features sparse grass and small rocks.
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "A monkey sits on a sandy ground, holding a banana in its hand and eating it. The background features sparse grass and small rocks."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    fourth
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Fourth    | 0.7539 | 88603
+    Third     | 0.0483 | 36975
+    Second    | 0.0483 | 15666
+    First     | 0.0400 | 5338
+    four      | 0.0275 | 34024
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: fourthDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "A monkey sits on a sandy ground, holding a banana in its hand and eating it. The background features sparse grass and small rocks."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+
+========================= TRIAL 11 =========================
+Folder: 035_n49vPZ3tnANdnJvMfGztyZ
+Target: [third]  Image: COCO_val2014_000000213224.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: The third image features a vibrant flower arrangement in a clear glass vase placed on a wooden table. The flowers include a mix of bright colors such as red, pink, and purple, along with some white blooms. The arrangement is set against a backdrop of
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The third image features a vibrant flower arrangement in a clear glass vase placed on a wooden table. The flowers include a mix of bright colors such as red, pink, and purple, along with some white blooms. The arrangement is set against a backdrop of"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    third
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Third     | 0.7852 | 36975
+    third     | 0.1367 | 31727
+    The       | 0.0391 | 785
+    First     | 0.0082 | 5338
+    Second    | 0.0077 | 15666
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: thirdDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The third image features a vibrant flower arrangement in a clear glass vase placed on a wooden table. The flowers include a mix of bright colors such as red, pink, and purple, along with some white blooms. The arrangement is set against a backdrop of"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+
+========================= TRIAL 12 =========================
+Folder: 038_9LmxKyXxN8JCfER2MZAAmP
+Target: [fourth]  Image: COCO_val2014_000000551650.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: The fourth image features an airplane flying against a backdrop of dark, ominous clouds, creating a dramatic and somewhat foreboding atmosphere. The plane is positioned centrally in the frame, with its silhouette sharply defined against the cloudy sky.
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The fourth image features an airplane flying against a backdrop of dark, ominous clouds, creating a dramatic and somewhat foreboding atmosphere. The plane is positioned centrally in the frame, with its silhouette sharply defined against the cloudy sky."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    fourth
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Fourth    | 0.8984 | 88603
+    Third     | 0.0349 | 36975
+    First     | 0.0239 | 5338
+    four      | 0.0088 | 34024
+    Second    | 0.0083 | 15666
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: fourthDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The fourth image features an airplane flying against a backdrop of dark, ominous clouds, creating a dramatic and somewhat foreboding atmosphere. The plane is positioned centrally in the frame, with its silhouette sharply defined against the cloudy sky."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+
+========================= TRIAL 13 =========================
+Folder: 040_DCKLDRfProbXeJ8aSZT9Ha
+Target: [third]  Image: COCO_val2014_000000196442.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: A skier in mid-air, performing a trick with their skis crossed over each other, against a backdrop of a cloudy sky and snow-covered mountains.
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "A skier in mid-air, performing a trick with their skis crossed over each other, against a backdrop of a cloudy sky and snow-covered mountains."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    fourth
+  Result:    WRONG
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Fourth    | 0.7383 | 88603
+    Third     | 0.0781 | 36975
+    Second    | 0.0688 | 15666
+    First     | 0.0474 | 5338
+    four      | 0.0112 | 34024
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: thirdDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "A skier in mid-air, performing a trick with their skis crossed over each other, against a backdrop of a cloudy sky and snow-covered mountains."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+
+========================= TRIAL 14 =========================
+Folder: 041_3QHn6AW28dZzz3gNoNUpMw
+Target: [second]  Image: COCO_val2014_000000083773.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: The bear in this image stands on a rocky terrain with a backdrop of large rocks and sparse vegetation. The bear's fur appears darker compared to the other bears, and it has a more alert posture, with its ears perked up and eyes focused forward
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The bear in this image stands on a rocky terrain with a backdrop of large rocks and sparse vegetation. The bear's fur appears darker compared to the other bears, and it has a more alert posture, with its ears perked up and eyes focused forward"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    second
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Second    | 0.9180 | 15666
+    Fourth    | 0.0277 | 88603
+    First     | 0.0277 | 5338
+    second    | 0.0123 | 5569
+    The       | 0.0055 | 785
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: secondDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The bear in this image stands on a rocky terrain with a backdrop of large rocks and sparse vegetation. The bear's fur appears darker compared to the other bears, and it has a more alert posture, with its ears perked up and eyes focused forward"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+
+========================= TRIAL 15 =========================
+Folder: 043_MgeX72ppzXHrehgU2qhmvu
+Target: [first]  Image: COCO_val2014_000000027285.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the first image so that the listener can identify it among the others, DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: The kitchen features a modern design with light-colored wood paneling on the walls and ceiling. The stove has a stainless steel finish and is equipped with a built-in oven and a range hood above it. On the countertop, there are various kitchen items
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The kitchen features a modern design with light-colored wood paneling on the walls and ceiling. The stove has a stainless steel finish and is equipped with a built-in oven and a range hood above it. On the countertop, there are various kitchen items"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    first
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    First     | 0.7617 | 5338
+    Third     | 0.1030 | 36975
+    Second    | 0.0913 | 15666
+    first     | 0.0179 | 3896
+    Fourth    | 0.0066 | 88603
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the first image so that the listener can identify it among the others, DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: firstDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The kitchen features a modern design with light-colored wood paneling on the walls and ceiling. The stove has a stainless steel finish and is equipped with a built-in oven and a range hood above it. On the countertop, there are various kitchen items"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+>>> FEEDBACK ROUND <<<
+Images shown: 2 (IMAGE 1 = target)
+Previous speaker desc: The kitchen features a modern design with light-colored wood paneling on the walls and ceiling. The stove has a stainless steel finish and is equipped with a built-in oven and a range hood above it. On the countertop, there are various kitchen items
+
+[FEEDBACK SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 2 images. 
+This is the second round of the game. 
+Your previous description was: "The kitchen features a modern design with light-colored wood paneling on the walls and ceiling. The stove has a stainless steel finish and is equipped with a built-in oven and a range hood above it. On the countertop, there are various kitchen items" but the listener is still not sure about the target image and selected multiple possible targets. 
+Generate a new description of IMAGE 1 taking into account the other images, so that the listener can identify it among the others. 
+DO NOT MENTION that the image is IMAGE 1. Never use the words 'first', 'second', etc. 
+
+  Generated: The kitchen features a modern design with light-colored wood paneling on the walls and ceiling. The stove has a stainless steel finish and is equipped with a built-in oven and a range hood above it. On the countertop, there are various kitchen items
+
+[FEEDBACK LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The kitchen features a modern design with light-colored wood paneling on the walls and ceiling. The stove has a stainless steel finish and is equipped with a built-in oven and a range hood above it. On the countertop, there are various kitchen items"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    first
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    First     | 0.7617 | 5338
+    Third     | 0.1030 | 36975
+    Second    | 0.0913 | 15666
+    first     | 0.0179 | 3896
+    Fourth    | 0.0066 | 88603
+
+  [RAW FEEDBACK SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 2 images. 
+This is the second round of the game. 
+Your previous description was: "The kitchen features a modern design with light-colored wood paneling on the walls and ceiling. The stove has a stainless steel finish and is equipped with a built-in oven and a range hood above it. On the countertop, there are various kitchen items" but the listener is still not sure about the target image and selected multiple possible targets. 
+Generate a new description of IMAGE 1 taking into account the other images, so that the listener can identify it among the others. 
+DO NOT MENTION that the image is IMAGE 1. Never use the words 'first', 'second', etc.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>TARGET: IMAGE 1DESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW FEEDBACK LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The kitchen features a modern design with light-colored wood paneling on the walls and ceiling. The stove has a stainless steel finish and is equipped with a built-in oven and a range hood above it. On the countertop, there are various kitchen items"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+============================================================
+
+
+========================= TRIAL 16 =========================
+Folder: 044_2CCtpozAj5QAP67odNo3uH
+Target: [third]  Image: COCO_val2014_000000339676.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: The third image features a surfer riding a wave on a surfboard, with the surfer's body angled towards the wave's crest and their arms outstretched for balance. The wave is breaking to the right, creating white foam around the sur
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The third image features a surfer riding a wave on a surfboard, with the surfer's body angled towards the wave's crest and their arms outstretched for balance. The wave is breaking to the right, creating white foam around the sur"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    third
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Third     | 0.8516 | 36975
+    third     | 0.0330 | 31727
+    First     | 0.0330 | 5338
+    Second    | 0.0273 | 15666
+    The       | 0.0188 | 785
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: thirdDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The third image features a surfer riding a wave on a surfboard, with the surfer's body angled towards the wave's crest and their arms outstretched for balance. The wave is breaking to the right, creating white foam around the sur"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+
+========================= TRIAL 17 =========================
+Folder: 047_GcbutkAxNTuoVYBWqcZ2EF
+Target: [fourth]  Image: COCO_val2014_000000483941.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: The fourth image features a red fire hydrant with a white base and a red cap on top. It stands on a grassy area near a sidewalk, with a building visible in the background. The hydrant has a distinct red color and a white
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The fourth image features a red fire hydrant with a white base and a red cap on top. It stands on a grassy area near a sidewalk, with a building visible in the background. The hydrant has a distinct red color and a white"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    fourth
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Fourth    | 0.9531 | 88603
+    four      | 0.0093 | 34024
+    Third     | 0.0078 | 36975
+    The       | 0.0073 | 785
+    第四        | 0.0042 | 102232
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: fourthDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The fourth image features a red fire hydrant with a white base and a red cap on top. It stands on a grassy area near a sidewalk, with a building visible in the background. The hydrant has a distinct red color and a white"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+
+========================= TRIAL 18 =========================
+Folder: 048_XhuayYKd34YZFYLCHqgKJH
+Target: [first]  Image: COCO_val2014_000000142537.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the first image so that the listener can identify it among the others, DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: The motorcycle in the foreground has a classic design with a long, curved handlebar and a large headlight. It features a black seat and a black fuel tank with chrome accents. The wheels are large and have a shiny finish. The background includes a
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The motorcycle in the foreground has a classic design with a long, curved handlebar and a large headlight. It features a black seat and a black fuel tank with chrome accents. The wheels are large and have a shiny finish. The background includes a"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    first
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    First     | 0.8672 | 5338
+    Second    | 0.0432 | 15666
+    Fourth    | 0.0381 | 88603
+    first     | 0.0297 | 3896
+    Third     | 0.0090 | 36975
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the first image so that the listener can identify it among the others, DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: firstDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The motorcycle in the foreground has a classic design with a long, curved handlebar and a large headlight. It features a black seat and a black fuel tank with chrome accents. The wheels are large and have a shiny finish. The background includes a"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+
+========================= TRIAL 19 =========================
+Folder: 051_BeUywrzY9YptGCuU8ktavy
+Target: [fourth]  Image: COCO_val2014_000000317798.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: A sandwich with a toasted bun, filled with layers of fresh lettuce, juicy tomato slices, crisp cucumber chunks, and tender pieces of grilled chicken. The sandwich is held together by a toothpick, and there's a visible bite taken out of it,
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "A sandwich with a toasted bun, filled with layers of fresh lettuce, juicy tomato slices, crisp cucumber chunks, and tender pieces of grilled chicken. The sandwich is held together by a toothpick, and there's a visible bite taken out of it,"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    fourth
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Fourth    | 0.9570 | 88603
+    four      | 0.0094 | 34024
+    The       | 0.0083 | 785
+    Four      | 0.0050 | 26972
+    Third     | 0.0044 | 36975
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: fourthDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "A sandwich with a toasted bun, filled with layers of fresh lettuce, juicy tomato slices, crisp cucumber chunks, and tender pieces of grilled chicken. The sandwich is held together by a toothpick, and there's a visible bite taken out of it,"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+
+========================= TRIAL 20 =========================
+Folder: 063_K7jBopRVF4UL6mnkbRBiw9
+Target: [second]  Image: COCO_val2014_000000134807.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: The second image features a person wearing a white shirt with a purple floral patterned tie. The tie has a vibrant and intricate design, contrasting sharply with the plain white shirt. The background appears to be indoors, possibly in an office setting, with some
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The second image features a person wearing a white shirt with a purple floral patterned tie. The tie has a vibrant and intricate design, contrasting sharply with the plain white shirt. The background appears to be indoors, possibly in an office setting, with some"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    second
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Second    | 0.9336 | 15666
+    First     | 0.0220 | 5338
+    second    | 0.0182 | 5569
+    The       | 0.0081 | 785
+    Third     | 0.0046 | 36975
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: secondDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The second image features a person wearing a white shirt with a purple floral patterned tie. The tie has a vibrant and intricate design, contrasting sharply with the plain white shirt. The background appears to be indoors, possibly in an office setting, with some"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+
+========================= TRIAL 21 =========================
+Folder: 064_miaVnypWFPWnnWt7F3kNWc
+Target: [first]  Image: COCO_val2014_000000182170.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the first image so that the listener can identify it among the others, DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: In this image, two individuals are standing in a room with a fireplace and a television in the background. One person is holding a remote control, while the other is wearing a patterned shirt. The room has a cozy ambiance with warm lighting.
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "In this image, two individuals are standing in a room with a fireplace and a television in the background. One person is holding a remote control, while the other is wearing a patterned shirt. The room has a cozy ambiance with warm lighting."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    first
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    First     | 0.9453 | 5338
+    Fourth    | 0.0173 | 88603
+    first     | 0.0173 | 3896
+    Second    | 0.0135 | 15666
+    Third     | 0.0023 | 36975
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the first image so that the listener can identify it among the others, DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: firstDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "In this image, two individuals are standing in a room with a fireplace and a television in the background. One person is holding a remote control, while the other is wearing a patterned shirt. The room has a cozy ambiance with warm lighting."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+
+========================= TRIAL 22 =========================
+Folder: 065_GbFKdkEGtHUgCeWsoDggAK
+Target: [third]  Image: COCO_val2014_000000388398.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: The third image features two children sitting on a red bench. One child is wearing a blue jacket and brown pants, while the other is dressed in a plaid shirt and jeans. Both children are wearing black boots and appear to be laughing or smiling.
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The third image features two children sitting on a red bench. One child is wearing a blue jacket and brown pants, while the other is dressed in a plaid shirt and jeans. Both children are wearing black boots and appear to be laughing or smiling."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    third
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Third     | 0.8711 | 36975
+    third     | 0.0713 | 31727
+    The       | 0.0337 | 785
+    Image     | 0.0110 | 1906
+    First     | 0.0023 | 5338
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: thirdDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The third image features two children sitting on a red bench. One child is wearing a blue jacket and brown pants, while the other is dressed in a plaid shirt and jeans. Both children are wearing black boots and appear to be laughing or smiling."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+
+========================= TRIAL 23 =========================
+Folder: 066_3tcgywbsLeQuwqKYELedoC
+Target: [second]  Image: COCO_val2014_000000290602.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: The second image features a snowboarder in mid-air against a backdrop of a snow-covered mountain peak under a partly cloudy sky. The snowboarder is captured in a dynamic pose, with their arms outstretched and legs bent, indicating a high
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The second image features a snowboarder in mid-air against a backdrop of a snow-covered mountain peak under a partly cloudy sky. The snowboarder is captured in a dynamic pose, with their arms outstretched and legs bent, indicating a high"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    second
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Second    | 0.9141 | 15666
+    First     | 0.0518 | 5338
+    second    | 0.0167 | 5569
+    Fourth    | 0.0042 | 88603
+    The       | 0.0027 | 785
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: secondDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The second image features a snowboarder in mid-air against a backdrop of a snow-covered mountain peak under a partly cloudy sky. The snowboarder is captured in a dynamic pose, with their arms outstretched and legs bent, indicating a high"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+
+========================= TRIAL 24 =========================
+Folder: 067_AwprMBTcVE96Ffg36Y8atE
+Target: [third]  Image: COCO_val2014_000000483358.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: The third image features a surfer riding a wave with a blue and white surfboard. The surfer is wearing a black wetsuit and appears to be in motion, with water splashing around them. In the background, there are people on
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The third image features a surfer riding a wave with a blue and white surfboard. The surfer is wearing a black wetsuit and appears to be in motion, with water splashing around them. In the background, there are people on"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    third
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Third     | 0.8594 | 36975
+    The       | 0.0403 | 785
+    third     | 0.0378 | 31727
+    Fourth    | 0.0215 | 88603
+    First     | 0.0102 | 5338
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: thirdDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The third image features a surfer riding a wave with a blue and white surfboard. The surfer is wearing a black wetsuit and appears to be in motion, with water splashing around them. In the background, there are people on"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+
+========================= TRIAL 25 =========================
+Folder: 068_FdWLXJSnNYHdNjCnjnuZEh
+Target: [first]  Image: COCO_val2014_000000391269.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the first image so that the listener can identify it among the others, DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: The living room features a large window with a view of the outdoors, a cozy sofa adorned with multiple pillows and blankets, a coffee table in front of the sofa, and a bicycle leaning against the wall near the entrance. The room also has a book
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The living room features a large window with a view of the outdoors, a cozy sofa adorned with multiple pillows and blankets, a coffee table in front of the sofa, and a bicycle leaning against the wall near the entrance. The room also has a book"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    third
+  Result:    WRONG
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Third     | 0.3906 | 36975
+    Second    | 0.3047 | 15666
+    First     | 0.1631 | 5338
+    Fourth    | 0.0564 | 88603
+    third     | 0.0221 | 31727
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the first image so that the listener can identify it among the others, DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: firstDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The living room features a large window with a view of the outdoors, a cozy sofa adorned with multiple pillows and blankets, a coffee table in front of the sofa, and a bicycle leaning against the wall near the entrance. The room also has a book"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+>>> FEEDBACK ROUND <<<
+Images shown: 3 (IMAGE 1 = target)
+Previous speaker desc: The living room features a large window with a view of the outdoors, a cozy sofa adorned with multiple pillows and blankets, a coffee table in front of the sofa, and a bicycle leaning against the wall near the entrance. The room also has a book
+
+[FEEDBACK SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 3 images. 
+This is the second round of the game. 
+Your previous description was: "The living room features a large window with a view of the outdoors, a cozy sofa adorned with multiple pillows and blankets, a coffee table in front of the sofa, and a bicycle leaning against the wall near the entrance. The room also has a book" but the listener is still not sure about the target image and selected multiple possible targets. 
+Generate a new description of IMAGE 1 taking into account the other images, so that the listener can identify it among the others. 
+DO NOT MENTION that the image is IMAGE 1. Never use the words 'first', 'second', etc. 
+
+  Generated: The living room features a large window with a view of the outdoors, a cozy sofa adorned with multiple pillows and blankets, a coffee table in front of the sofa, and a bicycle leaning against the wall near the entrance. The room also has a book
+
+[FEEDBACK LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The living room features a large window with a view of the outdoors, a cozy sofa adorned with multiple pillows and blankets, a coffee table in front of the sofa, and a bicycle leaning against the wall near the entrance. The room also has a book"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    third
+  Result:    WRONG
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Third     | 0.3906 | 36975
+    Second    | 0.3047 | 15666
+    First     | 0.1631 | 5338
+    Fourth    | 0.0564 | 88603
+    third     | 0.0221 | 31727
+
+  [RAW FEEDBACK SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 3 images. 
+This is the second round of the game. 
+Your previous description was: "The living room features a large window with a view of the outdoors, a cozy sofa adorned with multiple pillows and blankets, a coffee table in front of the sofa, and a bicycle leaning against the wall near the entrance. The room also has a book" but the listener is still not sure about the target image and selected multiple possible targets. 
+Generate a new description of IMAGE 1 taking into account the other images, so that the listener can identify it among the others. 
+DO NOT MENTION that the image is IMAGE 1. Never use the words 'first', 'second', etc.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>TARGET: IMAGE 1DESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW FEEDBACK LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The living room features a large window with a view of the outdoors, a cozy sofa adorned with multiple pillows and blankets, a coffee table in front of the sofa, and a bicycle leaning against the wall near the entrance. The room also has a book"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+============================================================
+
+
+========================= TRIAL 26 =========================
+Folder: 069_D2AD2pPKPXsAEETXVPyPV5
+Target: [fourth]  Image: COCO_val2014_000000516766.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: The fourth image features a white teddy bear with a blue bow around its neck, holding a smaller brown teddy bear in its arms. The background is a solid red color.
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The fourth image features a white teddy bear with a blue bow around its neck, holding a smaller brown teddy bear in its arms. The background is a solid red color."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    fourth
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Fourth    | 0.9727 | 88603
+    four      | 0.0062 | 34024
+    Fourth    | 0.0031 | 35074
+    Four      | 0.0029 | 26972
+    The       | 0.0029 | 785
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: fourthDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The fourth image features a white teddy bear with a blue bow around its neck, holding a smaller brown teddy bear in its arms. The background is a solid red color."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+
+========================= TRIAL 27 =========================
+Folder: 070_k9jbok9FBRFgcn2GGRZLeX
+Target: [first]  Image: COCO_val2014_000000059567.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the first image so that the listener can identify it among the others, DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: A man in a striped shirt and sunglasses is talking on his phone while standing outdoors.
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "A man in a striped shirt and sunglasses is talking on his phone while standing outdoors."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    first
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    First     | 0.8750 | 5338
+    Second    | 0.0923 | 15666
+    first     | 0.0206 | 3896
+    The       | 0.0034 | 785
+    second    | 0.0019 | 5569
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the first image so that the listener can identify it among the others, DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: firstDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "A man in a striped shirt and sunglasses is talking on his phone while standing outdoors."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+
+========================= TRIAL 28 =========================
+Folder: 077_EbSYwUW6XVqfQJNf9pkVnx
+Target: [second]  Image: COCO_val2014_000000212545.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: The second image features a child wearing a brown hat with a white emblem on top, holding a light brown dog by its collar. The child is dressed in a gray sweater and blue jeans, standing outdoors with a grassy area and some trees in the
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The second image features a child wearing a brown hat with a white emblem on top, holding a light brown dog by its collar. The child is dressed in a gray sweater and blue jeans, standing outdoors with a grassy area and some trees in the"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    second
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Second    | 0.9258 | 15666
+    second    | 0.0522 | 5569
+    First     | 0.0103 | 5338
+    The       | 0.0040 | 785
+    第二        | 0.0013 | 99802
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: secondDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The second image features a child wearing a brown hat with a white emblem on top, holding a light brown dog by its collar. The child is dressed in a gray sweater and blue jeans, standing outdoors with a grassy area and some trees in the"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+
+========================= TRIAL 29 =========================
+Folder: 082_cGiZG8ch4Q2bfCL9cE9FQi
+Target: [third]  Image: COCO_val2014_000000285314.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: The third image features a skateboarder in mid-air, performing a trick on a paved road. The skateboarder is wearing a white t-shirt and black shorts, with one knee pad visible. The background includes other skateboarders and a few people walking along
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The third image features a skateboarder in mid-air, performing a trick on a paved road. The skateboarder is wearing a white t-shirt and black shorts, with one knee pad visible. The background includes other skateboarders and a few people walking along"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    third
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Third     | 0.8477 | 36975
+    third     | 0.0698 | 31727
+    Second    | 0.0212 | 15666
+    The       | 0.0212 | 785
+    Fourth    | 0.0129 | 88603
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: thirdDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The third image features a skateboarder in mid-air, performing a trick on a paved road. The skateboarder is wearing a white t-shirt and black shorts, with one knee pad visible. The background includes other skateboarders and a few people walking along"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+
+========================= TRIAL 30 =========================
+Folder: 083_JoDPa8R2noHgCzsGY6F23Q
+Target: [second]  Image: COCO_val2014_000000142890.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: The second image features a black cat sitting on a desk in front of a computer monitor. The cat's fur appears to be sleek and shiny, and its ears are perked up, indicating alertness. The background includes a blurred view of the computer
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The second image features a black cat sitting on a desk in front of a computer monitor. The cat's fur appears to be sleek and shiny, and its ears are perked up, indicating alertness. The background includes a blurred view of the computer"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    second
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Second    | 0.8242 | 15666
+    First     | 0.1270 | 5338
+    Third     | 0.0125 | 36975
+    Fourth    | 0.0118 | 88603
+    second    | 0.0098 | 5569
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: secondDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The second image features a black cat sitting on a desk in front of a computer monitor. The cat's fur appears to be sleek and shiny, and its ears are perked up, indicating alertness. The background includes a blurred view of the computer"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+>>> FEEDBACK ROUND <<<
+Images shown: 2 (IMAGE 1 = target)
+Previous speaker desc: The second image features a black cat sitting on a desk in front of a computer monitor. The cat's fur appears to be sleek and shiny, and its ears are perked up, indicating alertness. The background includes a blurred view of the computer
+
+[FEEDBACK SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 2 images. 
+This is the second round of the game. 
+Your previous description was: "The second image features a black cat sitting on a desk in front of a computer monitor. The cat's fur appears to be sleek and shiny, and its ears are perked up, indicating alertness. The background includes a blurred view of the computer" but the listener is still not sure about the target image and selected multiple possible targets. 
+Generate a new description of IMAGE 1 taking into account the other images, so that the listener can identify it among the others. 
+DO NOT MENTION that the image is IMAGE 1. Never use the words 'first', 'second', etc. 
+
+  Generated: The first image shows a black cat sitting on a desk in front of a computer monitor. The cat's fur appears to be sleek and shiny, with its ears perked up, indicating alertness. The background includes a blurred view of the computer screen
+
+[FEEDBACK LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The first image shows a black cat sitting on a desk in front of a computer monitor. The cat's fur appears to be sleek and shiny, with its ears perked up, indicating alertness. The background includes a blurred view of the computer screen"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    first
+  Result:    WRONG
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    First     | 0.6016 | 5338
+    Second    | 0.2520 | 15666
+    Third     | 0.0718 | 36975
+    Fourth    | 0.0386 | 88603
+    first     | 0.0125 | 3896
+
+  [RAW FEEDBACK SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 2 images. 
+This is the second round of the game. 
+Your previous description was: "The second image features a black cat sitting on a desk in front of a computer monitor. The cat's fur appears to be sleek and shiny, and its ears are perked up, indicating alertness. The background includes a blurred view of the computer" but the listener is still not sure about the target image and selected multiple possible targets. 
+Generate a new description of IMAGE 1 taking into account the other images, so that the listener can identify it among the others. 
+DO NOT MENTION that the image is IMAGE 1. Never use the words 'first', 'second', etc.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>TARGET: IMAGE 1DESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW FEEDBACK LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The first image shows a black cat sitting on a desk in front of a computer monitor. The cat's fur appears to be sleek and shiny, with its ears perked up, indicating alertness. The background includes a blurred view of the computer screen"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+============================================================
+
+
+========================= TRIAL 31 =========================
+Folder: 084_jpYy9QmonaLYSmEbEpBsge
+Target: [first]  Image: COCO_val2014_000000191721.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the first image so that the listener can identify it among the others, DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: A young girl in a white and blue striped tank top and red skirt stands on a tennis court, holding a blue and white tennis racket with her right hand, ready to play.
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "A young girl in a white and blue striped tank top and red skirt stands on a tennis court, holding a blue and white tennis racket with her right hand, ready to play."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    first
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    First     | 0.6602 | 5338
+    Fourth    | 0.2139 | 88603
+    Second    | 0.0476 | 15666
+    Third     | 0.0226 | 36975
+    first     | 0.0199 | 3896
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the first image so that the listener can identify it among the others, DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: firstDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "A young girl in a white and blue striped tank top and red skirt stands on a tennis court, holding a blue and white tennis racket with her right hand, ready to play."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+>>> FEEDBACK ROUND <<<
+Images shown: 2 (IMAGE 1 = target)
+Previous speaker desc: A young girl in a white and blue striped tank top and red skirt stands on a tennis court, holding a blue and white tennis racket with her right hand, ready to play.
+
+[FEEDBACK SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 2 images. 
+This is the second round of the game. 
+Your previous description was: "A young girl in a white and blue striped tank top and red skirt stands on a tennis court, holding a blue and white tennis racket with her right hand, ready to play." but the listener is still not sure about the target image and selected multiple possible targets. 
+Generate a new description of IMAGE 1 taking into account the other images, so that the listener can identify it among the others. 
+DO NOT MENTION that the image is IMAGE 1. Never use the words 'first', 'second', etc. 
+
+  Generated: A young girl in a white and blue striped tank top and red skirt stands on a tennis court, holding a blue and white tennis racket with her right hand, ready to play.
+
+[FEEDBACK LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "A young girl in a white and blue striped tank top and red skirt stands on a tennis court, holding a blue and white tennis racket with her right hand, ready to play."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    first
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    First     | 0.6602 | 5338
+    Fourth    | 0.2139 | 88603
+    Second    | 0.0476 | 15666
+    Third     | 0.0226 | 36975
+    first     | 0.0199 | 3896
+
+  [RAW FEEDBACK SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 2 images. 
+This is the second round of the game. 
+Your previous description was: "A young girl in a white and blue striped tank top and red skirt stands on a tennis court, holding a blue and white tennis racket with her right hand, ready to play." but the listener is still not sure about the target image and selected multiple possible targets. 
+Generate a new description of IMAGE 1 taking into account the other images, so that the listener can identify it among the others. 
+DO NOT MENTION that the image is IMAGE 1. Never use the words 'first', 'second', etc.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>TARGET: IMAGE 1DESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW FEEDBACK LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "A young girl in a white and blue striped tank top and red skirt stands on a tennis court, holding a blue and white tennis racket with her right hand, ready to play."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+============================================================
+
+
+========================= TRIAL 32 =========================
+Folder: 086_82DLfNxneWqVNpjQi4zjCB
+Target: [third]  Image: COCO_val2014_000000136400.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: The third image features a stop sign with an additional sign below it that reads "FASTEN SEAT BELTS." The background includes a residential area with houses and trees.
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The third image features a stop sign with an additional sign below it that reads "FASTEN SEAT BELTS." The background includes a residential area with houses and trees."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    third
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Third     | 0.9180 | 36975
+    third     | 0.0403 | 31727
+    The       | 0.0190 | 785
+    Image     | 0.0070 | 1906
+    First     | 0.0035 | 5338
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: thirdDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The third image features a stop sign with an additional sign below it that reads "FASTEN SEAT BELTS." The background includes a residential area with houses and trees."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+
+========================= TRIAL 33 =========================
+Folder: 089_SSPbt5fSrj8o2f9aAaZdp4
+Target: [second]  Image: COCO_val2014_000000135785.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: The second image features a person in a beige jacket and black pants performing a trick on a skateboard. The individual is captured mid-air, with their arms outstretched for balance, and the skateboard is tilted at an angle. The background includes a building
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The second image features a person in a beige jacket and black pants performing a trick on a skateboard. The individual is captured mid-air, with their arms outstretched for balance, and the skateboard is tilted at an angle. The background includes a building"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    second
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Second    | 0.9297 | 15666
+    second    | 0.0281 | 5569
+    First     | 0.0219 | 5338
+    The       | 0.0091 | 785
+    Third     | 0.0025 | 36975
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: secondDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The second image features a person in a beige jacket and black pants performing a trick on a skateboard. The individual is captured mid-air, with their arms outstretched for balance, and the skateboard is tilted at an angle. The background includes a building"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+
+========================= TRIAL 34 =========================
+Folder: 092_LycEamGLGeYyKbotzNQrbm
+Target: [third]  Image: COCO_val2014_000000428254.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: The third image features a tennis player in action on a clay court. The player is wearing a light blue and white shirt, dark shorts, and a white visor. They are holding a tennis racket and appear to be in the middle of a shot
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The third image features a tennis player in action on a clay court. The player is wearing a light blue and white shirt, dark shorts, and a white visor. They are holding a tennis racket and appear to be in the middle of a shot"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    third
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Third     | 0.8242 | 36975
+    third     | 0.1260 | 31727
+    The       | 0.0171 | 785
+    First     | 0.0067 | 5338
+    Second    | 0.0052 | 15666
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: thirdDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The third image features a tennis player in action on a clay court. The player is wearing a light blue and white shirt, dark shorts, and a white visor. They are holding a tennis racket and appear to be in the middle of a shot"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+
+========================= TRIAL 35 =========================
+Folder: 094_CTiCNB8PENFFcZ9v7AGrAq
+Target: [second]  Image: COCO_val2014_000000234595.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: The second image features a sandy beach lined with numerous red and white umbrellas, each accompanied by matching lounge chairs. The sky above is partly cloudy, and the horizon shows a mix of blue sky and distant clouds. The beach appears to be quite busy
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The second image features a sandy beach lined with numerous red and white umbrellas, each accompanied by matching lounge chairs. The sky above is partly cloudy, and the horizon shows a mix of blue sky and distant clouds. The beach appears to be quite busy"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    second
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Second    | 0.9492 | 15666
+    First     | 0.0223 | 5338
+    second    | 0.0197 | 5569
+    The       | 0.0019 | 785
+    Third     | 0.0015 | 36975
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: secondDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The second image features a sandy beach lined with numerous red and white umbrellas, each accompanied by matching lounge chairs. The sky above is partly cloudy, and the horizon shows a mix of blue sky and distant clouds. The beach appears to be quite busy"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+
+========================= TRIAL 36 =========================
+Folder: 098_NswjCBbcgQAKLr7YKeNQui
+Target: [second]  Image: COCO_val2014_000000178982.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: The second image depicts a nighttime scene on a highway with two motorcycles traveling in opposite directions. The road is illuminated by streetlights and traffic signals, creating a dimly lit environment. The motorcycles have their rear lights on, adding to the visibility of their
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "The second image depicts a nighttime scene on a highway with two motorcycles traveling in opposite directions. The road is illuminated by streetlights and traffic signals, creating a dimly lit environment. The motorcycles have their rear lights on, adding to the visibility of their"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    second
+  Result:    CORRECT
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Second    | 0.9336 | 15666
+    second    | 0.0410 | 5569
+    Third     | 0.0071 | 36975
+    First     | 0.0063 | 5338
+    The       | 0.0046 | 785
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: secondDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "The second image depicts a nighttime scene on a highway with two motorcycles traveling in opposite directions. The road is illuminated by streetlights and traffic signals, creating a dimly lit environment. The motorcycles have their rear lights on, adding to the visibility of their"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+
+========================= TRIAL 37 =========================
+Folder: 099_ZDmf2r8sEcG5hw5U3vDaSd
+Target: [fourth]  Image: COCO_val2014_000000566049.jpg
+
+[SPEAKER]
+  Prompt:    You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others. 
+  Generated: A woman in a blue wetsuit and black shorts stands on the beach, holding a surfboard under her arm. She appears to be preparing for a surfing session, with another person standing nearby, possibly observing or waiting for their turn. The background
+
+[LISTENER]
+  Prompt:    You are playing a reference game as the listener. Here is a description: "A woman in a blue wetsuit and black shorts stands on the beach, holding a surfboard under her arm. She appears to be preparing for a surfing session, with another person standing nearby, possibly observing or waiting for their turn. The background"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+  Output:    third
+  Result:    WRONG
+  [Top5 probabilities]
+    Token     | Prob    | TokenID
+    Third     | 0.8633 | 36975
+    third     | 0.0625 | 31727
+    The       | 0.0378 | 785
+    Fourth    | 0.0090 | 88603
+    Second    | 0.0062 | 15666
+
+  [RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: fourthDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+  [RAW LISTENER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+<|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|><|vision_start|><|image_pad|><|vision_end|>You are playing a reference game as the listener. Here is a description: "A woman in a blue wetsuit and black shorts stands on the beach, holding a surfboard under her arm. She appears to be preparing for a surfing session, with another person standing nearby, possibly observing or waiting for their turn. The background"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.<|im_end|>
+<|im_start|>assistant
+
+------------------------------------------------------------
+
+
+============================== PERFORMANCE SUMMARY ==============================
+First round accuracy: 33/37 (89.19%)
+Feedback round accuracy: 4/8 (50.00%)
+Wrong→Correct flips: 1
+Correct→Wrong flips: 3
+First round avg. desc. length: 40.43 ± 7.14 words
+Feedback round avg. desc. length: 42.12 ± 4.29 words
+================================================================================

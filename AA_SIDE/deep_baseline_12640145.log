@@ -1,0 +1,74 @@
+/projects/0/prjs1482/miniconda/envs/deepseek/lib/python3.10/site-packages/huggingface_hub/file_download.py:943: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Python version is above 3.10, patching the collections module.
+Loading DeepSeek-VL2...
+Add pad token = ['<｜▁pad▁｜>'] to the tokenizer
+<｜▁pad▁｜>:2
+Add image token = ['<image>'] to the tokenizer
+<image>:128815
+Add grounding-related tokens = ['<|ref|>', '<|/ref|>', '<|det|>', '<|/det|>', '<|grounding|>'] to the tokenizer with input_ids
+<|ref|>:128816
+<|/ref|>:128817
+<|det|>:128818
+<|/det|>:128819
+<|grounding|>:128820
+Add chat tokens = ['<|User|>', '<|Assistant|>'] to the tokenizer with input_ids
+<|User|>:128821
+<|Assistant|>:128822
+
+Loading checkpoint shards:   0%|          | 0/8 [00:00<?, ?it/s]Loading checkpoint shards:  12%|█▎        | 1/8 [00:28<03:22, 28.88s/it]Loading checkpoint shards:  25%|██▌       | 2/8 [01:02<03:09, 31.60s/it]Loading checkpoint shards:  38%|███▊      | 3/8 [01:31<02:32, 30.53s/it]Loading checkpoint shards:  50%|█████     | 4/8 [01:37<01:22, 20.74s/it]Loading checkpoint shards:  62%|██████▎   | 5/8 [02:05<01:10, 23.43s/it]Loading checkpoint shards:  75%|███████▌  | 6/8 [02:36<00:51, 25.85s/it]Loading checkpoint shards:  88%|████████▊ | 7/8 [03:08<00:27, 27.86s/it]Loading checkpoint shards: 100%|██████████| 8/8 [03:16<00:00, 21.52s/it]Loading checkpoint shards: 100%|██████████| 8/8 [03:16<00:00, 24.51s/it]
+You're using a LlamaTokenizerFast tokenizer. Please note that with a fast tokenizer, using the `__call__` method is faster than using a method to encode the text followed by a call to the `pad` method to get a padded encoding.
+/projects/0/prjs1482/miniconda/envs/deepseek/lib/python3.10/site-packages/torch/nn/modules/conv.py:459: UserWarning: Applied workaround for CuDNN issue, install nvrtc.so (Triggered internally at ../aten/src/ATen/native/cudnn/Conv_v8.cpp:80.)
+  return F.conv2d(input, weight, bias, self.stride,
+000_Xf39GqLsVwUGe7ErHgdq44: The image depicts a man wearing a suit and tie, holding a piece of food to his mouth, and holding a white plate in his other hand. The man appears to be in a formal setting, possibly a event or gathering.
+001_aKfods2rkcEf5uQAmFttZZ: The image depicts a bridge with a metal structure featuring a series of a bus driving on it. The bridge has a metal structure with a series of a bus driving on it. The bridge has a metal structure with a series of a bus driving on it. The bridge has a metal structure with a series of a bus driving
+003_YEkc8XE8SmupZd36vuvi5P: The image depicts a person skiing down a snowy slope. The individual is wearing a colorful helmet and goggles, and is holding ski poles. The person is in a dynamic pose, leaning forward. The background is a clear blue sky.
+004_VB3Tm7rg77rEpjpTYuBZnZ: The image depicts a large, classical-style building with a prominent clock tower and a well-maintained green lawn in the foreground. The building features a symmetrical design with columns and a triangular pediment and a red-tiled roof. The clock tower is tall and has a white clock face and a pointed roof. The lawn is
+013_WthoLxjCvzwKsmKQzK5foy: The image depicts a meal consisting of grilled meat with sesame seeds on rice, accompanied by a side of green beans, a carrot, and a broccoli.
+014_RwUsQicUBpeLmoCYMX8ZPC: The image depicts a motorboat with two individuals on a blue hull and a motor at the water body. The boat is in motion, creating a wake behind it. The surrounding environment is lush green trees and vegetation along the water. The individuals are wearing yellow and the boat is blue.
+026_P46gnKM3fMXy9E5usBPHFi: The image shows a bowl containing three bananas and two apples. The bowl is white and is placed on a table. The table is a orange placemat with a polka dots. The apples are red and yellow and the bananas are ripe.
+029_UCEfbeigsYRDkWUU6cPZez: The image depicts a baseball game in progress. The scene is captured from an aerial perspective. The field is green with a pitcher's mound in the pitcher is in the act of throwing a ball towards the batter who is in a catcher is positioned behind the home plate. The umpire is standing behind the catcher. The batter
+031_TKJu7P3rwMbMr52DcaEoNE: The image depicts a large commercial airplane parked at an airport gate. The airplane is predominantly white with a red logo on its tail. The plane is connected to a jet bridge, allowing passengers to board or disembark. Ground service vehicles are present around the aircraft. The sky is overcast, and the background.
+033_TdYvgoHk686bLdRV8cQUZz: The image depicts a monkey holding a banana and a bottle of juice. The monkey is positioned in a bottle of juice with a label that reads "JUNG JUICE" and "JUICE". The monkey is holding the bottle with its right hand and the left hand. The monkey is biting the banana with its mouth.
+035_n49vPZ3tnANdnJvMfGztyZ: The image depicts a dining room with a wooden table set for four chairs around it. The table is a vase with flowers on it. There is a tapestry on the wall. There is a bar cart with bottles on the side.
+038_9LmxKyXxN8JCfER2MZAAmP: The image depicts a sky with two airplanes flying in the clouds.
+040_DCKLDRfProbXeJ8aSZT9Ha: The image depicts a skier performing a mid-air trick against a blue sky. The skier is wearing a blue and yellow jacket, black helmet. The skier is upside down. The skier is holding onto skis skis are crossed. The skier is surrounded by snow particles.
+041_3QHn6AW28dZzz3gNoNUpMw: The image depicts a bear in a grassy area near a body of a river. The bear is brown in color. The grass is green and the bear is in a of the foreground. The river is in the background.
+043_MgeX72ppzXHrehgU2qhmvu: The image depicts a kitchen with a modern design. The kitchen features a stainless steel range hood above a stove, a white refrigerator with a countertop, and a sink. The backsplash made of wood panels. There are shelves on the wall holding various kitchen items. The floor is a light-colored.
+044_2CCtpozAj5QAP67odNo3uH: The image depicts a person engaged in the activity of kiteboarding, wearing a wetsuit, holding onto a kite control bar, and being lifted above the water. The background shows a body of water with waves and a distant land.
+047_GcbutkAxNTuoVYBWqcZ2EF: The image depicts a fire hydrant with a yellow body and a blue top. The hydrant is on a grassy area with a road in front of a fence. The hydrant is surrounded by trees with leaves. The hydrant has the number 296 on it.
+048_XhuayYKd34YZFYLCHqgKJH: The image depicts a motorcycle parked on a street. The motorcycle has a black and white color scheme with chrome accents. It features a large front wheel a white wall tire and a prominent headlight. The background shows a building and a person standing near the sidewalk.
+051_BeUywrzY9YptGCuU8ktavy: The image depicts a slice of deep-dish red pizza with a thick crust, topped with a layer of tomato sauce, cheese, and some green vegetables. The pizza is served on a white plate. In the background, there are two glasses filled with a dark liquid, likely beer, and a person's hand holding a
+063_K7jBopRVF4UL6mnkbRBiw9: The image depicts a man wearing a suit with a brown jacket, a light blue shirt, and a tie. The jacket has a pocket on the shirt. The man's shirt is visible. The image is a close-up of the man's upper body.
+064_miaVnypWFPWnnWt7F3kNWc: The image depicts two individuals standing in a room, facing away from the viewer. The person on the person on the left is wearing a dark green shirt, and the person on the right is wearing a patterned shirt. Both are holding white objects in their hands, possibly controllers. In front of them is a television screen displaying
+065_GbFKdkEGtHUgCeWsoDggAK: The image depicts a woman sitting on a bench in a park. She is wearing a bright orange dress with a beige scarf draped over her shoulders. She has her arms crossed and is wearing black and white shoes. The background shows greenery and a path with some fallen leaves.
+066_3tcgywbsLeQuwqKYELedoC: The image depicts a skier in mid-air performing a trick on a snowy mountain slope. The skier is wearing a helmet, goggles, and is holding ski poles. The skier is in a dynamic pose, with skis crossed. The background shows a clear sky and a mountain. There are logos and text indicating
+067_AwprMBTcVE96Ffg36Y8atE: The image depicts a surfer riding a wave on a surfboard on a wave. The surfer is wearing a black wetsuit and is in a crouched position on the surfboard is white with a red logo on the front. The wave is blue sky in the background.
+068_FdWLXJSnNYHdNjCnjnuZEh: The image depicts a living room with a brown leather sofa, a beige couch, a brown leather sofa, a brown leather armchair, a beige couch, a brown leather, a brown armchair, a beige, a brown leather armchair, a brown armchair, beige, a beige,
+069_D2AD2pPKPXsAEETXVPyPV5: The image depicts two teddy bears. The larger bear is wearing a red hat and scarf, and a red and blue striped scarf. The smaller bear is beige. They are sitting on a beige couch.
+070_k9jbok9FBRFgcn2GGRZLeX: The image depicts a man in the foreground who appears to be in a black and white photograph. He is wearing a polo shirt and has curly hair. He is holding a phone to his ear with his right hand and seems to his ear with his left. He is wearing a watch on his left wrist. There are two
+077_EbSYwUW6XVqfQJNf9pkVnx: The image depicts a person wearing a red jacket and a red and a white pony in a forest setting. The person is holding a camera and appears to be taking a photo of the pony. The pony is standing on the ground covered with grass and trees in the background.
+082_cGiZG8ch4Q2bfCL9cE9FQi: The image depicts a beach scene with a person standing on the shore. The person is wearing a hat, a dark shirt, and shorts, and holding a phone in hand. The ocean waves are visible in the background, and a chair is in the foreground.
+083_JoDPa8R2noHgCzsGY6F23Q: The image shows a cat resting on a shelf above a desk, with a computer monitor displaying a blue screen in front of it.
+084_jpYy9QmonaLYSmEbEpBsge: The image depicts a young girl playing tennis. She is wearing a striped shirt and a red skirt. She is holding a tennis racketball in her right hand. The background shows a tennis court.
+086_82DLfNxneWqVNpjQi4zjCB: The image depicts a stop sign with the word "STOP"
+089_SSPbt5fSrj8o2f9aAaZdp4: The image depicts a person skateboarding on a skateboard in an outdoor setting. The individual is wearing a beanie and sunglasses, a scarf, and appears to be in motion. The background features trees and a grassy area with a pathway. The image has a dynamic feel due to the motion blur effect.
+092_LycEamGLGeYyKbotzNQrbm: The image depicts a tennis player on a clay court. She is wearing a red shirt, black shorts, and a visor. She is holding a tennis racket. The court is orange.
+094_CTiCNB8PENFFcZ9v7AGrAq: The image depicts a beach scene with several people and umbreakers
+098_NswjCBbcgQAKLr7YKeNQui: The image depicts a train station platform at night. A train is visible on the right side of the platform. The platform is illuminated by a street lamp. A signpost is visible on the platform. The sign reads "To New York" and "Track .,
+099_ZDmf2r8sEcG5hw5U3vDaSd: The image depicts two men playing a game on a beach. One man is wearing a white cap and a green hat, and the other is wearing a green cap. They are playing with a ball. The man in the man is wearing a white cap is holding a ball. The man in a ball is wearing a green
+
+JOB STATISTICS
+==============
+Job ID: 12640145
+Cluster: snellius
+User/Group: sbaratella/sbaratella
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 16
+CPU Utilized: 00:13:35
+CPU Efficiency: 13.03% of 01:44:16 core-walltime
+Job Wall-clock time: 00:06:31
+Memory Utilized: 95.73 GB
+Memory Efficiency: 74.79% of 128.00 GB (128.00 GB/node)

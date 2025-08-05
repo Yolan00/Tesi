@@ -1,0 +1,124 @@
+==== SUMMARY OVER 10 RUNS ====
+Total runs: 10
+
+Mean accuracy: 39.93 ± 2.62%
+Mean desc len: 18.02 ± 1.03 words
+Mean std desc len: 14.01 ± 0.90 words
+
+Total trials (all runs): 1480
+Mean correct per run: 59.1
+Mean wrong per run: 88.9
+
+Per-run accuracies:
+Run 1: 36.49%
+Run 2: 38.51%
+Run 3: 40.54%
+Run 4: 40.54%
+Run 5: 43.24%
+Run 6: 35.14%
+Run 7: 39.86%
+Run 8: 41.22%
+Run 9: 40.54%
+Run 10: 43.24%
+
+==== Rank statistics per run ====
+
+Run 1:
+rank1_correct: 0.5594 ± 0.1765
+rank2_correct: 0.1771 ± 0.0891
+rank3_correct: 0.1028 ± 0.0672
+rank4_correct: 0.0620 ± 0.0494
+rank1_wrong: 0.4478 ± 0.1670
+rank2_wrong: 0.2089 ± 0.0761
+rank3_wrong: 0.1298 ± 0.0630
+rank4_wrong: 0.0797 ± 0.0531
+
+Run 2:
+rank1_correct: 0.5721 ± 0.2202
+rank2_correct: 0.1842 ± 0.1188
+rank3_correct: 0.0995 ± 0.0686
+rank4_correct: 0.0517 ± 0.0468
+rank1_wrong: 0.4234 ± 0.1540
+rank2_wrong: 0.2298 ± 0.0789
+rank3_wrong: 0.1414 ± 0.0603
+rank4_wrong: 0.0919 ± 0.0552
+
+Run 3:
+rank1_correct: 0.6091 ± 0.2154
+rank2_correct: 0.1586 ± 0.0988
+rank3_correct: 0.0901 ± 0.0709
+rank4_correct: 0.0562 ± 0.0542
+rank1_wrong: 0.3906 ± 0.1366
+rank2_wrong: 0.2116 ± 0.0717
+rank3_wrong: 0.1385 ± 0.0638
+rank4_wrong: 0.0866 ± 0.0547
+
+Run 4:
+rank1_correct: 0.5913 ± 0.1799
+rank2_correct: 0.1651 ± 0.0967
+rank3_correct: 0.0866 ± 0.0627
+rank4_correct: 0.0466 ± 0.0404
+rank1_wrong: 0.4493 ± 0.1585
+rank2_wrong: 0.2211 ± 0.0771
+rank3_wrong: 0.1414 ± 0.0630
+rank4_wrong: 0.0856 ± 0.0513
+
+Run 5:
+rank1_correct: 0.5521 ± 0.2017
+rank2_correct: 0.1765 ± 0.1011
+rank3_correct: 0.1025 ± 0.0733
+rank4_correct: 0.0607 ± 0.0545
+rank1_wrong: 0.4110 ± 0.1561
+rank2_wrong: 0.2241 ± 0.0756
+rank3_wrong: 0.1391 ± 0.0656
+rank4_wrong: 0.0836 ± 0.0556
+
+Run 6:
+rank1_correct: 0.6097 ± 0.1949
+rank2_correct: 0.1568 ± 0.1106
+rank3_correct: 0.0849 ± 0.0671
+rank4_correct: 0.0525 ± 0.0525
+rank1_wrong: 0.4350 ± 0.1586
+rank2_wrong: 0.2282 ± 0.0818
+rank3_wrong: 0.1431 ± 0.0646
+rank4_wrong: 0.0916 ± 0.0544
+
+Run 7:
+rank1_correct: 0.5776 ± 0.1975
+rank2_correct: 0.1759 ± 0.1055
+rank3_correct: 0.0996 ± 0.0713
+rank4_correct: 0.0551 ± 0.0519
+rank1_wrong: 0.4489 ± 0.1552
+rank2_wrong: 0.2230 ± 0.0821
+rank3_wrong: 0.1312 ± 0.0611
+rank4_wrong: 0.0787 ± 0.0503
+
+Run 8:
+rank1_correct: 0.5656 ± 0.2058
+rank2_correct: 0.1724 ± 0.0962
+rank3_correct: 0.0995 ± 0.0697
+rank4_correct: 0.0571 ± 0.0501
+rank1_wrong: 0.4488 ± 0.1618
+rank2_wrong: 0.2273 ± 0.0766
+rank3_wrong: 0.1288 ± 0.0633
+rank4_wrong: 0.0798 ± 0.0541
+
+Run 9:
+rank1_correct: 0.6040 ± 0.2214
+rank2_correct: 0.1654 ± 0.1066
+rank3_correct: 0.0938 ± 0.0784
+rank4_correct: 0.0458 ± 0.0474
+rank1_wrong: 0.4088 ± 0.1470
+rank2_wrong: 0.2231 ± 0.0697
+rank3_wrong: 0.1496 ± 0.0535
+rank4_wrong: 0.0932 ± 0.0514
+
+Run 10:
+rank1_correct: 0.5877 ± 0.1972
+rank2_correct: 0.1770 ± 0.1072
+rank3_correct: 0.0949 ± 0.0742
+rank4_correct: 0.0518 ± 0.0477
+rank1_wrong: 0.4507 ± 0.1608
+rank2_wrong: 0.2271 ± 0.0831
+rank3_wrong: 0.1361 ± 0.0630
+rank4_wrong: 0.0831 ± 0.0498

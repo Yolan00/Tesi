@@ -1,0 +1,146 @@
+
+Top 20 content words for /projects/0/prjs1482/UvA/Outputs/Blur/qwen_BLUR5_output_descriptions.json:
+background: 106
+image: 82
+appears: 61
+features: 59
+white: 48
+setting: 48
+scene: 47
+suggesting: 46
+blue: 43
+person: 41
+possibly: 39
+red: 39
+sky: 36
+against: 36
+green: 34
+visible: 33
+includes: 28
+dark: 25
+greenery: 25
+object: 23
+
+Top 20 content words for /projects/0/prjs1482/UvA/Outputs/Blur/qwen_BLUR10_output_descriptions.json:
+background: 120
+image: 119
+features: 108
+appears: 80
+object: 59
+possibly: 58
+blurred: 55
+person: 54
+setting: 51
+scene: 51
+dark: 49
+against: 48
+includes: 43
+white: 43
+suggesting: 41
+blue: 40
+wearing: 35
+green: 34
+greenery: 32
+overall: 30
+
+Top 20 content words for /projects/0/prjs1482/UvA/Outputs/Blur/qwen_BLUR15_output_descriptions.json:
+image: 143
+features: 141
+background: 119
+appears: 80
+blurred: 75
+possibly: 54
+dark: 53
+against: 52
+person: 51
+standing: 44
+distinct: 43
+setting: 42
+blue: 42
+overall: 41
+wearing: 38
+green: 38
+soft: 36
+includes: 35
+object: 35
+red: 35
+
+Top 20 content words for /projects/0/prjs1482/UvA/Outputs/Blur/qwen_BLUR20_output_descriptions.json:
+image: 150
+features: 148
+background: 113
+blurred: 76
+appears: 71
+soft: 64
+overall: 61
+gradient: 50
+distinct: 47
+colors: 46
+person: 44
+blue: 44
+tones: 43
+setting: 41
+composition: 40
+dark: 39
+possibly: 39
+green: 38
+warm: 38
+center: 38
+
+Top 20 content words for /projects/0/prjs1482/UvA/Outputs/Blur/qwen_BLUR25_output_descriptions.json:
+image: 152
+features: 150
+soft: 96
+background: 89
+gradient: 83
+blurred: 70
+overall: 64
+colors: 60
+creating: 57
+transitioning: 53
+light: 47
+appears: 47
+warm: 46
+distinct: 44
+tones: 44
+center: 44
+blue: 42
+lighter: 42
+top: 41
+green: 41
+
+Top 20 content words for /projects/0/prjs1482/UvA/Outputs/PART_1/Qwen/Baseline/qwen_baseline_output_descriptions.json:
+background: 72
+white: 59
+features: 50
+red: 47
+scene: 46
+blue: 34
+against: 34
+setting: 32
+sky: 30
+vibrant: 30
+holding: 29
+adding: 28
+appears: 27
+image: 27
+black: 27
+stands: 27
+green: 25
+dark: 24
+clear: 23
+shirt: 23
+
+JOB STATISTICS
+==============
+Job ID: 12492607
+Cluster: snellius
+User/Group: sbaratella/sbaratella
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 16
+CPU Utilized: 00:00:01
+CPU Efficiency: 0.52% of 00:03:12 core-walltime
+Job Wall-clock time: 00:00:12
+Memory Utilized: 1.58 MB
+Memory Efficiency: 0.01% of 30.00 GB (30.00 GB/node)

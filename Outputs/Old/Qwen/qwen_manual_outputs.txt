@@ -1,0 +1,116 @@
+=== MANUAL TRIAL: Demo1 ===
+
+TARGET IMAGE: COCO_val2014_000000473237.jpg, third
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Those image will be perturbated versions of the original ones that the listener will see. Generate a description of the third image so that the listener can identify it among the others, but be aware that what you see is not the same as what the listener sees. DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+
+[DESCRIPTION GENERATED]
+The image features a person with a distinctive hairstyle, including a prominent side-swept bang and a high ponytail. The individual is wearing a jacket with a textured pattern on the shoulders, which stands out against the plain background. The overall composition is
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "The image features a person with a distinctive hairstyle, including a prominent side-swept bang and a high ponytail. The individual is wearing a jacket with a textured pattern on the shoulders, which stands out against the plain background. The overall composition is"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: fourth
+[RESULT]: wrong
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Those image will be perturbated versions of the original ones that the listener will see. Generate a description of the third image so that the listener can identify it among the others, but be aware that what you see is not the same as what the listener sees. DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: thirdDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== MANUAL TRIAL: Demo1 ===
+
+TARGET IMAGE: COCO_val2014_000000334417.jpg, first
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Those image will be perturbated versions of the original ones that the listener will see. Generate a description of the first image so that the listener can identify it among the others, but be aware that what you see is not the same as what the listener sees. DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+
+[DESCRIPTION GENERATED]
+The image features a person with a prominent beard and mustache, wearing glasses and a collared shirt. The background includes a simple line drawing above the subject's head, which is distinct from the other images in the set.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "The image features a person with a prominent beard and mustache, wearing glasses and a collared shirt. The background includes a simple line drawing above the subject's head, which is distinct from the other images in the set."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: first
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Those image will be perturbated versions of the original ones that the listener will see. Generate a description of the first image so that the listener can identify it among the others, but be aware that what you see is not the same as what the listener sees. DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: firstDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== MANUAL TRIAL: DemoDualPerturb ===
+
+TARGET IMAGE: COCO_val2014_000000334417.jpg, first
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. For each of the 4 images, you are given two perturbed versions. Combine the information from both versions of the TARGET image to generate a description that allows a listener, who will see the original images, to uniquely identify it among the four. DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. Focus on the unique and discriminative elements you can extract by integrating both perturbed views of the target.
+
+[DESCRIPTION GENERATED]
+The target image features a person with a beard and glasses, wearing a collared shirt, and appears to be in a formal setting. The version 1 image shows a detailed, high-contrast sketch-like representation, while the version 2 image is
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "The target image features a person with a beard and glasses, wearing a collared shirt, and appears to be in a formal setting. The version 1 image shows a detailed, high-contrast sketch-like representation, while the version 2 image is"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: first
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. For each of the 4 images, you are given two perturbed versions. Combine the information from both versions of the TARGET image to generate a description that allows a listener, who will see the original images, to uniquely identify it among the four. DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. Focus on the unique and discriminative elements you can extract by integrating both perturbed views of the target.
+### IMAGE SETIMAGE 1, VERSION 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 1, VERSION 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2, VERSION 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2, VERSION 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3, VERSION 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3, VERSION 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4, VERSION 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4, VERSION 2:<|vision_start|><|image_pad|><|vision_end|>TARGET: firstDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== MANUAL TRIAL: DemoDualPerturb ===
+
+TARGET IMAGE: COCO_val2014_000000473237.jpg, third
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. For each of the 4 images, you are given two perturbed versions. Combine the information from both versions of the TARGET image to generate a description that allows a listener, who will see the original images, to uniquely identify it among the four. Do not refer to the different versions of the images, just generate a coherent description imagining what the actual image looks like. DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. Focus on the unique and discriminative elements you can extract by integrating both perturbed views of the target.
+
+[DESCRIPTION GENERATED]
+The image features a person with long hair, wearing a dark jacket over a lighter shirt. The individual appears to be in an indoor setting, possibly a room with a window or light source above them. The person's expression seems neutral, and they are
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "The image features a person with long hair, wearing a dark jacket over a lighter shirt. The individual appears to be in an indoor setting, possibly a room with a window or light source above them. The person's expression seems neutral, and they are"
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: first
+[RESULT]: wrong
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. For each of the 4 images, you are given two perturbed versions. Combine the information from both versions of the TARGET image to generate a description that allows a listener, who will see the original images, to uniquely identify it among the four. Do not refer to the different versions of the images, just generate a coherent description imagining what the actual image looks like. DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. Focus on the unique and discriminative elements you can extract by integrating both perturbed views of the target.
+### IMAGE SETIMAGE 1, VERSION 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 1, VERSION 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2, VERSION 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2, VERSION 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3, VERSION 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3, VERSION 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4, VERSION 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4, VERSION 2:<|vision_start|><|image_pad|><|vision_end|>TARGET: thirdDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+

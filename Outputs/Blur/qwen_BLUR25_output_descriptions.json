@@ -1,0 +1,1186 @@
+[
+  {
+    "folder": "000_Xf39GqLsVwUGe7ErHgdq44",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000334417_blur.jpg",
+    "description": "The image features a person with short hair and a light-colored top, standing against a plain background. The lighting is soft and even, highlighting the subject's face without harsh shadows.",
+    "listener_guess": "second",
+    "correct": false
+  },
+  {
+    "folder": "001_aKfods2rkcEf5uQAmFttZZ",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000087912_blur.jpg",
+    "description": "The image features a soft, hazy background with a gradient of light blue to white, creating a serene and ethereal atmosphere. The overall tone is calm and diffused, with no distinct shapes or objects present.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "003_YEkc8XE8SmupZd36vuvi5P",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000241638_blur.jpg",
+    "description": "The image features a central, dark, circular shape with a gradient background transitioning from light at the edges to darker tones towards the center. The overall composition is simple and minimalistic, with no additional elements or distractions.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "004_VB3Tm7rg77rEpjpTYuBZnZ",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000201004_blur.jpg",
+    "description": "The image features a clear blue sky above a vibrant green field, with a distinct horizon line separating the two. The background includes a faint silhouette of trees and possibly some distant structures, giving a serene rural feel.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "013_WthoLxjCvzwKsmKQzK5foy",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000159716_blur.jpg",
+    "description": "The image features a vibrant green and orange object with a distinct shape, possibly a fruit or vegetable, set against a blurred background with soft, warm tones. The focus on the green and orange hues makes it stand out uniquely compared to the other images.",
+    "listener_guess": "fourth",
+    "correct": false
+  },
+  {
+    "folder": "014_RwUsQicUBpeLmoCYMX8ZPC",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000050962_blur.jpg",
+    "description": "The image features a gradient of soft, muted colors transitioning from a darker green at the top to a lighter yellowish hue at the bottom, creating a subtle and serene atmosphere.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "026_P46gnKM3fMXy9E5usBPHFi",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000198367_blur.jpg",
+    "description": "The image features a gradient of warm colors, transitioning smoothly from a soft yellow at the center to a rich orange and then to a muted pink towards the edges. The overall effect is a circular, almost sun-like appearance with a blurred, dreamy quality.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "029_UCEfbeigsYRDkWUU6cPZez",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000102478_blur.jpg",
+    "description": "The image features a gradient of warm colors, primarily shades of orange and yellow, with a subtle hint of green in the background. The overall tone is soft and slightly blurred, giving it a dreamy quality.",
+    "listener_guess": "second",
+    "correct": false
+  },
+  {
+    "folder": "031_TKJu7P3rwMbMr52DcaEoNE",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000036492_blur.jpg",
+    "description": "The image features a gradient of muted colors, transitioning from a soft beige at the top to a darker, almost brownish hue towards the bottom, with a subtle, blurred texture that gives it an ethereal quality.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "033_TdYvgoHk686bLdRV8cQUZz",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000014592_blur.jpg",
+    "description": "The image features a person with a warm, golden hue dominating the background, creating a soft and inviting atmosphere. The individual appears to be in motion, with a slight blur suggesting movement, and the lighting highlights the contours of their face and shoulders.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "035_n49vPZ3tnANdnJvMfGztyZ",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000140076_blur.jpg",
+    "description": "The image features a vibrant mix of red and blue hues, with a distinct circular shape in the center, surrounded by a gradient background that transitions smoothly into lighter tones.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "038_9LmxKyXxN8JCfER2MZAAmP",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000161044_blur.jpg",
+    "description": "The image features a gradient of soft, muted colors transitioning smoothly from light gray at the center to darker shades towards the edges, creating a subtle and uniform blend without any distinct shapes or patterns.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "040_DCKLDRfProbXeJ8aSZT9Ha",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000033958_blur.jpg",
+    "description": "The image features a gradient of dark blue hues, transitioning smoothly into lighter shades towards the bottom right corner, with a subtle, almost ethereal glow emanating from the center.",
+    "listener_guess": "second",
+    "correct": false
+  },
+  {
+    "folder": "041_3QHn6AW28dZzz3gNoNUpMw",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000027272_blur.jpg",
+    "description": "The image features a blurred scene with a prominent dark shape in the center, surrounded by a gradient of green hues. The background appears to be a mix of light and darker shades of green, creating a soft, natural ambiance. The overall impression is one of a serene outdoor setting, possibly a forest or a park.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "043_MgeX72ppzXHrehgU2qhmvu",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000027285_blur.jpg",
+    "description": "The image features a warm, orange hue with a soft, blurred background, suggesting a cozy and inviting atmosphere. The colors blend gently, creating a sense of depth and warmth.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "044_2CCtpozAj5QAP67odNo3uH",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000272958_blur.jpg",
+    "description": "The image features a prominent, dark circular shape at its center, surrounded by a gradient of light blue hues that transition smoothly into a lighter shade towards the edges. This central element contrasts sharply with the surrounding colors and lacks any additional details or textures.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "047_GcbutkAxNTuoVYBWqcZ2EF",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000068740_blur.jpg",
+    "description": "The image features a vibrant mix of colors with a prominent yellow and green hue dominating the center, creating a sense of depth and contrast against a softer, muted background. The overall composition suggests an abstract or impressionistic style, with no distinct shapes or figures immediately apparent.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "048_XhuayYKd34YZFYLCHqgKJH",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000142537_blur.jpg",
+    "description": "The image features a close-up view of a textured surface with a mix of dark and light gray tones, creating a subtle gradient effect. The focus is on the intricate details of the texture, which appears to be a fabric or material with a slightly rough, woven pattern. The overall impression is one of depth and complexity in the material's surface.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "051_BeUywrzY9YptGCuU8ktavy",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000019763_blur.jpg",
+    "description": "The image features a prominent red object with a smooth, rounded shape, set against a blurred background. The red hue is vivid and contrasts sharply with the surrounding colors, making it stand out distinctly from the other images.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "063_K7jBopRVF4UL6mnkbRBiw9",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000093670_blur.jpg",
+    "description": "The image features a gradient of warm tones, transitioning smoothly from a deep brown at the bottom to a lighter, almost white hue towards the top. The overall effect is soft and blurred, giving it an ethereal quality.",
+    "listener_guess": "second",
+    "correct": false
+  },
+  {
+    "folder": "064_miaVnypWFPWnnWt7F3kNWc",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000182170_blur.jpg",
+    "description": "The image features a warm, golden hue dominating the background, with two distinct dark shapes in the foreground that appear to be silhouettes of people standing close together. The lighting creates a soft glow around these figures, giving the scene an intimate and cozy atmosphere.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "065_GbFKdkEGtHUgCeWsoDggAK",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000248382_blur.jpg",
+    "description": "The image features a prominent, bright orange shape in the center, surrounded by a gradient of soft, muted colors. The background appears to be a blurred natural setting with hints of green and brown tones, creating a serene and somewhat abstract atmosphere.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "066_3tcgywbsLeQuwqKYELedoC",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000043314_blur.jpg",
+    "description": "The image features a gradient of soft, muted colors transitioning from a darker blue at the top to a lighter gray at the bottom, with a subtle, blurred texture that gives it a dreamy, abstract quality.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "067_AwprMBTcVE96Ffg36Y8atE",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000199442_blur.jpg",
+    "description": "The image features a blurred figure against a gradient background transitioning from light blue at the top to white at the bottom, with a soft, hazy quality that gives it an ethereal appearance. The figure appears to be standing upright and is slightly out of focus, creating a sense of depth and mystery.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "068_FdWLXJSnNYHdNjCnjnuZEh",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000391269_blur.jpg",
+    "description": "The image features a close-up of a person's face with a warm, soft lighting that highlights the contours and texture of the skin. The background appears blurred, drawing attention to the subject in the foreground. The colors are muted, with a focus on earthy tones.",
+    "listener_guess": "second",
+    "correct": false
+  },
+  {
+    "folder": "069_D2AD2pPKPXsAEETXVPyPV5",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000190700_blur.jpg",
+    "description": "The image features a soft, blurred background with a prominent, warm-toned, circular shape in the center, which appears to be a flower or a similar object. The colors are predominantly soft reds and pinks, creating a gentle and harmonious palette.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "070_k9jbok9FBRFgcn2GGRZLeX",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000059567_blur.jpg",
+    "description": "The image features a gradient of dark to light shades, with a smooth transition that creates a sense of depth and movement. The overall tone is monochromatic, with no distinct shapes or objects present.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "077_EbSYwUW6XVqfQJNf9pkVnx",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000193401_blur.jpg",
+    "description": "The image features a person wearing a red and white outfit, with a blurred background that includes greenery and possibly a building in the distance. The colors and composition set it apart from the other images.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "082_cGiZG8ch4Q2bfCL9cE9FQi",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000050326_blur.jpg",
+    "description": "The image features a blurred scene with a prominent blue object in the foreground, which appears to be a piece of clothing or fabric, set against a lighter background. The overall composition suggests an outdoor setting with soft, diffused lighting.",
+    "listener_guess": "second",
+    "correct": false
+  },
+  {
+    "folder": "083_JoDPa8R2noHgCzsGY6F23Q",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000040842_blur.jpg",
+    "description": "The image features a prominent, circular light source with a gradient of blue tones radiating outward, creating a soft, diffused glow against a darker background. The central light appears to be the focal point, with no other distinct shapes or objects present.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "084_jpYy9QmonaLYSmEbEpBsge",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000191721_blur.jpg",
+    "description": "The image features a person wearing a red top with a blurred background that includes shades of green and orange. The individual appears to be outdoors, possibly in a park or garden setting.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "086_82DLfNxneWqVNpjQi4zjCB",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000000724_blur.jpg",
+    "description": "The image features a blurred scene with a prominent red object in the center, surrounded by muted tones and soft gradients. The background appears to be an outdoor setting with hints of greenery and a hint of blue sky.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "089_SSPbt5fSrj8o2f9aAaZdp4",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000017003_blur.jpg",
+    "description": "The image features a vibrant mix of green and yellow hues, with a distinct circular shape in the center, surrounded by a blurred background. The colors are vivid and the overall composition suggests a natural setting, possibly a close-up of foliage or a plant.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "092_LycEamGLGeYyKbotzNQrbm",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000194903_blur.jpg",
+    "description": "The image features a gradient transitioning from a deep, dark shade at the top to a vibrant orange hue towards the bottom, creating a smooth and uniform color shift without any distinct shapes or patterns.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "094_CTiCNB8PENFFcZ9v7AGrAq",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000022118_blur.jpg",
+    "description": "The image features two distinct dark shapes against a light background, resembling a pair of eyes or a face in profile. The shapes are symmetrical and appear to be set within a blurred landscape, possibly indicating a natural setting like a beach or a field with distant trees.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "098_NswjCBbcgQAKLr7YKeNQui",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000013168_blur.jpg",
+    "description": "The image features a warm, earthy color palette with shades of orange and brown dominating the scene. There's a soft, blurred quality to the image, giving it a dreamy, almost abstract feel. The colors blend seamlessly into each other, creating a harmonious and calming visual experience.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "099_ZDmf2r8sEcG5hw5U3vDaSd",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000289620_blur.jpg",
+    "description": "The image features a blurred view of a beach scene with a clear distinction between the sandy foreground and the gradient of colors in the background, which transitions from light beige to a soft blue, suggesting a calm sky above. The overall composition is simple yet evocative of a serene coastal environment.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "000_Xf39GqLsVwUGe7ErHgdq44",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000359105_blur.jpg",
+    "description": "The image features a person with a light-colored background and a slightly blurred face, giving it a soft, dreamy quality. The individual appears to be wearing a dark top, which contrasts subtly against the lighter backdrop.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "001_aKfods2rkcEf5uQAmFttZZ",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000335119_blur.jpg",
+    "description": "The image features a gradient of soft, muted colors transitioning from light to dark, with a subtle texture that suggests a foggy or misty atmosphere. The overall tone is cool and subdued, lacking distinct shapes or objects.",
+    "listener_guess": "fourth",
+    "correct": false
+  },
+  {
+    "folder": "003_YEkc8XE8SmupZd36vuvi5P",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000249687_blur.jpg",
+    "description": "The image features a prominent red circular shape at its center, surrounded by a gradient of white and light gray tones, creating a soft, almost ethereal appearance. The overall composition is minimalist, with the red circle standing out distinctly against the lighter background.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "004_VB3Tm7rg77rEpjpTYuBZnZ",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000338826_blur.jpg",
+    "description": "The image features a blurred view of a landscape with a prominent green area in the foreground and a lighter blue sky above. There appears to be a darker, indistinct shape in the middle ground, possibly a hill or a cluster of trees, which contrasts subtly against the lighter background. The overall impression is one of a serene outdoor scene, though the blurriness obscures finer details.",
+    "listener_guess": "first",
+    "correct": false
+  },
+  {
+    "folder": "013_WthoLxjCvzwKsmKQzK5foy",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000214919_blur.jpg",
+    "description": "The image features a vibrant green leafy plant with a soft, blurred background that includes hints of warm earth tones and subtle bokeh effects, creating a serene and natural atmosphere.",
+    "listener_guess": "fourth",
+    "correct": false
+  },
+  {
+    "folder": "014_RwUsQicUBpeLmoCYMX8ZPC",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000092644_blur.jpg",
+    "description": "The image features a gradient of soft, muted colors transitioning from a darker shade at the top to a lighter hue towards the bottom, with no distinct objects or patterns visible.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "026_P46gnKM3fMXy9E5usBPHFi",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000337247_blur.jpg",
+    "description": "The image features a mix of soft pastel colors, including shades of blue and pink, with a central area that appears slightly darker than the surrounding hues. The overall composition has a dreamy, ethereal quality, with blurred edges that give it a gentle, flowing appearance.",
+    "listener_guess": "fourth",
+    "correct": false
+  },
+  {
+    "folder": "029_UCEfbeigsYRDkWUU6cPZez",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000124712_blur.jpg",
+    "description": "The image features a gradient of soft, pastel colors blending seamlessly into each other, with hints of blue and green dominating the scene. The overall effect is dreamy and ethereal, evoking a sense of calm and tranquility.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "031_TKJu7P3rwMbMr52DcaEoNE",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000267521_blur.jpg",
+    "description": "The image features a gradient of light to dark shades, with a prominent bright spot in the upper left corner, creating a sense of depth and contrast against the darker lower right area.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "033_TdYvgoHk686bLdRV8cQUZz",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000045387_blur.jpg",
+    "description": "The image features a figure with a distinct, rounded shape and a lighter tone in the center, surrounded by a darker, more shadowed area. The overall composition has a soft, blurred quality, giving it a dreamy appearance.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "035_n49vPZ3tnANdnJvMfGztyZ",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000166401_blur.jpg",
+    "description": "The image features a gradient of warm tones, transitioning smoothly from a deep brown at the top to a lighter, golden hue towards the bottom. The colors blend seamlessly, creating a soft and inviting atmosphere without any distinct shapes or objects.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "038_9LmxKyXxN8JCfER2MZAAmP",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000419074_blur.jpg",
+    "description": "The image features a gradient of soft, muted colors transitioning smoothly from a lighter shade at the center to darker tones towards the edges, creating a subtle and calming visual effect.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "040_DCKLDRfProbXeJ8aSZT9Ha",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000195974_blur.jpg",
+    "description": "The image features a gradient transitioning from a deep blue at the top to a lighter shade towards the bottom, with a subtle, almost ethereal glow emanating from the lower right corner, creating a soft, diffused light effect.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "041_3QHn6AW28dZzz3gNoNUpMw",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000083773_blur.jpg",
+    "description": "The image features a blurred depiction of what appears to be a natural scene with a mix of green and brown tones, suggesting foliage and possibly earthy ground. The central area has a darker, almost shadowed region that contrasts with the lighter surrounding areas, giving a sense of depth and focus on a particular spot within the frame.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "043_MgeX72ppzXHrehgU2qhmvu",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000053697_blur.jpg",
+    "description": "The image features a gradient of soft, muted colors transitioning from light to dark, with a subtle circular pattern in the center that draws the eye inward. The overall tone is calm and abstract, lacking distinct shapes or objects.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "044_2CCtpozAj5QAP67odNo3uH",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000317070_blur.jpg",
+    "description": "The image features a gradient of soft pastel colors, transitioning smoothly from a light blue at the top to a pale yellowish hue near the bottom, with no distinct shapes or objects present.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "047_GcbutkAxNTuoVYBWqcZ2EF",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000359843_blur.jpg",
+    "description": "The image features a vertical streak of vibrant red against a blurred background, with hints of green and yellow tones at the edges, creating a dynamic contrast.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "048_XhuayYKd34YZFYLCHqgKJH",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000264121_blur.jpg",
+    "description": "The image features a gradient of colors transitioning from a soft yellow at the bottom to a pale blue at the top, with a subtle hint of a textured surface in the middle.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "051_BeUywrzY9YptGCuU8ktavy",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000044934_blur.jpg",
+    "description": "The image features a blurred scene with a mix of warm and cool tones, including shades of yellow, orange, and blue. The background appears to have a gradient effect, transitioning smoothly from one color to another, creating a soft, dreamy atmosphere. There's a hint of a figure in the foreground, but details are indistinct due to the blur.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "063_K7jBopRVF4UL6mnkbRBiw9",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000134807_blur.jpg",
+    "description": "The image features a gradient of warm colors, transitioning smoothly from a deep purple at the top to a soft yellow at the bottom, with hints of pink and orange blending in between. The overall effect is a gentle, flowing transition that evokes a sense of warmth and tranquility.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "064_miaVnypWFPWnnWt7F3kNWc",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000350855_blur.jpg",
+    "description": "The image features a prominent vertical streak of light against a dark background, with a blurred figure partially visible on the right side. The contrast between the bright streak and the surrounding darkness creates a striking visual effect.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "065_GbFKdkEGtHUgCeWsoDggAK",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000315939_blur.jpg",
+    "description": "The image features a mix of soft pastel colors, including shades of green and pink, with a blurred background that suggests an outdoor setting. The overall impression is one of gentle, dreamy hues blending together in a soft, ethereal manner.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "066_3tcgywbsLeQuwqKYELedoC",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000290602_blur.jpg",
+    "description": "The image features a gradient of colors transitioning from a deep blue at the top to a lighter, almost white hue towards the bottom, with a soft, blurred effect throughout.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "067_AwprMBTcVE96Ffg36Y8atE",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000423113_blur.jpg",
+    "description": "The image features a soft gradient of light blue and white hues, with a subtle circular pattern in the center, giving it a dreamy, ethereal quality distinct from the other images.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "068_FdWLXJSnNYHdNjCnjnuZEh",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000427965_blur.jpg",
+    "description": "The image features a close-up of a person's face with warm lighting, highlighting the texture of their skin and the soft shadows cast around their facial features. The background appears to be softly blurred, suggesting an indoor setting with a hint of greenery in the distance.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "069_D2AD2pPKPXsAEETXVPyPV5",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000322987_blur.jpg",
+    "description": "The image features a prominent pink hue at its center, surrounded by a gradient of warm tones that transition smoothly into a lighter background. The overall composition has a soft, blurred quality, giving it an ethereal and dreamy appearance.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "070_k9jbok9FBRFgcn2GGRZLeX",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000297578_blur.jpg",
+    "description": "The image features a gradient of soft, muted colors transitioning from light to dark, with a subtle hint of a figure in the center, partially obscured by the gradient. The overall tone is calm and abstract, lacking sharp edges or distinct shapes.",
+    "listener_guess": "first",
+    "correct": false
+  },
+  {
+    "folder": "077_EbSYwUW6XVqfQJNf9pkVnx",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000212545_blur.jpg",
+    "description": "The image features a person wearing a dark-colored top with a light-colored collar, standing against a backdrop that includes a mix of warm and cool tones, suggesting an outdoor setting with natural lighting. The background has a gradient effect, transitioning from darker shades at the top to lighter hues near the bottom, creating a soft, blurred appearance.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "082_cGiZG8ch4Q2bfCL9cE9FQi",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000083277_blur.jpg",
+    "description": "The image features a blurred scene with a prominent blue object in the center, surrounded by soft, muted tones. The background appears to have a gradient of light and dark shades, creating a sense of depth without clear definition.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "083_JoDPa8R2noHgCzsGY6F23Q",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000142890_blur.jpg",
+    "description": "The image features a prominent dark area in the center, surrounded by lighter gradients on either side, creating a stark contrast with the surrounding hues. The overall composition suggests a focus on the central black region, which stands out distinctly against the softer, more diffused tones around it.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "084_jpYy9QmonaLYSmEbEpBsge",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000284220_blur.jpg",
+    "description": "The image features a blurred figure with a distinct greenish hue in the background, contrasting sharply with the reddish tones in the foreground. The overall composition suggests an outdoor setting with a mix of natural and possibly urban elements.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "086_82DLfNxneWqVNpjQi4zjCB",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000098268_blur.jpg",
+    "description": "The image features a mix of warm and cool tones, with a prominent red hue in the center, surrounded by a gradient of greens and yellows. The background appears to be softly blurred, creating a dreamy effect.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "089_SSPbt5fSrj8o2f9aAaZdp4",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000135785_blur.jpg",
+    "description": "The image features a gradient of dark to light shades, with a prominent horizontal band of blue in the center, flanked by darker and lighter areas on either side. The overall composition has a soft, blurred quality, giving it an ethereal appearance.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "092_LycEamGLGeYyKbotzNQrbm",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000281500_blur.jpg",
+    "description": "The image features a smooth gradient transitioning from a warm, golden hue at the top to a slightly darker, amber tone towards the bottom, with a subtle, diffused light source creating a gentle glow in the center.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "094_CTiCNB8PENFFcZ9v7AGrAq",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000234595_blur.jpg",
+    "description": "The image features a gradient of soft pastel colors, transitioning smoothly from a light blue at the top to a pale pink towards the bottom, creating a gentle and soothing visual effect.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "098_NswjCBbcgQAKLr7YKeNQui",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000178982_blur.jpg",
+    "description": "The image features a gradient of dark hues, transitioning from deep purples to rich browns, with a subtle teal spot near the center, creating a sense of depth and mystery.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "099_ZDmf2r8sEcG5hw5U3vDaSd",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000515792_blur.jpg",
+    "description": "The image features a clear blue sky above a sandy beach, with the ocean stretching out into the horizon. The colors are vibrant and distinct, with the blue of the sky and sea contrasting sharply against the beige sand.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "000_Xf39GqLsVwUGe7ErHgdq44",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000473237_blur.jpg",
+    "description": "The image features a person with a distinctively warm and vibrant background, showcasing a rich blend of orange and yellow hues. The individual appears to be in motion, with a blurred effect that suggests movement or a dynamic pose. The lighting is soft yet warm, highlighting the subject's form against the colorful backdrop.",
+    "listener_guess": "fourth",
+    "correct": false
+  },
+  {
+    "folder": "001_aKfods2rkcEf5uQAmFttZZ",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000376677_blur.jpg",
+    "description": "The image features a blurred scene with a mix of warm and cool tones, including hints of red and green, suggesting an outdoor setting with foliage. The background appears to have a gradient effect, transitioning from darker shades at the bottom to lighter hues at the top, giving it a soft, dreamy quality.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "003_YEkc8XE8SmupZd36vuvi5P",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000331727_blur.jpg",
+    "description": "The image features a central, dark, circular shape with a gradient background transitioning from light blue at the edges to a darker shade towards the center. The overall composition is simple and minimalistic, with no additional elements or distractions.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "004_VB3Tm7rg77rEpjpTYuBZnZ",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000436138_blur.jpg",
+    "description": "The image features a blurred view of what appears to be a natural landscape with a mix of green and brown tones, suggesting grass and earthy ground. There's a noticeable contrast between the lighter and darker areas, possibly indicating shadows or variations in the terrain. The overall impression is one of a serene outdoor setting, though the blurriness makes specific details hard to discern.",
+    "listener_guess": "first",
+    "correct": false
+  },
+  {
+    "folder": "013_WthoLxjCvzwKsmKQzK5foy",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000256660_blur.jpg",
+    "description": "The image features a vibrant mix of colors with a prominent orange hue on the left side, transitioning into a soft gradient towards the right. There's a distinct contrast between the warm tones and cooler shades in the background, creating a dynamic visual effect. The overall composition suggests an abstract or artistic representation rather than a realistic scene.",
+    "listener_guess": "fourth",
+    "correct": false
+  },
+  {
+    "folder": "014_RwUsQicUBpeLmoCYMX8ZPC",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000111909_blur.jpg",
+    "description": "The image features a gradient of soft, muted colors transitioning from a darker shade at the top to a lighter hue towards the bottom, with a subtle hint of green in the upper left corner. The overall impression is one of a serene and abstract landscape.",
+    "listener_guess": "first",
+    "correct": false
+  },
+  {
+    "folder": "026_P46gnKM3fMXy9E5usBPHFi",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000344758_blur.jpg",
+    "description": "The image features a gradient of warm colors, transitioning from a soft yellow at the top to a gentle pink towards the bottom, with a subtle hint of white in the center, creating a serene and calming effect.",
+    "listener_guess": "first",
+    "correct": false
+  },
+  {
+    "folder": "029_UCEfbeigsYRDkWUU6cPZez",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000377588_blur.jpg",
+    "description": "The image features a gradient transitioning from a light teal at the top to a soft beige at the bottom, with subtle hints of green and brown blending into each other, creating a serene and earthy palette.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "031_TKJu7P3rwMbMr52DcaEoNE",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000283498_blur.jpg",
+    "description": "The image features a gradient of cool tones, transitioning from a light teal at the top to a deep navy blue at the bottom, with a subtle hint of a lighter, almost white, area in the center, creating a soft, ethereal effect.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "033_TdYvgoHk686bLdRV8cQUZz",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000360318_blur.jpg",
+    "description": "The image features a mix of warm and cool tones, with a prominent yellow hue dominating the background. A darker, almost black shape is centered, creating a stark contrast against the lighter surroundings. The overall composition has a soft, blurred quality, giving it an ethereal appearance.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "035_n49vPZ3tnANdnJvMfGztyZ",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000213224_blur.jpg",
+    "description": "The image features a vibrant orange background with a blurred green object in the foreground, creating a contrast between the warm and cool tones. The overall composition suggests a dynamic scene, possibly involving motion or depth.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "038_9LmxKyXxN8JCfER2MZAAmP",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000455943_blur.jpg",
+    "description": "The image features a gradient of soft, pastel colors transitioning smoothly from light to darker hues, creating a gentle and soothing visual effect. The center of the image is slightly brighter, drawing attention to its central area, while the edges gradually fade into a darker tone, giving the impression of depth and dimensionality.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "040_DCKLDRfProbXeJ8aSZT9Ha",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000196442_blur.jpg",
+    "description": "The image features a gradient transitioning from a soft blue at the top to a lighter, almost white hue towards the bottom, with a subtle, diffused light source creating a gentle glow in the center.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "041_3QHn6AW28dZzz3gNoNUpMw",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000174457_blur.jpg",
+    "description": "The image features a blurred scene with a mix of green and brown tones, suggesting an outdoor setting. There appears to be a small, indistinct object in the center, possibly a piece of furniture or a structure, surrounded by what looks like grass or foliage. The background is slightly darker, indicating a possible shadow or a denser area of vegetation.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "043_MgeX72ppzXHrehgU2qhmvu",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000454907_blur.jpg",
+    "description": "The image features a vibrant mix of warm and cool tones, with a prominent orange hue dominating the upper left corner, contrasting sharply against a cooler, bluish-gray background. The central area contains a blurred figure, possibly a person, with indistinct features due to the blur. The overall composition suggests an abstract or artistic representation rather than a clear depiction of a specific scene.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "044_2CCtpozAj5QAP67odNo3uH",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000339676_blur.jpg",
+    "description": "The image features a gradient of soft blues and greens, with a distinct circular shape in the center that appears to be a lighter shade of blue, almost white, standing out against the surrounding hues. The overall effect is serene and somewhat abstract, with no sharp lines or clear objects present.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "047_GcbutkAxNTuoVYBWqcZ2EF",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000453390_blur.jpg",
+    "description": "The image features a vibrant mix of warm colors, primarily yellow and orange, with a soft gradient effect. There's a subtle hint of red in the background, adding depth to the composition. The overall tone is warm and inviting, with a gentle blur that gives it a dreamy quality.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "048_XhuayYKd34YZFYLCHqgKJH",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000271177_blur.jpg",
+    "description": "The image features a prominent, dark, circular shape against a lighter background, with a gradient effect transitioning from light to darker shades around the edges. The central area appears to have a subtle texture or pattern, giving it a slightly textured appearance.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "051_BeUywrzY9YptGCuU8ktavy",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000050422_blur.jpg",
+    "description": "The image features a vibrant mix of colors with a prominent yellow and green hue dominating the scene. There's a noticeable contrast between the bright foreground and the darker background, creating a sense of depth. The overall composition suggests a natural setting, possibly a garden or a field, with soft, diffused lighting enhancing the colors' vibrancy.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "063_K7jBopRVF4UL6mnkbRBiw9",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000198625_blur.jpg",
+    "description": "The image features a gradient of colors transitioning from a deep purple at the top to a lighter, almost white hue towards the bottom, with subtle hints of yellow and orange blending into the purple. The overall effect creates a soft, ethereal appearance.",
+    "listener_guess": "second",
+    "correct": false
+  },
+  {
+    "folder": "064_miaVnypWFPWnnWt7F3kNWc",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000363922_blur.jpg",
+    "description": "The image features a gradient background transitioning from warm orange hues at the top to a cooler yellowish tone towards the bottom. A subtle, indistinct shape is present in the center, blending seamlessly with the background colors. The overall composition is soft and lacks sharp contrasts, giving it a gentle, almost ethereal quality.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "065_GbFKdkEGtHUgCeWsoDggAK",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000388398_blur.jpg",
+    "description": "The image features a mix of vibrant colors, including red and blue, with a blurred background that suggests an outdoor setting. The foreground has a distinct shape that resembles a person's head, though it is not sharply defined. The overall impression is one of motion or activity, with the colors blending together in a soft, dreamy manner.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "066_3tcgywbsLeQuwqKYELedoC",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000465489_blur.jpg",
+    "description": "The image features a gradient of soft blues and whites, with a subtle, almost ethereal glow at its center, creating a serene and dreamy atmosphere. The colors blend smoothly, giving the impression of a calm sky or a tranquil landscape.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "067_AwprMBTcVE96Ffg36Y8atE",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000483358_blur.jpg",
+    "description": "The image features a mix of soft blues and purples with a central area that appears to have a lighter, almost white patch, contrasting against the darker hues around it. The overall composition has a dreamy, ethereal quality, with no distinct shapes or figures immediately apparent.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "068_FdWLXJSnNYHdNjCnjnuZEh",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000468162_blur.jpg",
+    "description": "The image features a scene with a prominent tree in the foreground, its branches reaching out towards the sky. The background includes a mix of greenery and what appears to be a body of water, possibly a lake or river, reflecting some light. The overall color palette is dominated by shades of green and blue, creating a serene natural setting.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "069_D2AD2pPKPXsAEETXVPyPV5",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000475330_blur.jpg",
+    "description": "The image features a vibrant red background with a soft, blurred yellow and orange gradient in the center, creating a warm, glowing effect. The colors blend seamlessly, giving the impression of a warm sunset or a fiery glow.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "070_k9jbok9FBRFgcn2GGRZLeX",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000386089_blur.jpg",
+    "description": "The image features a gradient of warm colors, transitioning from a soft yellow at the top to a darker hue near the bottom, with a central figure that appears to be wearing dark clothing. The background has a subtle texture that gives it depth and contrast.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "077_EbSYwUW6XVqfQJNf9pkVnx",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000318888_blur.jpg",
+    "description": "The image features a person wearing a white top with a patterned design, standing against a backdrop of greenery and a clear blue sky. The individual appears to be outdoors, possibly in a park or garden setting.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "082_cGiZG8ch4Q2bfCL9cE9FQi",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000285314_blur.jpg",
+    "description": "The image features a person wearing a light-colored shirt and dark pants, standing in an outdoor setting with a blurred background that includes hints of greenery and possibly a body of water. The individual appears to be in motion, with their arms slightly raised, suggesting they might be dancing or engaging in some form of physical activity. The overall scene has a soft focus, emphasizing the subject while the background remains ind",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "083_JoDPa8R2noHgCzsGY6F23Q",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000232383_blur.jpg",
+    "description": "The image features a gradient of dark to light shades, with a prominent bright spot at the bottom center, creating a focal point against a predominantly dark background. The overall composition suggests a sense of depth and contrast.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "084_jpYy9QmonaLYSmEbEpBsge",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000501898_blur.jpg",
+    "description": "The image features a vibrant pink and purple abstract pattern set against a gradient background transitioning from orange to dark gray. The central design appears to be a stylized, symmetrical cross or star shape with soft edges, giving it a dreamy, ethereal quality.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "086_82DLfNxneWqVNpjQi4zjCB",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000136400_blur.jpg",
+    "description": "The image features a vibrant red object with a distinct circular shape, set against a background that includes shades of green and beige. The red element appears to be in focus, while the surrounding colors blend softly into each other, creating a warm and earthy palette.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "089_SSPbt5fSrj8o2f9aAaZdp4",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000251857_blur.jpg",
+    "description": "The image features a mix of soft, pastel colors with a gradient effect, transitioning smoothly from light green to white and then to a darker shade at the top. There's a subtle hint of a circular shape in the upper left corner, adding a touch of depth to the otherwise minimalist composition.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "092_LycEamGLGeYyKbotzNQrbm",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000428254_blur.jpg",
+    "description": "The image features a gradient background with a soft, warm orange hue dominating the lower portion, transitioning into a cooler grayish tone towards the top. The overall effect is smooth and subtle, with no distinct objects or patterns present.",
+    "listener_guess": "first",
+    "correct": false
+  },
+  {
+    "folder": "094_CTiCNB8PENFFcZ9v7AGrAq",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000388846_blur.jpg",
+    "description": "The image features a gradient of colors transitioning from a light beige at the bottom to a soft pinkish hue, with a subtle dark shadow in the upper right corner, creating a gentle contrast against the lighter background.",
+    "listener_guess": "second",
+    "correct": false
+  },
+  {
+    "folder": "098_NswjCBbcgQAKLr7YKeNQui",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000325666_blur.jpg",
+    "description": "The image features a mix of warm and cool tones, with a prominent green hue in the upper left corner, contrasting against a predominantly brown and orange background. The overall composition has a soft, blurred quality, giving it an ethereal appearance.",
+    "listener_guess": "second",
+    "correct": false
+  },
+  {
+    "folder": "099_ZDmf2r8sEcG5hw5U3vDaSd",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000536416_blur.jpg",
+    "description": "The image features a clear blue sky with scattered white clouds, and the ground appears to be sandy, suggesting a beach setting. The horizon line is visible, separating the sky from the sand, which is a distinct characteristic compared to the other images.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "000_Xf39GqLsVwUGe7ErHgdq44",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000553667_blur.jpg",
+    "description": "The image features a person wearing a green top with a blurred background, creating a warm, golden hue around them. The lighting appears to be soft and diffused, giving the scene a cozy and intimate atmosphere.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "001_aKfods2rkcEf5uQAmFttZZ",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000579036_blur.jpg",
+    "description": "The image features a blurred scene with a prominent red object in the foreground, partially obscuring a figure standing against a light background. The overall composition suggests an indoor setting with soft lighting and a muted color palette.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "003_YEkc8XE8SmupZd36vuvi5P",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000396542_blur.jpg",
+    "description": "The image features a blurred figure with a distinct pink hue in the center, surrounded by a gradient of soft colors transitioning from light to darker shades. The overall composition has a dreamy, ethereal quality, with the pink area standing out prominently against the more subdued background tones.",
+    "listener_guess": "second",
+    "correct": false
+  },
+  {
+    "folder": "004_VB3Tm7rg77rEpjpTYuBZnZ",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000479099_blur.jpg",
+    "description": "The image features a gradient of green shades, transitioning from a lighter hue at the bottom to a darker tone at the top, with a blurred background that includes indistinct shapes and colors, suggesting an outdoor setting.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "013_WthoLxjCvzwKsmKQzK5foy",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000558640_blur.jpg",
+    "description": "The image features a vibrant mix of green and orange hues, with a distinct circular shape in the center that resembles a fruit, possibly an apple, surrounded by blurred background elements.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "014_RwUsQicUBpeLmoCYMX8ZPC",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000435308_blur.jpg",
+    "description": "The image features a blurred scene with a mix of green and blue hues, suggesting an outdoor setting with water and possibly trees in the background. The overall impression is one of a serene, natural environment, distinct from the more uniform tones of the other images.",
+    "listener_guess": "first",
+    "correct": false
+  },
+  {
+    "folder": "026_P46gnKM3fMXy9E5usBPHFi",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000353558_blur.jpg",
+    "description": "The image features a vibrant mix of warm colors, including shades of orange and yellow, with a soft, almost ethereal quality. The central area has a distinct circular pattern, giving it a sense of depth and focus, while the surrounding hues blend seamlessly into each other, creating a harmonious and dynamic composition.",
+    "listener_guess": "first",
+    "correct": false
+  },
+  {
+    "folder": "029_UCEfbeigsYRDkWUU6cPZez",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000541123_blur.jpg",
+    "description": "The image features a gradient of colors transitioning from a deep purple at the top to a vibrant green towards the bottom, with a subtle hint of pink near the center-right. The overall effect is smooth and fluid, giving it a dreamy, ethereal quality.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "031_TKJu7P3rwMbMr52DcaEoNE",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000347253_blur.jpg",
+    "description": "The image features a gradient of warm tones, transitioning from a soft yellow at the top to a deeper brown towards the bottom, with a subtle circular shape in the center that appears lighter and more defined than the surrounding area.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "033_TdYvgoHk686bLdRV8cQUZz",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000460732_blur.jpg",
+    "description": "The image features a figure with a distinctively darker outline against a light background, creating a stark contrast. The figure appears to be in motion, with a slight blur suggesting movement. The overall composition is simple, focusing on the silhouette and the interplay between the dark form and the bright backdrop.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "035_n49vPZ3tnANdnJvMfGztyZ",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000290477_blur.jpg",
+    "description": "The image features a blend of warm and cool tones, with a prominent green hue at the center, surrounded by soft gradients of orange and purple. The overall composition has a dreamy, abstract quality, with no distinct objects or figures present.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "038_9LmxKyXxN8JCfER2MZAAmP",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000551650_blur.jpg",
+    "description": "The image features a gradient of dark to light gray tones with a subtle, almost imperceptible pattern that resembles a textured surface, possibly fabric or paper, with a slight vignette effect around the edges.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "040_DCKLDRfProbXeJ8aSZT9Ha",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000549789_blur.jpg",
+    "description": "The image features a gradient of light gray tones, transitioning smoothly from a darker shade at the top to a lighter hue towards the bottom. There are subtle hints of faint, indistinct shapes or patterns within the lighter areas, giving the impression of a soft, diffused texture. The overall effect is one of gentle, almost ethereal light.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "041_3QHn6AW28dZzz3gNoNUpMw",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000452263_blur.jpg",
+    "description": "The image features a prominent, dark, circular shape in the center, surrounded by a lighter green background with subtle variations in tone and texture. The contrast between the dark circle and the surrounding area is more pronounced compared to the other images, making it stand out distinctly.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "043_MgeX72ppzXHrehgU2qhmvu",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000548523_blur.jpg",
+    "description": "The image features a dark background with a prominent red and white object in the center, which appears to be a stylized representation of a flower or a similar shape. The contrast between the dark backdrop and the bright colors makes this image stand out distinctly from the others.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "044_2CCtpozAj5QAP67odNo3uH",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000408534_blur.jpg",
+    "description": "The image features a gradient of soft blues and greens, with a distinct darker area in the center that contrasts subtly against the lighter surrounding hues. The overall impression is one of calmness and depth, with no sharp edges or prominent objects to draw attention.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "047_GcbutkAxNTuoVYBWqcZ2EF",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000483941_blur.jpg",
+    "description": "The image features a prominent red object with a distinct shape, set against a blurred background of green and yellow hues. The red element appears to be a solid, rounded form, possibly a ball or a similar item, standing out sharply against the softer, more muted tones around it.",
+    "listener_guess": "second",
+    "correct": false
+  },
+  {
+    "folder": "048_XhuayYKd34YZFYLCHqgKJH",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000566249_blur.jpg",
+    "description": "The image features a close-up of a person's face with a warm, golden light illuminating their skin, creating a soft glow around them. The background appears to be an indoor setting with blurred details, possibly indicating a cozy, intimate environment.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "051_BeUywrzY9YptGCuU8ktavy",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000317798_blur.jpg",
+    "description": "The image features a prominent yellow object with a textured surface, set against a dark background. The object appears to be cylindrical and has a distinct, slightly rough texture that contrasts sharply with the smoothness of the surrounding area.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "063_K7jBopRVF4UL6mnkbRBiw9",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000572850_blur.jpg",
+    "description": "The image features a gradient of dark tones, transitioning smoothly from black at the bottom to a deep, almost indigo hue at the top, with subtle variations in shading that create a sense of depth and texture.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "064_miaVnypWFPWnnWt7F3kNWc",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000447854_blur.jpg",
+    "description": "The image features a bright, colorful scene with a prominent yellow and green gradient background. A figure in light blue attire stands out against this vibrant backdrop, creating a striking contrast. The overall composition is dynamic, with soft, blurred edges that suggest movement or depth.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "065_GbFKdkEGtHUgCeWsoDggAK",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000504977_blur.jpg",
+    "description": "The image features a blurred figure with a distinct green and brown coloration in the background, suggesting an outdoor setting. The figure appears to be standing upright, and there's a hint of a natural environment around them, possibly trees or foliage. The overall impression is one of a serene, possibly forested area.",
+    "listener_guess": "second",
+    "correct": false
+  },
+  {
+    "folder": "066_3tcgywbsLeQuwqKYELedoC",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000514518_blur.jpg",
+    "description": "The image features a gradient of soft, pastel colors blending seamlessly into each other, creating a gentle and calming effect. The overall tone is light and airy, with no distinct shapes or objects present, making it stand out for its uniformity and subtle color transitions.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "067_AwprMBTcVE96Ffg36Y8atE",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000485212_blur.jpg",
+    "description": "The image features a gradient of soft blues and whites, with a distinct darker blue band at the top and a lighter, almost white area at the bottom, creating a layered effect. The overall impression is one of calmness and depth, with no sharp edges or distinct shapes.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "068_FdWLXJSnNYHdNjCnjnuZEh",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000535312_blur.jpg",
+    "description": "The image features a vibrant green leafy plant in the foreground, with a blurred background that includes a hint of a blue sky and some indistinct shapes, possibly buildings or trees. The focus on the plant contrasts sharply with the softer, out-of-focus elements behind it.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "069_D2AD2pPKPXsAEETXVPyPV5",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000516766_blur.jpg",
+    "description": "The image features a vibrant red background with a blurred figure in the center, composed of soft, indistinct shapes and colors, including shades of blue and white. The overall impression is one of motion and abstraction, with the red backdrop providing a striking contrast to the more muted tones of the central figure.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "070_k9jbok9FBRFgcn2GGRZLeX",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000391199_blur.jpg",
+    "description": "The image features a close-up of a person's face with a warm, golden light illuminating the background, creating a soft glow around the subject. The individual appears to be wearing glasses and has a calm expression. The overall tone of the image is warm and inviting, with a focus on the subject's face and the gentle lighting effect.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "077_EbSYwUW6XVqfQJNf9pkVnx",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000468043_blur.jpg",
+    "description": "The image features a person standing outdoors with a blurred background, wearing what appears to be a dark jacket and light-colored pants. The setting seems to be a beach or a sandy area, indicated by the light brown tones in the foreground and the soft, hazy sky above.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "082_cGiZG8ch4Q2bfCL9cE9FQi",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000574666_blur.jpg",
+    "description": "The image features a close-up of a person's hand holding a small object, possibly a piece of jewelry or a small tool, with a blurred background that includes hints of greenery and a hint of blue, suggesting an outdoor setting. The focus is primarily on the hand and the object being held, creating a sense of intimacy and detail in the foreground.",
+    "listener_guess": "second",
+    "correct": false
+  },
+  {
+    "folder": "083_JoDPa8R2noHgCzsGY6F23Q",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000375509_blur.jpg",
+    "description": "The image features a prominent, well-defined circular shape with a gradient of colors transitioning from light to dark, surrounded by a blurred background with hints of warm tones.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "084_jpYy9QmonaLYSmEbEpBsge",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000580847_blur.jpg",
+    "description": "The image features a person wearing a red top with a blurred background that includes shades of green and blue, creating a soft, out-of-focus effect. The individual appears to be standing outdoors, possibly in a park or garden setting.",
+    "listener_guess": "second",
+    "correct": false
+  },
+  {
+    "folder": "086_82DLfNxneWqVNpjQi4zjCB",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000321308_blur.jpg",
+    "description": "The image features a prominent red object with a distinct circular shape, set against a background that includes shades of green and beige. The red element appears to be a flower or a similar natural form, with soft, blurred edges that suggest a gentle focus on the subject. The overall composition has a warm, earthy tone, with the red hue standing out vividly against the softer hues around it.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "089_SSPbt5fSrj8o2f9aAaZdp4",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000476258_blur.jpg",
+    "description": "The image features a prominent, warm-toned object with a distinct, rounded shape and a gradient of colors transitioning from yellow to orange. The background is softly blurred, creating a sense of depth and drawing attention to the central figure. This object appears to be a fruit, possibly a mango, given its coloration and form.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "092_LycEamGLGeYyKbotzNQrbm",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000567276_blur.jpg",
+    "description": "The image features a gradient blend of warm tones, transitioning from a deep, rich brown at the bottom to a lighter, almost golden hue towards the top. The overall effect is smooth and subtle, with no distinct shapes or objects present, giving it a minimalist and abstract appearance.",
+    "listener_guess": "second",
+    "correct": false
+  },
+  {
+    "folder": "094_CTiCNB8PENFFcZ9v7AGrAq",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000490244_blur.jpg",
+    "description": "The image features a vibrant mix of warm and cool tones, with a prominent yellow hue blending into a soft blue gradient. There's a subtle texture that suggests a natural setting, possibly a landscape with earthy colors and hints of greenery in the background. The overall composition has a dynamic feel, with the colors transitioning smoothly from one to another, creating a sense of depth and movement.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "098_NswjCBbcgQAKLr7YKeNQui",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000568961_blur.jpg",
+    "description": "The image features a prominent, light-colored shape with a gradient background that transitions from dark to lighter shades, creating a sense of depth and focus on the central form. The overall composition is soft and blurred, giving it an ethereal quality.",
+    "listener_guess": "first",
+    "correct": false
+  },
+  {
+    "folder": "099_ZDmf2r8sEcG5hw5U3vDaSd",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000566049_blur.jpg",
+    "description": "The image features a clear blue sky with a few scattered clouds, and the ground appears to be sandy, suggesting a beach setting. There are two indistinct figures in the foreground, one closer to the viewer than the other, both appearing slightly blurred. The overall scene has a serene and open atmosphere, typical of a coastal landscape.",
+    "listener_guess": "third",
+    "correct": false
+  }
+]

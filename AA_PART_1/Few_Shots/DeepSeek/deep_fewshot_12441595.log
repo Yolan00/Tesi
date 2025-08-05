@@ -1,0 +1,1383 @@
+/projects/0/prjs1482/miniconda/envs/deep2/lib/python3.10/site-packages/huggingface_hub/file_download.py:943: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Python version is above 3.10, patching the collections module.
+Loading DeepSeek-VL2...
+Add pad token = ['<｜▁pad▁｜>'] to the tokenizer
+<｜▁pad▁｜>:2
+Add image token = ['<image>'] to the tokenizer
+<image>:128815
+Add grounding-related tokens = ['<|ref|>', '<|/ref|>', '<|det|>', '<|/det|>', '<|grounding|>'] to the tokenizer with input_ids
+<|ref|>:128816
+<|/ref|>:128817
+<|det|>:128818
+<|/det|>:128819
+<|grounding|>:128820
+Add chat tokens = ['<|User|>', '<|Assistant|>'] to the tokenizer with input_ids
+<|User|>:128821
+<|Assistant|>:128822
+
+Loading checkpoint shards:   0%|          | 0/8 [00:00<?, ?it/s]Loading checkpoint shards:  12%|█▎        | 1/8 [00:27<03:15, 27.98s/it]Loading checkpoint shards:  25%|██▌       | 2/8 [00:58<02:57, 29.52s/it]Loading checkpoint shards:  38%|███▊      | 3/8 [01:27<02:26, 29.24s/it]Loading checkpoint shards:  50%|█████     | 4/8 [01:32<01:18, 19.58s/it]Loading checkpoint shards:  62%|██████▎   | 5/8 [01:57<01:05, 21.69s/it]Loading checkpoint shards:  75%|███████▌  | 6/8 [02:25<00:47, 23.82s/it]Loading checkpoint shards:  88%|████████▊ | 7/8 [02:55<00:25, 25.79s/it]Loading checkpoint shards: 100%|██████████| 8/8 [03:02<00:00, 19.82s/it]Loading checkpoint shards: 100%|██████████| 8/8 [03:02<00:00, 22.82s/it]
+You're using a LlamaTokenizerFast tokenizer. Please note that with a fast tokenizer, using the `__call__` method is faster than using a method to encode the text followed by a call to the `pad` method to get a padded encoding.
+/projects/0/prjs1482/miniconda/envs/deep2/lib/python3.10/site-packages/torch/nn/modules/conv.py:459: UserWarning: Applied workaround for CuDNN issue, install nvrtc.so (Triggered internally at ../aten/src/ATen/native/cudnn/Conv_v8.cpp:80.)
+  return F.conv2d(input, weight, bias, self.stride,
+
+======== CYCLE for TARGET INDEX 1 ========
+
+
+----------------------------------------
+Trial: 000_Xf39GqLsVwUGe7ErHgdq44
+Target image: 1 (COCO_val2014_000000334417.jpg)
+Generated description: 1 image description of the description of the description of the description of the description of the description of the description of the description of the description of the description of the description of the description of description of description of description of description of description of description of description of description of description of description of the description of the description of
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 001_aKfods2rkcEf5uQAmFttZZ
+Target image: 1 (COCO_val2014_000000087912.jpg)
+Generated description: 
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 003_YEkc8XE8SmupZd36vuvi5P
+Target image: 1 (COCO_val2014_000000241638.jpg)
+Generated description: 
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 004_VB3Tm7rg77rEpjpTYuBZnZ
+Target image: 1 (COCO_val2014_000000201004.jpg)
+Generated description: 4
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 013_WthoLxjCvzwKsmKQzK5foy
+Target image: 1 (COCO_val2014_000000159716.jpg)
+Generated description: 
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 014_RwUsQicUBpeLmoCYMX8ZPC
+Target image: 1 (COCO_val2014_000000050962.jpg)
+Generated description: 
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 026_P46gnKM3fMXy9E5usBPHFi
+Target image: 1 (COCO_val2014_000000198367.jpg)
+Generated description: 
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 029_UCEfbeigsYRDkWUU6cPZez
+Target image: 1 (COCO_val2014_000000102478.jpg)
+Generated description: 1.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 031_TKJu7P3rwMbMr52DcaEoNE
+Target image: 1 (COCO_val2014_000000036492.jpg)
+Generated description: 
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 033_TdYvgoHk686bLdRV8cQUZz
+Target image: 1 (COCO_val2014_000000014592.jpg)
+Generated description: 
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 035_n49vPZ3tnANdnJvMfGztyZ
+Target image: 1 (COCO_val2014_000000140076.jpg)
+Generated description: 4
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 038_9LmxKyXxN8JCfER2MZAAmP
+Target image: 1 (COCO_val2014_000000161044.jpg)
+Generated description: 
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 040_DCKLDRfProbXeJ8aSZT9Ha
+Target image: 1 (COCO_val2014_000000033958.jpg)
+Generated description: 
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 041_3QHn6AW28dZzz3gNoNUpMw
+Target image: 1 (COCO_val2014_000000027272.jpg)
+Generated description: bear
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 043_MgeX72ppzXHrehgU2qhmvu
+Target image: 1 (COCO_val2014_000000027285.jpg)
+Generated description: George Putong the bear
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 044_2CCtpozAj5QAP67odNo3uH
+Target image: 1 (COCO_val2014_000000272958.jpg)
+Generated description: 
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 047_GcbutkAxNTuoVYBWqcZ2EF
+Target image: 1 (COCO_val2014_000000068740.jpg)
+Generated description: 4
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 048_XhuayYKd34YZFYLCHqgKJH
+Target image: 1 (COCO_val2014_000000142537.jpg)
+Generated description: 
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 051_BeUywrzY9YptGCuU8ktavy
+Target image: 1 (COCO_val2014_000000019763.jpg)
+Generated description: 
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 063_K7jBopRVF4UL6mnkbRBiw9
+Target image: 1 (COCO_val2014_000000093670.jpg)
+Generated description: 
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 064_miaVnypWFPWnnWt7F3kNWc
+Target image: 1 (COCO_val2014_000000182170.jpg)
+Generated description: 
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 065_GbFKdkEGtHUgCeWsoDggAK
+Target image: 1 (COCO_val2014_000000248382.jpg)
+Generated description: 
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 066_3tcgywbsLeQuwqKYELedoC
+Target image: 1 (COCO_val2014_000000043314.jpg)
+Generated description: 4
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 067_AwprMBTcVE96Ffg36Y8atE
+Target image: 1 (COCO_val2014_000000199442.jpg)
+Generated description: 
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 068_FdWLXJSnNYHdNjCnjnuZEh
+Target image: 1 (COCO_val2014_000000391269.jpg)
+Generated description: 
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 069_D2AD2pPKPXsAEETXVPyPV5
+Target image: 1 (COCO_val2014_000000190700.jpg)
+Generated description: 
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 070_k9jbok9FBRFgcn2GGRZLeX
+Target image: 1 (COCO_val2014_000000059567.jpg)
+Generated description: 4
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 077_EbSYwUW6XVqfQJNf9pkVnx
+Target image: 1 (COCO_val2014_000000193401.jpg)
+Generated description: sheep
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 082_cGiZG8ch4Q2bfCL9cE9FQi
+Target image: 1 (COCO_val2014_000000050326.jpg)
+Generated description: 4
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 083_JoDPa8R2noHgCzsGY6F23Q
+Target image: 1 (COCO_val2014_000000040842.jpg)
+Generated description: 
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 084_jpYy9QmonaLYSmEbEpBsge
+Target image: 1 (COCO_val2014_000000191721.jpg)
+Generated description: image description of the image description of the image description of the image description of the image description of the image of the image of the image of tennis player.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 086_82DLfNxneWqVNpjQi4zjCB
+Target image: 1 (COCO_val2014_000000000724.jpg)
+Generated description: STOP signposter
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 089_SSPbt5fSrj8o2f9aAaZdp4
+Target image: 1 (COCO_val2014_000000017003.jpg)
+Generated description: 4
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 092_LycEamGLGeYyKbotzNQrbm
+Target image: 1 (COCO_val2014_000000194903.jpg)
+Generated description: 
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 094_CTiCNB8PENFFcZ9v7AGrAq
+Target image: 1 (COCO_val2014_000000022118.jpg)
+Generated description: 
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 098_NswjCBbcgQAKLr7YKeNQui
+Target image: 1 (COCO_val2014_000000013168.jpg)
+Generated description: 4
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 099_ZDmf2r8sEcG5hw5U3vDaSd
+Target image: 1 (COCO_val2014_000000289620.jpg)
+Generated description: 4
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+======== CYCLE for TARGET INDEX 2 ========
+
+
+----------------------------------------
+Trial: 000_Xf39GqLsVwUGe7ErHgdq44
+Target image: 2 (COCO_val2014_000000359105.jpg)
+Generated description: 4
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 001_aKfods2rkcEf5uQAmFttZZ
+Target image: 2 (COCO_val2014_000000335119.jpg)
+Generated description: 4
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 003_YEkc8XE8SmupZd36vuvi5P
+Target image: 2 (COCO_val2014_000000249687.jpg)
+Generated description: 4
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 004_VB3Tm7rg77rEpjpTYuBZnZ
+Target image: 2 (COCO_val2014_000000338826.jpg)
+Generated description: 
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 013_WthoLxjCvzwKsmKQzK5foy
+Target image: 2 (COCO_val2014_000000214919.jpg)
+Generated description: 
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 014_RwUsQicUBpeLmoCYMX8ZPC
+Target image: 2 (COCO_val2014_000000092644.jpg)
+Generated description: lake
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 026_P46gnKM3fMXy9E5usBPHFi
+Target image: 2 (COCO_val2014_000000337247.jpg)
+Generated description: 
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 029_UCEfbeigsYRDkWUU6cPZez
+Target image: 2 (COCO_val2014_000000124712.jpg)
+Generated description: 4
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 031_TKJu7P3rwMbMr52DcaEoNE
+Target image: 2 (COCO_val2014_000000267521.jpg)
+Generated description: 
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 033_TdYvgoHk686bLdRV8cQUZz
+Target image: 2 (COCO_val2014_000000045387.jpg)
+Generated description: 4
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 035_n49vPZ3tnANdnJvMfGztyZ
+Target image: 2 (COCO_val2014_000000166401.jpg)
+Generated description: 
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 038_9LmxKyXxN8JCfER2MZAAmP
+Target image: 2 (COCO_val2014_000000419074.jpg)
+Generated description: 
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 040_DCKLDRfProbXeJ8aSZT9Ha
+Target image: 2 (COCO_val2014_000000195974.jpg)
+Generated description: 4
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 041_3QHn6AW28dZzz3gNoNUpMw
+Target image: 2 (COCO_val2014_000000083773.jpg)
+Generated description: bear
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 043_MgeX72ppzXHrehgU2qhmvu
+Target image: 2 (COCO_val2014_000000053697.jpg)
+Generated description: George Putong the second image description of the second image description of the second image of the image of the image of the second image of the second image of the second image of the second image description of the second image description of the second image description of the image of the image of the image of the image of the image
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 044_2CCtpozAj5QAP67odNo3uH
+Target image: 2 (COCO_val2014_000000317070.jpg)
+Generated description: 3
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 047_GcbutkAxNTuoVYBWqcZ2EF
+Target image: 2 (COCO_val2014_000000359843.jpg)
+Generated description: 
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 048_XhuayYKd34YZFYLCHqgKJH
+Target image: 2 (COCO_val2014_000000264121.jpg)
+Generated description: 
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 051_BeUywrzY9YptGCuU8ktavy
+Target image: 2 (COCO_val2014_000000044934.jpg)
+Generated description: 1
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 063_K7jBopRVF4UL6mnkbRBiw9
+Target image: 2 (COCO_val2014_000000134807.jpg)
+Generated description: 4
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 064_miaVnypWFPWnnWt7F3kNWc
+Target image: 2 (COCO_val2014_000000350855.jpg)
+Generated description: 
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 065_GbFKdkEGtHUgCeWsoDggAK
+Target image: 2 (COCO_val2014_000000315939.jpg)
+Generated description: 
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 066_3tcgywbsLeQuwqKYELedoC
+Target image: 2 (COCO_val2014_000000290602.jpg)
+Generated description: 
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 067_AwprMBTcVE96Ffg36Y8atE
+Target image: 2 (COCO_val2014_000000423113.jpg)
+Generated description: 
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 068_FdWLXJSnNYHdNjCnjnuZEh
+Target image: 2 (COCO_val2014_000000427965.jpg)
+Generated description: 
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 069_D2AD2pPKPXsAEETXVPyPV5
+Target image: 2 (COCO_val2014_000000322987.jpg)
+Generated description: 4
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 070_k9jbok9FBRFgcn2GGRZLeX
+Target image: 2 (COCO_val2014_000000297578.jpg)
+Generated description: 
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 077_EbSYwUW6XVqfQJNf9pkVnx
+Target image: 2 (COCO_val2014_000000212545.jpg)
+Generated description: 
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 082_cGiZG8ch4Q2bfCL9cE9FQi
+Target image: 2 (COCO_val2014_000000083277.jpg)
+Generated description: 
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 083_JoDPa8R2noHgCzsGY6F23Q
+Target image: 2 (COCO_val2014_000000142890.jpg)
+Generated description: 
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 084_jpYy9QmonaLYSmEbEpBsge
+Target image: 2 (COCO_val2014_000000284220.jpg)
+Generated description: tennis court
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 086_82DLfNxneWqVNpjQi4zjCB
+Target image: 2 (COCO_val2014_000000098268.jpg)
+Generated description: STOP
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 089_SSPbt5fSrj8o2f9aAaZdp4
+Target image: 2 (COCO_val2014_000000135785.jpg)
+Generated description: 
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 092_LycEamGLGeYyKbotzNQrbm
+Target image: 2 (COCO_val2014_000000281500.jpg)
+Generated description: 4
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 094_CTiCNB8PENFFcZ9v7AGrAq
+Target image: 2 (COCO_val2014_000000234595.jpg)
+Generated description: 
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 098_NswjCBbcgQAKLr7YKeNQui
+Target image: 2 (COCO_val2014_000000178982.jpg)
+Generated description: 1
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 099_ZDmf2r8sEcG5hw5U3vDaSd
+Target image: 2 (COCO_val2014_000000515792.jpg)
+Generated description: 
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+======== CYCLE for TARGET INDEX 3 ========
+
+
+----------------------------------------
+Trial: 000_Xf39GqLsVwUGe7ErHgdq44
+Target image: 3 (COCO_val2014_000000473237.jpg)
+Generated description: 4
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 001_aKfods2rkcEf5uQAmFttZZ
+Target image: 3 (COCO_val2014_000000376677.jpg)
+Generated description: 4 image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of the image of image of the image of the image of the image of the image of the image of the
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 003_YEkc8XE8SmupZd36vuvi5P
+Target image: 3 (COCO_val2014_000000331727.jpg)
+Generated description: 4
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 004_VB3Tm7rg77rEpjpTYuBZnZ
+Target image: 3 (COCO_val2014_000000436138.jpg)
+Generated description: 
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 013_WthoLxjCvzwKsmKQzK5foy
+Target image: 3 (COCO_val2014_000000256660.jpg)
+Generated description: 
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 014_RwUsQicUBpeLmoCYMX8ZPC
+Target image: 3 (COCO_val2014_000000111909.jpg)
+Generated description: 
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 026_P46gnKM3fMXy9E5usBPHFi
+Target image: 3 (COCO_val2014_000000344758.jpg)
+Generated description: 
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 029_UCEfbeigsYRDkWUU6cPZez
+Target image: 3 (COCO_val2014_000000377588.jpg)
+Generated description: 4
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 031_TKJu7P3rwMbMr52DcaEoNE
+Target image: 3 (COCO_val2014_000000283498.jpg)
+Generated description: 
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 033_TdYvgoHk686bLdRV8cQUZz
+Target image: 3 (COCO_val2014_000000360318.jpg)
+Generated description: 4th
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 035_n49vPZ3tnANdnJvMfGztyZ
+Target image: 3 (COCO_val2014_000000213224.jpg)
+Generated description: 
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 038_9LmxKyXxN8JCfER2MZAAmP
+Target image: 3 (COCO_val2014_000000455943.jpg)
+Generated description: 
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 040_DCKLDRfProbXeJ8aSZT9Ha
+Target image: 3 (COCO_val2014_000000196442.jpg)
+Generated description: 
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 041_3QHn6AW28dZzz3gNoNUpMw
+Target image: 3 (COCO_val2014_000000174457.jpg)
+Generated description: bear
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 043_MgeX72ppzXHrehgU2qhmvu
+Target image: 3 (COCO_val2014_000000454907.jpg)
+Generated description: George Puting George Puting George Puting George Puttering George Puttering George Puttering George Puttering George Puttering George Puttering George Puttering George Puttering George Puttering George Puttering George Puttering George Puttering George Puttering George Puttering George Puttering George Puttering George Puttering George Puttering George
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 044_2CCtpozAj5QAP67odNo3uH
+Target image: 3 (COCO_val2014_000000339676.jpg)
+Generated description: 
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 047_GcbutkAxNTuoVYBWqcZ2EF
+Target image: 3 (COCO_val2014_000000453390.jpg)
+Generated description: 4th
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 048_XhuayYKd34YZFYLCHqgKJH
+Target image: 3 (COCO_val2014_000000271177.jpg)
+Generated description: 
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 051_BeUywrzY9YptGCuU8ktavy
+Target image: 3 (COCO_val2014_000000050422.jpg)
+Generated description: 
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 063_K7jBopRVF4UL6mnkbRBiw9
+Target image: 3 (COCO_val2014_000000198625.jpg)
+Generated description: 4
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 064_miaVnypWFPWnnWt7F3kNWc
+Target image: 3 (COCO_val2014_000000363922.jpg)
+Generated description: 
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 065_GbFKdkEGtHUgCeWsoDggAK
+Target image: 3 (COCO_val2014_000000388398.jpg)
+Generated description: 
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 066_3tcgywbsLeQuwqKYELedoC
+Target image: 3 (COCO_val2014_000000465489.jpg)
+Generated description: 4
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 067_AwprMBTcVE96Ffg36Y8atE
+Target image: 3 (COCO_val2014_000000483358.jpg)
+Generated description: 4
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 068_FdWLXJSnNYHdNjCnjnuZEh
+Target image: 3 (COCO_val2014_000000468162.jpg)
+Generated description: 
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 069_D2AD2pPKPXsAEETXVPyPV5
+Target image: 3 (COCO_val2014_000000475330.jpg)
+Generated description: 
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 070_k9jbok9FBRFgcn2GGRZLeX
+Target image: 3 (COCO_val2014_000000386089.jpg)
+Generated description: 4
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 077_EbSYwUW6XVqfQJNf9pkVnx
+Target image: 3 (COCO_val2014_000000318888.jpg)
+Generated description: sheep
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 082_cGiZG8ch4Q2bfCL9cE9FQi
+Target image: 3 (COCO_val2014_000000285314.jpg)
+Generated description: 
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 083_JoDPa8R2noHgCzsGY6F23Q
+Target image: 3 (COCO_val2014_000000232383.jpg)
+Generated description: 
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 084_jpYy9QmonaLYSmEbEpBsge
+Target image: 3 (COCO_val2014_000000501898.jpg)
+Generated description: 4th
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 086_82DLfNxneWqVNpjQi4zjCB
+Target image: 3 (COCO_val2014_000000136400.jpg)
+Generated description: STOP
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 089_SSPbt5fSrj8o2f9aAaZdp4
+Target image: 3 (COCO_val2014_000000251857.jpg)
+Generated description: 
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 092_LycEamGLGeYyKbotzNQrbm
+Target image: 3 (COCO_val2014_000000428254.jpg)
+Generated description: tennis player
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 094_CTiCNB8PENFFcZ9v7AGrAq
+Target image: 3 (COCO_val2014_000000388846.jpg)
+Generated description: 
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 098_NswjCBbcgQAKLr7YKeNQui
+Target image: 3 (COCO_val2014_000000325666.jpg)
+Generated description: The image description of the train is a train is
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 099_ZDmf2r8sEcG5hw5U3vDaSd
+Target image: 3 (COCO_val2014_000000536416.jpg)
+Generated description: 
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+======== CYCLE for TARGET INDEX 4 ========
+
+
+----------------------------------------
+Trial: 000_Xf39GqLsVwUGe7ErHgdq44
+Target image: 4 (COCO_val2014_000000553667.jpg)
+Generated description: 4
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 001_aKfods2rkcEf5uQAmFttZZ
+Target image: 4 (COCO_val2014_000000579036.jpg)
+Generated description: 
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 003_YEkc8XE8SmupZd36vuvi5P
+Target image: 4 (COCO_val2014_000000396542.jpg)
+Generated description: 
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 004_VB3Tm7rg77rEpjpTYuBZnZ
+Target image: 4 (COCO_val2014_000000479099.jpg)
+Generated description: 4
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 013_WthoLxjCvzwKsmKQzK5foy
+Target image: 4 (COCO_val2014_000000558640.jpg)
+Generated description: 
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 014_RwUsQicUBpeLmoCYMX8ZPC
+Target image: 4 (COCO_val2014_000000435308.jpg)
+Generated description: 
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 026_P46gnKM3fMXy9E5usBPHFi
+Target image: 4 (COCO_val2014_000000353558.jpg)
+Generated description: 
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 029_UCEfbeigsYRDkWUU6cPZez
+Target image: 4 (COCO_val2014_000000541123.jpg)
+Generated description: 4th
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 031_TKJu7P3rwMbMr52DcaEoNE
+Target image: 4 (COCO_val2014_000000347253.jpg)
+Generated description: 
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 033_TdYvgoHk686bLdRV8cQUZz
+Target image: 4 (COCO_val2014_000000460732.jpg)
+Generated description: 
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 035_n49vPZ3tnANdnJvMfGztyZ
+Target image: 4 (COCO_val2014_000000290477.jpg)
+Generated description: 
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 038_9LmxKyXxN8JCfER2MZAAmP
+Target image: 4 (COCO_val2014_000000551650.jpg)
+Generated description: 4
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 040_DCKLDRfProbXeJ8aSZT9Ha
+Target image: 4 (COCO_val2014_000000549789.jpg)
+Generated description: 
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 041_3QHn6AW28dZzz3gNoNUpMw
+Target image: 4 (COCO_val2014_000000452263.jpg)
+Generated description: bear
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 043_MgeX72ppzXHrehgU2qhmvu
+Target image: 4 (COCO_val2014_000000548523.jpg)
+Generated description: George Puting George Puting George Puting George Puting George Puting George Puting George Puting George Puting George Puting George Puting George Puting George Puting George Puting George Puting George George Puting George Puting George Puting George Puting George Puting George Puting George Puting
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 044_2CCtpozAj5QAP67odNo3uH
+Target image: 4 (COCO_val2014_000000408534.jpg)
+Generated description: 4
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 047_GcbutkAxNTuoVYBWqcZ2EF
+Target image: 4 (COCO_val2014_000000483941.jpg)
+Generated description: red fire hydranted hydrant hydrant hydrant hydrant hydrant hydrant hydrant hydrant hydrant hydrant hydrant hydrant hydrant hydrant hydrant hydrant hydrant hydrant hydrant hydrant hydrant hydrant hydrant hydrant hydrant hydrant hydrant hydrant hydrant hyd
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 048_XhuayYKd34YZFYLCHqgKJH
+Target image: 4 (COCO_val2014_000000566249.jpg)
+Generated description: 4
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 051_BeUywrzY9YptGCuU8ktavy
+Target image: 4 (COCO_val2014_000000317798.jpg)
+Generated description: 4
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 063_K7jBopRVF4UL6mnkbRBiw9
+Target image: 4 (COCO_val2014_000000572850.jpg)
+Generated description: 
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 064_miaVnypWFPWnnWt7F3kNWc
+Target image: 4 (COCO_val2014_000000447854.jpg)
+Generated description: 
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 065_GbFKdkEGtHUgCeWsoDggAK
+Target image: 4 (COCO_val2014_000000504977.jpg)
+Generated description: 
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 066_3tcgywbsLeQuwqKYELedoC
+Target image: 4 (COCO_val2014_000000514518.jpg)
+Generated description: 
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 067_AwprMBTcVE96Ffg36Y8atE
+Target image: 4 (COCO_val2014_000000485212.jpg)
+Generated description: 4th
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 068_FdWLXJSnNYHdNjCnjnuZEh
+Target image: 4 (COCO_val2014_000000535312.jpg)
+Generated description: 4th
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 069_D2AD2pPKPXsAEETXVPyPV5
+Target image: 4 (COCO_val2014_000000516766.jpg)
+Generated description: 2.
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 070_k9jbok9FBRFgcn2GGRZLeX
+Target image: 4 (COCO_val2014_000000391199.jpg)
+Generated description: 4th
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 077_EbSYwUW6XVqfQJNf9pkVnx
+Target image: 4 (COCO_val2014_000000468043.jpg)
+Generated description: image
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 082_cGiZG8ch4Q2bfCL9cE9FQi
+Target image: 4 (COCO_val2014_000000574666.jpg)
+Generated description: 
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 083_JoDPa8R2noHgCzsGY6F23Q
+Target image: 4 (COCO_val2014_000000375509.jpg)
+Generated description: 
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 084_jpYy9QmonaLYSmEbEpBsge
+Target image: 4 (COCO_val2014_000000580847.jpg)
+Generated description: tennis player
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 086_82DLfNxneWqVNpjQi4zjCB
+Target image: 4 (COCO_val2014_000000321308.jpg)
+Generated description: STOP sign is a stop sign is a stop sign is a sign is a sign is a sign is a sign is a sign is a sign is a stop sign is a stop sign is a sign is a stop sign is a sign is a sign is a sign is a sign is a sign a sign a sign is a
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 089_SSPbt5fSrj8o2f9aAaZdp4
+Target image: 4 (COCO_val2014_000000476258.jpg)
+Generated description: 
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 092_LycEamGLGeYyKbotzNQrbm
+Target image: 4 (COCO_val2014_000000567276.jpg)
+Generated description: 
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 094_CTiCNB8PENFFcZ9v7AGrAq
+Target image: 4 (COCO_val2014_000000490244.jpg)
+Generated description: 4
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 098_NswjCBbcgQAKLr7YKeNQui
+Target image: 4 (COCO_val2014_000000568961.jpg)
+Generated description: Track
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 099_ZDmf2r8sEcG5hw5U3vDaSd
+Target image: 4 (COCO_val2014_000000566049.jpg)
+Generated description: 
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+DONE.
+
+JOB STATISTICS
+==============
+Job ID: 12441595
+Cluster: snellius
+User/Group: sbaratella/sbaratella
+State: RUNNING
+Nodes: 1
+Cores per node: 16
+CPU Utilized: 00:00:00
+CPU Efficiency: 0.00% of 03:21:20 core-walltime
+Job Wall-clock time: 00:12:35
+Memory Utilized: 0.00 MB
+Memory Efficiency: 0.00% of 128.00 GB (128.00 GB/node)
+WARNING: Efficiency statistics can only be obtained after the job has ended as seff tool is based on the accounting database data.

@@ -1,0 +1,1383 @@
+/projects/0/prjs1482/miniconda/envs/deep2/lib/python3.10/site-packages/huggingface_hub/file_download.py:943: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Python version is above 3.10, patching the collections module.
+Loading DeepSeek-VL2...
+Add pad token = ['<｜▁pad▁｜>'] to the tokenizer
+<｜▁pad▁｜>:2
+Add image token = ['<image>'] to the tokenizer
+<image>:128815
+Add grounding-related tokens = ['<|ref|>', '<|/ref|>', '<|det|>', '<|/det|>', '<|grounding|>'] to the tokenizer with input_ids
+<|ref|>:128816
+<|/ref|>:128817
+<|det|>:128818
+<|/det|>:128819
+<|grounding|>:128820
+Add chat tokens = ['<|User|>', '<|Assistant|>'] to the tokenizer with input_ids
+<|User|>:128821
+<|Assistant|>:128822
+
+Loading checkpoint shards:   0%|          | 0/8 [00:00<?, ?it/s]Loading checkpoint shards:  12%|█▎        | 1/8 [00:26<03:03, 26.27s/it]Loading checkpoint shards:  25%|██▌       | 2/8 [00:54<02:46, 27.70s/it]Loading checkpoint shards:  38%|███▊      | 3/8 [01:21<02:15, 27.09s/it]Loading checkpoint shards:  50%|█████     | 4/8 [01:25<01:12, 18.21s/it]Loading checkpoint shards:  62%|██████▎   | 5/8 [01:51<01:02, 20.73s/it]Loading checkpoint shards:  75%|███████▌  | 6/8 [02:18<00:46, 23.11s/it]Loading checkpoint shards:  88%|████████▊ | 7/8 [02:48<00:25, 25.20s/it]Loading checkpoint shards: 100%|██████████| 8/8 [02:55<00:00, 19.48s/it]Loading checkpoint shards: 100%|██████████| 8/8 [02:55<00:00, 21.95s/it]
+You're using a LlamaTokenizerFast tokenizer. Please note that with a fast tokenizer, using the `__call__` method is faster than using a method to encode the text followed by a call to the `pad` method to get a padded encoding.
+/projects/0/prjs1482/miniconda/envs/deep2/lib/python3.10/site-packages/torch/nn/modules/conv.py:459: UserWarning: Applied workaround for CuDNN issue, install nvrtc.so (Triggered internally at ../aten/src/ATen/native/cudnn/Conv_v8.cpp:80.)
+  return F.conv2d(input, weight, bias, self.stride,
+
+======== CYCLE for TARGET INDEX 1 ========
+
+
+----------------------------------------
+Trial: 000_Xf39GqLsVwUGe7ErHgdq44
+Target image: 1 (COCO_val2014_000000334417.jpg)
+Generated description: a man wearing a suit and tie, eating a piece of food, possibly a sandwich or a burger, with a napkin in a room with a white wall in the background
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 001_aKfods2rkcEf5uQAmFttZZ
+Target image: 1 (COCO_val2014_000000087912.jpg)
+Generated description: a man in a man is eating something
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 003_YEkc8XE8SmupZd36vuvi5P
+Target image: 1 (COCO_val2014_000000241638.jpg)
+Generated description: a person skiing down a snowy slope, wearing a blue jacket, helmet, goggles, and holding ski poles. The person is skiing down a pair of skis. The background is a snowy slope with a clear sky.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 004_VB3Tm7rg77rEpjpTYuBZnZ
+Target image: 1 (COCO_val2014_000000201004.jpg)
+Generated description: a large building with a tall tower and a clock tower.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 013_WthoLxjCvzwKsmKQzK5foy
+Target image: 1 (COCO_val2014_000000159716.jpg)
+Generated description: A white container with rice and meat and vegetables
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 014_RwUsQicUBpeLmoCYMX8ZPC
+Target image: 1 (COCO_val2014_000000050962.jpg)
+Generated description: a boat on a person water skiing behind a blue motorboat on a body of water, with a person skiing behind it, trees in the background, and a house on the shore.
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 026_P46gnKM3fMXy9E5usBPHFi
+Target image: 1 (COCO_val2014_000000198367.jpg)
+Generated description: a bowl with three bananas and two apples on a place mat
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 029_UCEfbeigsYRDkWUU6cPZez
+Target image: 1 (COCO_val2014_000000102478.jpg)
+Generated description: a dining area with a table with a vase of flowers in the centerpiece
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 031_TKJu7P3rwMbMr52DcaEoNE
+Target image: 1 (COCO_val2014_000000036492.jpg)
+Generated description: an airplane parked on the tarmac with a jet bridge connected to the plane, ground service vehicles nearby, and equipment around it
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 033_TdYvgoHk686bLdRV8cQUZz
+Target image: 1 (COCO_val2014_000000014592.jpg)
+Generated description: a monkey sitting on a stone surface, holding a banana and a piece of fruit, possibly a banana, and a bottle with a label that reads "JUNG JUICE"
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 035_n49vPZ3tnANdnJvMfGztyZ
+Target image: 1 (COCO_val2014_000000140076.jpg)
+Generated description: a large building with a clock tower and a classical architecture
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 038_9LmxKyXxN8JCfER2MZAAmP
+Target image: 1 (COCO_val2014_000000161044.jpg)
+Generated description: a group of three airplanes flying in the sky
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 040_DCKLDRfProbXeJ8aSZT9Ha
+Target image: 1 (COCO_val2014_000000033958.jpg)
+Generated description: a teddyed bear wearing a red hat and scarf and a teddy bear wearing a red hat and scarf
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 041_3QHn6AW28dZzz3gNoNUpMw
+Target image: 1 (COCO_val2014_000000027272.jpg)
+Generated description: a bear in a grassy area with a river or stream, possibly a forested
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 043_MgeX72ppzXHrehgU2qhmvu
+Target image: 1 (COCO_val2014_000000027285.jpg)
+Generated description: a modern kitchen with a white refrigerator, a stove, a microwave oven, a stove, a coffee maker, a toaster, and a microwave oven. There are also some bottles and a few other kitchen utensils and containers on the floor and a broom.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 044_2CCtpozAj5QAP67odNo3uH
+Target image: 1 (COCO_val2014_000000272958.jpg)
+Generated description: a man in a man in a suit and tie eating a sandwich.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 047_GcbutkAxNTuoVYBWqcZ2EF
+Target image: 1 (COCO_val2014_000000068740.jpg)
+Generated description: a fire hydrant with a yellow body and red top, positioned on a blue top. The fire hydrant is located in a yellow and red and blue. The fire hydrant is in a yellow and red and blue top. The fire hydrant is yellow and blue. The fire hydrant is yellow and red.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 048_XhuayYKd34YZFYLCHqgKJH
+Target image: 1 (COCO_val2014_000000142537.jpg)
+Generated description: a motorcycle parked on a
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 051_BeUywrzY9YptGCuU8ktavy
+Target image: 1 (COCO_val2014_000000019763.jpg)
+Generated description: A slice of deep dish with cheese and sauce on plate a on table
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 063_K7jBopRVF4UL6mnkbRBiw9
+Target image: 1 (COCO_val2014_000000093670.jpg)
+Generated description: a man wearing a brown suit with a brown jacket and a light blue shirt and a brown tie
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 064_miaVnypWFPWnnWt7F3kNWc
+Target image: 1 (COCO_val2014_000000182170.jpg)
+Generated description: a person skiing down a snowy slope, wearing a helmet and goggles, a jacket, and ski boots, holding ski poles. The skis in their body leaning forward, and appears to be in motion. The background is a clear blue sky.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 065_GbFKdkEGtHUgCeWsoDggAK
+Target image: 1 (COCO_val2014_000000248382.jpg)
+Generated description: a living room with a brown sofa, a television set, a sofa, a television set, a sofa, a coffee table, a lamp, a bicycle, a sofa, a sofa, a television, a sofa, a sofa, a sofa, a television, a sofa, a sofa, a sofa, a sofa
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 066_3tcgywbsLeQuwqKYELedoC
+Target image: 1 (COCO_val2014_000000043314.jpg)
+Generated description: a person skiing downhill on a snowy slope, wearing a helmet and goggles, a colorful hat, and holding ski poles. The skis in their body is wearing goggles and a helmet. The skier is in a colorful hat is skiing on a snowy slope. The skier is wearing a colorful hat and holding ski poles
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 067_AwprMBTcVE96Ffg36Y8atE
+Target image: 1 (COCO_val2014_000000199442.jpg)
+Generated description: a monkey eating a banana while sitting on a bottle juice
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 068_FdWLXJSnNYHdNjCnjnuZEh
+Target image: 1 (COCO_val2014_000000391269.jpg)
+Generated description: a cat sitting on top of a shelf above monitor
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 069_D2AD2pPKPXsAEETXVPyPV5
+Target image: 1 (COCO_val2014_000000190700.jpg)
+Generated description: a teddy bear teddy bear
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 070_k9jbok9FBRFgcn2GGRZLeX
+Target image: 1 (COCO_val2014_000000059567.jpg)
+Generated description: a teddy bear wearing a red hat and scarf, a red hat, with a smaller bear beside it.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 077_EbSYwUW6XVqfQJNf9pkVnx
+Target image: 1 (COCO_val2014_000000193401.jpg)
+Generated description: a person is kiteboarding on the water, wearing a black wets
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 082_cGiZG8ch4Q2bfCL9cE9FQi
+Target image: 1 (COCO_val2014_000000050326.jpg)
+Generated description: a person wearing a yellow shirt
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 083_JoDPa8R2noHgCzsGY6F23Q
+Target image: 1 (COCO_val2014_000000040842.jpg)
+Generated description: a cat sitting on top of a computer monitor
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 084_jpYy9QmonaLYSmEbEpBsge
+Target image: 1 (COCO_val2014_000000191721.jpg)
+Generated description: a young girl wearing a striped shirt and red skirt, holding a tennis racketennis racket, standing on a tennis court with a green fence in the background.
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 086_82DLfNxneWqVNpjQi4zjCB
+Target image: 1 (COCO_val2014_000000000724.jpg)
+Generated description: The image depicts a slice of a deep-dish dish,
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 089_SSPbt5fSrj8o2f9aAaZdp4
+Target image: 1 (COCO_val2014_000000017003.jpg)
+Generated description: a person wearing a beanie and a scarf, riding a skateboard in a skateboard in a park.
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 092_LycEamGLGeYyKbotzNQrbm
+Target image: 1 (COCO_val2014_000000194903.jpg)
+Generated description: a tennis player in a red shirt and black shorts, white cap,
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 094_CTiCNB8PENFFcZ9v7AGrAq
+Target image: 1 (COCO_val2014_000000022118.jpg)
+Generated description: a beach scene with multiple umbreakers, people, sunbathing, deck chairs, and umbreakers. There are several umbreakers are set up on the beach, and people are sitting or lying on deck chairs, some are sunbathing. The beach is surrounded by a body of water, and a
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 098_NswjCBbcgQAKLr7YKeNQui
+Target image: 1 (COCO_val2014_000000013168.jpg)
+Generated description: train station with a train on tracks and a train station platform with a green light and a train on the train is on the tracks and a green light is on the train is on the train is a train on the tracks and a green light is on the train on the train is on the tracks and a green light is
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 099_ZDmf2r8sEcG5hw5U3vDaSd
+Target image: 1 (COCO_val2014_000000289620.jpg)
+Generated description: a beach scene with two men playing frisbee
+Listener guess: first
+Result: correct
+----------------------------------------
+
+
+======== CYCLE for TARGET INDEX 2 ========
+
+
+----------------------------------------
+Trial: 000_Xf39GqLsVwUGe7ErHgdq44
+Target image: 2 (COCO_val2014_000000359105.jpg)
+Generated description: a person wearing a yellow and black and black outfit
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 001_aKfods2rkcEf5uQAmFttZZ
+Target image: 2 (COCO_val2014_000000335119.jpg)
+Generated description: a monkey sitting on the ground, holding a banana, looking at the ground.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 003_YEkc8XE8SmupZd36vuvi5P
+Target image: 2 (COCO_val2014_000000249687.jpg)
+Generated description: a person performing a skateboard trick in mid-air maneuver, wearing a skateboarding trick, with a blue skateboard beneath them, and a white t-shirt, and a building in the background.
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 004_VB3Tm7rg77rEpjpTYuBZnZ
+Target image: 2 (COCO_val2014_000000338826.jpg)
+Generated description: a building with a modern architectural style, possibly institutional or public or institutional design, with a prominent clock tower-like structure on the left side and a flagpole, and a fire hydrant near the entrance. The building has a signboard in front of it. The sky is clear, and the building is blue, and
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 013_WthoLxjCvzwKsmKQzK5foy
+Target image: 2 (COCO_val2014_000000214919.jpg)
+Generated description: a meal consisting of a plate with a variety of vegetables and grains.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 014_RwUsQicUBpeLmoCYMX8ZPC
+Target image: 2 (COCO_val2014_000000092644.jpg)
+Generated description: a baseball game in progress
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 026_P46gnKM3fMXy9E5usBPHFi
+Target image: 2 (COCO_val2014_000000337247.jpg)
+Generated description: black cat blocking monitor
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 029_UCEfbeigsYRDkWUU6cPZez
+Target image: 2 (COCO_val2014_000000124712.jpg)
+Generated description: a baseball game in progress, with a pitcher throwing a ball towards a batter,
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 031_TKJu7P3rwMbMr52DcaEoNE
+Target image: 2 (COCO_val2014_000000267521.jpg)
+Generated description: airplane
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 033_TdYvgoHk686bLdRV8cQUZz
+Target image: 2 (COCO_val2014_000000045387.jpg)
+Generated description: a monkey sitting on the ground eating a banana
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 035_n49vPZ3tnANdnJvMfGztyZ
+Target image: 2 (COCO_val2014_000000166401.jpg)
+Generated description: A snowboarder in mid-air performing a trick on a snowy slope.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 038_9LmxKyXxN8JCfER2MZAAmP
+Target image: 2 (COCO_val2014_000000419074.jpg)
+Generated description: 
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 040_DCKLDRfProbXeJ8aSZT9Ha
+Target image: 2 (COCO_val2014_000000195974.jpg)
+Generated description: a teddy bear wearing a pink dress with a white shirt and a red rose in its hand
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 041_3QHn6AW28dZzz3gNoNUpMw
+Target image: 2 (COCO_val2014_000000083773.jpg)
+Generated description: a bear sitting on a bear in a grassy area with a rock
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 043_MgeX72ppzXHrehgU2qhmvu
+Target image: 2 (COCO_val2014_000000053697.jpg)
+Generated description: The image shows a kitchen with a white refrigerator,
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 044_2CCtpozAj5QAP67odNo3uH
+Target image: 2 (COCO_val2014_000000317070.jpg)
+Generated description: a box with bananas and a mango on top of bananas on a
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 047_GcbutkAxNTuoVYBWqcZ2EF
+Target image: 2 (COCO_val2014_000000359843.jpg)
+Generated description: a fire hydrant is red
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 048_XhuayYKd34YZFYLCHqgKJH
+Target image: 2 (COCO_val2014_000000264121.jpg)
+Generated description: a man playing frisbee
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 051_BeUywrzY9YptGCuU8ktavy
+Target image: 2 (COCO_val2014_000000044934.jpg)
+Generated description: a slice of pizza on a plate with a thick crust, topped with cheese, with a fork to the right of the plate, and a glass of beer in the background.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 063_K7jBopRVF4UL6mnkbRBiw9
+Target image: 2 (COCO_val2014_000000134807.jpg)
+Generated description: a person wearing a white shirt with a pink and purple tie with a lany
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 064_miaVnypWFPWnnWt7F3kNWc
+Target image: 2 (COCO_val2014_000000350855.jpg)
+Generated description: a cozy living room with wooden walls, a brown couch, a pink flamingo statue, a black dog, a television, a person, a coffee table, a lamp, and a rug
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 065_GbFKdkEGtHUgCeWsoDggAK
+Target image: 2 (COCO_val2014_000000315939.jpg)
+Generated description: a woman wearing a black dress and a black dress,
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 066_3tcgywbsLeQuwqKYELedoC
+Target image: 2 (COCO_val2014_000000290602.jpg)
+Generated description: a birthday celebration with a woman blowing out candles on a cake
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 067_AwprMBTcVE96Ffg36Y8atE
+Target image: 2 (COCO_val2014_000000423113.jpg)
+Generated description: a motorcycle parked on a road with a scenic background of a grassy field and a blue sky with clouds.
+Listener guess: the description "a motorcycle parked on a road with
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 068_FdWLXJSnNYHdNjCnjnuZEh
+Target image: 2 (COCO_val2014_000000427965.jpg)
+Generated description: a cozy living room with a sofa, a television set, a coffee table, a fireplace, a fan, a lamp, a sofa, a television set of a dog, a cat, a sofa, a coffee table, a sofa, a sofa, a sofa, a television, a coffee table, a lamp,
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 069_D2AD2pPKPXsAEETXVPyPV5
+Target image: 2 (COCO_val2014_000000322987.jpg)
+Generated description: a teddy bear wearing a pink dress
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 070_k9jbok9FBRFgcn2GGRZLeX
+Target image: 2 (COCO_val2014_000000297578.jpg)
+Generated description: A man in a man in a suit and tie is smoking a cigarette and holding a lighter in his hand.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 077_EbSYwUW6XVqfQJNf9pkVnx
+Target image: 2 (COCO_val2014_000000212545.jpg)
+Generated description: a person wearing a white shirt with black wetsuit white shirt with a red logo on the back, surfing on a white surfboard
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 082_cGiZG8ch4Q2bfCL9cE9FQi
+Target image: 2 (COCO_val2014_000000083277.jpg)
+Generated description: a person performing a skateboard trick in mid-airborne skateboarder executing a trick in the air above a skateboard
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 083_JoDPa8R2noHgCzsGY6F23Q
+Target image: 2 (COCO_val2014_000000142890.jpg)
+Generated description: a cat sitting on a desk, looking at a computer monitor, with a computer monitor, a computer keyboard, and a computer mouse. The cat is positioned to the right of the cat. The cat is a computer monitor. The cat is a computer monitor. The cat is looking at the monitor.
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 084_jpYy9QmonaLYSmEbEpBsge
+Target image: 2 (COCO_val2014_000000284220.jpg)
+Generated description: a young boy wearing a red shirt and blue racket
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 086_82DLfNxneWqVNpjQi4zjCB
+Target image: 2 (COCO_val2014_000000098268.jpg)
+Generated description: stop sign, one way, red, trees,
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 089_SSPbt5fSrj8o2f9aAaZdp4
+Target image: 2 (COCO_val2014_000000135785.jpg)
+Generated description: A snowboarder is jumping in ther is wearing a red jacket.
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 092_LycEamGLGeYyKbotzNQrbm
+Target image: 2 (COCO_val2014_000000281500.jpg)
+Generated description: a tennis player in white shirt and blue shorts and white shoes
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 094_CTiCNB8PENFFcZ9v7AGrAq
+Target image: 2 (COCO_val2014_000000234595.jpg)
+Generated description: woman in pink dress
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 098_NswjCBbcgQAKLr7YKeNQui
+Target image: 2 (COCO_val2014_000000178982.jpg)
+Generated description: The image captures a serene beach scene at dusk, where the sky is painted in hues of pink and blue. The beach is dotted with umbrells are pink umbrells, and the sand. The are pink umbrells are pink. The beach is dotted with umbrells. The sand
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 099_ZDmf2r8sEcG5hw5U3vDaSd
+Target image: 2 (COCO_val2014_000000515792.jpg)
+Generated description: a person performing a skateboard trick in mid-air maneuver, with a skateboarding trick, wearing a white shirt, black pants, and a blue shoes, and a skateboard with blue deck. The background features a building, trees, and other skateboarders, and a street. The skateboarder is in the
+Listener guess: second
+Result: correct
+----------------------------------------
+
+
+======== CYCLE for TARGET INDEX 3 ========
+
+
+----------------------------------------
+Trial: 000_Xf39GqLsVwUGe7ErHgdq44
+Target image: 3 (COCO_val2014_000000473237.jpg)
+Generated description: a young girl wearing a green shirt eating a slice of pizza.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 001_aKfods2rkcEf5uQAmFttZZ
+Target image: 3 (COCO_val2014_000000376677.jpg)
+Generated description: a large truck carrying a bridge structure on a large bridge
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 003_YEkc8XE8SmupZd36vuvi5P
+Target image: 3 (COCO_val2014_000000331727.jpg)
+Generated description: a skier wearing a blue helmet and a blue helmet and a white vest with the letters "CHS" and the number "CHS" on it, skiing down a snowy slope with two ski poles in hand. The skier is surrounded by snow and trees in the background.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 004_VB3Tm7rg77rEpjpTYuBZnZ
+Target image: 3 (COCO_val2014_000000436138.jpg)
+Generated description: The image depicts a two slices of a sandwich with a sandwich with a variety of ingredients. The sandwich is made with a bread, including lettuce, tomato, cucumber, cheese, and other vegetables, and meat. The sandwich is on a plate.
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 013_WthoLxjCvzwKsmKQzK5foy
+Target image: 3 (COCO_val2014_000000256660.jpg)
+Generated description: a plate of food with a piece of meat covered in brown sauce, surrounded by broccoli and carrots and corn, green beans, and a side of mixed vegetables.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 014_RwUsQicUBpeLmoCYMX8ZPC
+Target image: 3 (COCO_val2014_000000111909.jpg)
+Generated description: a person water skiing on a boat on a boat on the water with a person skiing behind it
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 026_P46gnKM3fMXy9E5usBPHFi
+Target image: 3 (COCO_val2014_000000344758.jpg)
+Generated description: a bowl with fruits
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 029_UCEfbeigsYRDkWUU6cPZez
+Target image: 3 (COCO_val2014_000000377588.jpg)
+Generated description: a man wearing a yellow striped shirt holding a white puppy
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 031_TKJu7P3rwMbMr52DcaEoNE
+Target image: 3 (COCO_val2014_000000283498.jpg)
+Generated description: an airplane on the tarmac with a jet bridge connected to a jet bridge
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 033_TdYvgoHk686bLdRV8cQUZz
+Target image: 3 (COCO_val2014_000000360318.jpg)
+Generated description: a monkey sitting on a monkey eating a banana
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 035_n49vPZ3tnANdnJvMfGztyZ
+Target image: 3 (COCO_val2014_000000213224.jpg)
+Generated description: a living room with a man and a woman playing a game with a man and a woman playing a game in front of a tv
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 038_9LmxKyXxN8JCfER2MZAAmP
+Target image: 3 (COCO_val2014_000000455943.jpg)
+Generated description: a large truck carrying a massive concrete structure on a large, possibly a bridge or overpass section, driving on a road with a city street, and a traffic signboard on the side.
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 040_DCKLDRfProbXeJ8aSZT9Ha
+Target image: 3 (COCO_val2014_000000196442.jpg)
+Generated description: a skier is a person performing a ski jump in mid-air trick, wearing a helmet and goggles, holding onto ski poles, with a snowboard attached to their feet, against a snowy landscape with mountains in the background and a clear sky.
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 041_3QHn6AW28dZzz3gNoNUpMw
+Target image: 3 (COCO_val2014_000000174457.jpg)
+Generated description: two teddyeddyeddy bears, one wearing halloween
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 043_MgeX72ppzXHrehgU2qhmvu
+Target image: 3 (COCO_val2014_000000454907.jpg)
+Generated description: a kitchen with wooden cabinets, stove, microwave, refrigerator, oven,
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 044_2CCtpozAj5QAP67odNo3uH
+Target image: 3 (COCO_val2014_000000339676.jpg)
+Generated description: a person is a surferry
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 047_GcbutkAxNTuoVYBWqcZ2EF
+Target image: 3 (COCO_val2014_000000453390.jpg)
+Generated description: a fire hydrant with a yellow base and red top, located in a yellow fire hydrant with a red top and a yellow base, positioned on a grassy area near a sidewalk with a residential street and houses in the background
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 048_XhuayYKd34YZFYLCHqgKJH
+Target image: 3 (COCO_val2014_000000271177.jpg)
+Generated description: The image shows a motorcycle parked on a black and silver motorcycle with a windshield and storage boxes on the road in the side view
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 051_BeUywrzY9YptGCuU8ktavy
+Target image: 3 (COCO_val2014_000000050422.jpg)
+Generated description: a slice of deep dish with cheese and sauce on plate
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 063_K7jBopRVF4UL6mnkbRBiw9
+Target image: 3 (COCO_val2014_000000198625.jpg)
+Generated description: A person wearing a blue shirt with a plaid tie
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 064_miaVnypWFPWnnWt7F3kNWc
+Target image: 3 (COCO_val2014_000000363922.jpg)
+Generated description: a dining table with a wooden surface, a vase filled with a variety of flowers, including lilies, carnations, and other flowers, and ferns.
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 065_GbFKdkEGtHUgCeWsoDggAK
+Target image: 3 (COCO_val2014_000000388398.jpg)
+Generated description: two children sitting on a red bench.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 066_3tcgywbsLeQuwqKYELedoC
+Target image: 3 (COCO_val2014_000000465489.jpg)
+Generated description: a person skiing down a snowboarder in mid-air performing a trick
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 067_AwprMBTcVE96Ffg36Y8atE
+Target image: 3 (COCO_val2014_000000483358.jpg)
+Generated description: a young boy and a girl sitting on a red bench in a park.
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 068_FdWLXJSnNYHdNjCnjnuZEh
+Target image: 3 (COCO_val2014_000000468162.jpg)
+Generated description: a construction site with a large concrete structure being transported on a truck carrying a massive concrete structure.
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 069_D2AD2pPKPXsAEETXVPyPV5
+Target image: 3 (COCO_val2014_000000475330.jpg)
+Generated description: a teddy bear wearing a pumpkin costume and a pumpkin
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 070_k9jbok9FBRFgcn2GGRZLeX
+Target image: 3 (COCO_val2014_000000386089.jpg)
+Generated description: a man in a room with a star hanging from the
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 077_EbSYwUW6XVqfQJNf9pkVnx
+Target image: 3 (COCO_val2014_000000318888.jpg)
+Generated description: man holding a white puppy
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 082_cGiZG8ch4Q2bfCL9cE9FQi
+Target image: 3 (COCO_val2014_000000285314.jpg)
+Generated description: man in the image is a bowl of bowl of fruit
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 083_JoDPa8R2noHgCzsGY6F23Q
+Target image: 3 (COCO_val2014_000000232383.jpg)
+Generated description: A stop sign with fasten seat belt sign below it
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 084_jpYy9QmonaLYSmEbEpBsge
+Target image: 3 (COCO_val2014_000000501898.jpg)
+Generated description: a single airplane flying in the sky
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 086_82DLfNxneWqVNpjQi4zjCB
+Target image: 3 (COCO_val2014_000000136400.jpg)
+Generated description: The image depicts a construction site with a large concrete structure, possibly a bridge or overpass under construction. There is a truck with a large concrete beams. The truck is carrying a blue container. There are several other vehicles on the road. There are several signs and barriers and cones around the site.
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 089_SSPbt5fSrj8o2f9aAaZdp4
+Target image: 3 (COCO_val2014_000000251857.jpg)
+Generated description: The image shows a person wearing a man in a park. He is wearing a black shirt and black shirt and black pants. He is holding a skateboard in his hand.
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 092_LycEamGLGeYyKbotzNQrbm
+Target image: 3 (COCO_val2014_000000428254.jpg)
+Generated description: a tennis player in action shot on a clay court wearing a white shirt and a blue shorts, wearing a white cap, holding a racketball in a tennis racket, and a ball in his right hand, and a tennis racket in his right hand, and a tennis ball in the air, and a tennis
+Listener guess: third
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 094_CTiCNB8PENFFcZ9v7AGrAq
+Target image: 3 (COCO_val2014_000000388846.jpg)
+Generated description: a beach with many umbrells and chairs and a flag
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 098_NswjCBbcgQAKLr7YKeNQui
+Target image: 3 (COCO_val2014_000000325666.jpg)
+Generated description: a living room with a person lying on a couch and a dog on the floor.
+Listener guess: fourth
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 099_ZDmf2r8sEcG5hw5U3vDaSd
+Target image: 3 (COCO_val2014_000000536416.jpg)
+Generated description: two people on the beach.
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+======== CYCLE for TARGET INDEX 4 ========
+
+
+----------------------------------------
+Trial: 000_Xf39GqLsVwUGe7ErHgdq44
+Target image: 4 (COCO_val2014_000000553667.jpg)
+Generated description: a young girl eating a slice of pizza in a bite out of a slice pizza
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 001_aKfods2rkcEf5uQAmFttZZ
+Target image: 4 (COCO_val2014_000000579036.jpg)
+Generated description: a red double-decker bus with the sky advertisement on it is
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 003_YEkc8XE8SmupZd36vuvi5P
+Target image: 4 (COCO_val2014_000000396542.jpg)
+Generated description: a person skiing in a blue jacket and black pants and pink backpack.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 004_VB3Tm7rg77rEpjpTYuBZnZ
+Target image: 4 (COCO_val2014_000000479099.jpg)
+Generated description: 
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 013_WthoLxjCvzwKsmKQzK5foy
+Target image: 4 (COCO_val2014_000000558640.jpg)
+Generated description: 
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 014_RwUsQicUBpeLmoCYMX8ZPC
+Target image: 4 (COCO_val2014_000000435308.jpg)
+Generated description: a person is wakeboarding behind a boat on a blue boat is blue and white
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 026_P46gnKM3fMXy9E5usBPHFi
+Target image: 4 (COCO_val2014_000000353558.jpg)
+Generated description: a bowl with three bananas, two apples, a mangoes, and a bowl
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 029_UCEfbeigsYRDkWUU6cPZez
+Target image: 4 (COCO_val2014_000000541123.jpg)
+Generated description: a tennis court with players in action shot of a tennis court with players in action shot
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 031_TKJu7P3rwMbMr52DcaEoNE
+Target image: 4 (COCO_val2014_000000347253.jpg)
+Generated description: 
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 033_TdYvgoHk686bLdRV8cQUZz
+Target image: 4 (COCO_val2014_000000460732.jpg)
+Generated description: a monkey eating a banana
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 035_n49vPZ3tnANdnJvMfGztyZ
+Target image: 4 (COCO_val2014_000000290477.jpg)
+Generated description: a church altar with a large green plant in a purple cloth and a vase with a plant in the altar cloth
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 038_9LmxKyXxN8JCfER2MZAAmP
+Target image: 4 (COCO_val2014_000000551650.jpg)
+Generated description: a plane flying in the sky
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 040_DCKLDRfProbXeJ8aSZT9Ha
+Target image: 4 (COCO_val2014_000000549789.jpg)
+Generated description: 
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 041_3QHn6AW28dZzz3gNoNUpMw
+Target image: 4 (COCO_val2014_000000452263.jpg)
+Generated description: a bear in a bear in a forest.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 043_MgeX72ppzXHrehgU2qhmvu
+Target image: 4 (COCO_val2014_000000548523.jpg)
+Generated description: a kitchen with a stove, refrigerator, microwave, oven,
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 044_2CCtpozAj5QAP67odNo3uH
+Target image: 4 (COCO_val2014_000000408534.jpg)
+Generated description: a person kiteboarding scene with a person in the ocean waves, wearing a wets
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 047_GcbutkAxNTuoVYBWqcZ2EF
+Target image: 4 (COCO_val2014_000000483941.jpg)
+Generated description: a fire hydrant with a red top and white base and a red top
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 048_XhuayYKd34YZFYLCHqgKJH
+Target image: 4 (COCO_val2014_000000566249.jpg)
+Generated description: 
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 051_BeUywrzY9YptGCuU8ktavy
+Target image: 4 (COCO_val2014_000000317798.jpg)
+Generated description: a sandwich with multiple layers of lettuce, tomato, cucumber, and other vegetables, and meat, placed on a slice of bread.
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 063_K7jBopRVF4UL6mnkbRBiw9
+Target image: 4 (COCO_val2014_000000572850.jpg)
+Generated description: man wearing suit and tie
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 064_miaVnypWFPWnnWt7F3kNWc
+Target image: 4 (COCO_val2014_000000447854.jpg)
+Generated description: 
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 065_GbFKdkEGtHUgCeWsoDggAK
+Target image: 4 (COCO_val2014_000000504977.jpg)
+Generated description: woman sitting on bench
+Listener guess: first
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 066_3tcgywbsLeQuwqKYELedoC
+Target image: 4 (COCO_val2014_000000514518.jpg)
+Generated description: a person skiing down a snowy slope with trees in the top of the hill.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 067_AwprMBTcVE96Ffg36Y8atE
+Target image: 4 (COCO_val2014_000000485212.jpg)
+Generated description: A surferrider in ther is
+Listener guess: second
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 068_FdWLXJSnNYHdNjCnjnuZEh
+Target image: 4 (COCO_val2014_000000535312.jpg)
+Generated description: The image shows a black motorcycle parked on a cobbl
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 069_D2AD2pPKPXsAEETXVPyPV5
+Target image: 4 (COCO_val2014_000000516766.jpg)
+Generated description: a white teddy bear and a brown bear wearing a blue ribbon, and a smaller teddy bear wearing a pink ribbon, both sitting on a red background.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 070_k9jbok9FBRFgcn2GGRZLeX
+Target image: 4 (COCO_val2014_000000391199.jpg)
+Generated description: man in a man wearing a suit and tie talking on phone
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 077_EbSYwUW6XVqfQJNf9pkVnx
+Target image: 4 (COCO_val2014_000000468043.jpg)
+Generated description: a young boy sitting on a sheep
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 082_cGiZG8ch4Q2bfCL9cE9FQi
+Target image: 4 (COCO_val2014_000000574666.jpg)
+Generated description: The image depicts a tennis match in progress
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 083_JoDPa8R2noHgCzsGY6F23Q
+Target image: 4 (COCO_val2014_000000375509.jpg)
+Generated description: a cat standing on a desk with a computer monitor and a keyboard and a computer monitor
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 084_jpYy9QmonaLYSmEbEpBsge
+Target image: 4 (COCO_val2014_000000580847.jpg)
+Generated description: a young girl wearing a white shirt and red skirt and a tennis racket
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 086_82DLfNxneWqVNpjQi4zjCB
+Target image: 4 (COCO_val2014_000000321308.jpg)
+Generated description: red stop sign with graffiti
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 089_SSPbt5fSrj8o2f9aAaZdp4
+Target image: 4 (COCO_val2014_000000476258.jpg)
+Generated description: The image shows a person wearing a man in a yellow and black outfit, riding a helmet, and a skateboard.
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 092_LycEamGLGeYyKbotzNQrbm
+Target image: 4 (COCO_val2014_000000567276.jpg)
+Generated description: A tennis player in the
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 094_CTiCNB8PENFFcZ9v7AGrAq
+Target image: 4 (COCO_val2014_000000490244.jpg)
+Generated description: a beach with surfboards lined up against a man sitting on the sand
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+
+----------------------------------------
+Trial: 098_NswjCBbcgQAKLr7YKeNQui
+Target image: 4 (COCO_val2014_000000568961.jpg)
+Generated description: a train station with a train arriving at a platform, a green traffic lights, and a McDonald's sign in the
+Listener guess: third
+Result: wrong
+----------------------------------------
+
+
+----------------------------------------
+Trial: 099_ZDmf2r8sEcG5hw5U3vDaSd
+Target image: 4 (COCO_val2014_000000566049.jpg)
+Generated description: woman in blue swimsuit
+Listener guess: fourth
+Result: correct
+----------------------------------------
+
+DONE.
+
+JOB STATISTICS
+==============
+Job ID: 12439738
+Cluster: snellius
+User/Group: sbaratella/sbaratella
+State: RUNNING
+Nodes: 1
+Cores per node: 16
+CPU Utilized: 00:00:00
+CPU Efficiency: 0.00% of 02:50:56 core-walltime
+Job Wall-clock time: 00:10:41
+Memory Utilized: 0.00 MB
+Memory Efficiency: 0.00% of 128.00 GB (128.00 GB/node)
+WARNING: Efficiency statistics can only be obtained after the job has ended as seff tool is based on the accounting database data.

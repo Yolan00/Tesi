@@ -1,0 +1,14 @@
+
+JOB STATISTICS
+==============
+Job ID: 12522699
+Cluster: snellius
+User/Group: sbaratella/sbaratella
+State: CANCELLED (exit code 0)
+Nodes: 1
+Cores per node: 16
+CPU Utilized: 00:00:00
+CPU Efficiency: 0.00% of 00:01:52 core-walltime
+Job Wall-clock time: 00:00:07
+Memory Utilized: 0.00 MB
+Memory Efficiency: 0.00% of 30.00 GB (30.00 GB/node)

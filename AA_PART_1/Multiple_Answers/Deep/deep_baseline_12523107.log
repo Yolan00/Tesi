@@ -1,0 +1,38 @@
+/projects/0/prjs1482/miniconda/envs/deepseek/lib/python3.10/site-packages/huggingface_hub/file_download.py:943: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Python version is above 3.10, patching the collections module.
+Loading DeepSeek-VL2...
+Add pad token = ['<｜▁pad▁｜>'] to the tokenizer
+<｜▁pad▁｜>:2
+Add image token = ['<image>'] to the tokenizer
+<image>:128815
+Add grounding-related tokens = ['<|ref|>', '<|/ref|>', '<|det|>', '<|/det|>', '<|grounding|>'] to the tokenizer with input_ids
+<|ref|>:128816
+<|/ref|>:128817
+<|det|>:128818
+<|/det|>:128819
+<|grounding|>:128820
+Add chat tokens = ['<|User|>', '<|Assistant|>'] to the tokenizer with input_ids
+<|User|>:128821
+<|Assistant|>:128822
+
+Loading checkpoint shards:   0%|          | 0/8 [00:00<?, ?it/s]Loading checkpoint shards:  12%|█▎        | 1/8 [00:28<03:16, 28.02s/it]Loading checkpoint shards:  25%|██▌       | 2/8 [00:57<02:53, 28.85s/it]Loading checkpoint shards:  38%|███▊      | 3/8 [01:25<02:23, 28.67s/it]Loading checkpoint shards:  50%|█████     | 4/8 [01:30<01:16, 19.23s/it]Loading checkpoint shards:  62%|██████▎   | 5/8 [01:57<01:05, 21.82s/it]Loading checkpoint shards:  75%|███████▌  | 6/8 [02:25<00:48, 24.08s/it]Loading checkpoint shards:  88%|████████▊ | 7/8 [02:54<00:25, 25.71s/it]Loading checkpoint shards: 100%|██████████| 8/8 [03:01<00:00, 19.85s/it]Loading checkpoint shards: 100%|██████████| 8/8 [03:01<00:00, 22.74s/it]
+You're using a LlamaTokenizerFast tokenizer. Please note that with a fast tokenizer, using the `__call__` method is faster than using a method to encode the text followed by a call to the `pad` method to get a padded encoding.
+/projects/0/prjs1482/miniconda/envs/deepseek/lib/python3.10/site-packages/torch/nn/modules/conv.py:459: UserWarning: Applied workaround for CuDNN issue, install nvrtc.so (Triggered internally at ../aten/src/ATen/native/cudnn/Conv_v8.cpp:80.)
+  return F.conv2d(input, weight, bias, self.stride,
+DONE. All results saved.
+
+JOB STATISTICS
+==============
+Job ID: 12523107
+Cluster: snellius
+User/Group: sbaratella/sbaratella
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 16
+CPU Utilized: 00:17:08
+CPU Efficiency: 11.68% of 02:26:40 core-walltime
+Job Wall-clock time: 00:09:10
+Memory Utilized: 94.24 GB
+Memory Efficiency: 73.63% of 128.00 GB (128.00 GB/node)

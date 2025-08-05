@@ -1,0 +1,14 @@
+
+JOB STATISTICS
+==============
+Job ID: 12493026
+Cluster: snellius
+User/Group: sbaratella/sbaratella
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 16
+CPU Utilized: 00:00:05
+CPU Efficiency: 0.92% of 00:09:04 core-walltime
+Job Wall-clock time: 00:00:34
+Memory Utilized: 1.52 MB
+Memory Efficiency: 0.00% of 30.00 GB (30.00 GB/node)

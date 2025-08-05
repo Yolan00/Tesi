@@ -1,0 +1,1186 @@
+[
+  {
+    "folder": "000_Xf39GqLsVwUGe7ErHgdq44",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000334417_blur.jpg",
+    "description": "The image features a person with short hair, wearing a dark-colored top, and holding an object in their hands. The background appears to be indoors with neutral tones.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "001_aKfods2rkcEf5uQAmFttZZ",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000087912_blur.jpg",
+    "description": "The image showcases a clear view of a modern building with a distinctive circular structure on top, set against a bright blue sky. The architecture features clean lines and a symmetrical design, making it stand out distinctly from the other images.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "003_YEkc8XE8SmupZd36vuvi5P",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000241638_blur.jpg",
+    "description": "The image shows a person in motion, wearing a dark outfit with a light-colored head covering, set against a plain background. The figure appears to be moving forward, possibly running or walking briskly. The blurred effect suggests movement and speed.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "004_VB3Tm7rg77rEpjpTYuBZnZ",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000201004_blur.jpg",
+    "description": "A serene landscape featuring a clear blue sky and a lush green field, with a hint of trees in the background.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "013_WthoLxjCvzwKsmKQzK5foy",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000159716_blur.jpg",
+    "description": "The image features a vibrant mix of green and orange hues, with a prominent green object resembling a leafy vegetable, possibly lettuce, accompanied by a bright orange element that could be a carrot slice. The background includes earthy tones, suggesting a natural setting like a garden or a rustic kitchen.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "014_RwUsQicUBpeLmoCYMX8ZPC",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000050962_blur.jpg",
+    "description": "A serene scene featuring a person sitting on a blue boat, surrounded by lush greenery and calm water. The background is filled with dense foliage, creating a tranquil atmosphere.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "026_P46gnKM3fMXy9E5usBPHFi",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000198367_blur.jpg",
+    "description": "A bowl filled with various fruits, including bananas and oranges, sits on a vibrant orange tablecloth. The background features a blurred pattern that complements the warm tones of the tablecloth.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "029_UCEfbeigsYRDkWUU6cPZez",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000102478_blur.jpg",
+    "description": "The image features a vibrant green background with two distinct orange shapes, one larger and one smaller, positioned near the top right corner. The overall composition is simple yet striking due to the contrasting colors and the clear placement of the shapes against the backdrop.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "031_TKJu7P3rwMbMr52DcaEoNE",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000036492_blur.jpg",
+    "description": "The image features a blurred scene with a prominent white object in the center, surrounded by darker areas and a gradient background that transitions from light to dark. The overall composition suggests an indoor setting with soft lighting.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "033_TdYvgoHk686bLdRV8cQUZz",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000014592_blur.jpg",
+    "description": "The image features a person wearing a dark jacket and holding a yellow object, possibly a banana, in their hand. The background appears to be an outdoor setting with some greenery visible.",
+    "listener_guess": "second",
+    "correct": false
+  },
+  {
+    "folder": "035_n49vPZ3tnANdnJvMfGztyZ",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000140076_blur.jpg",
+    "description": "The image features a vibrant and colorful scene with a variety of objects, including what appears to be a red and green item in the foreground, possibly a toy or a piece of fruit, and a larger, orange object in the background. The setting seems to be indoors, with a mix of bright and muted colors creating a lively atmosphere.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "038_9LmxKyXxN8JCfER2MZAAmP",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000161044_blur.jpg",
+    "description": "The image features a soft gradient of light gray to white, with subtle variations in shading creating a gentle, almost ethereal texture. The overall impression is one of calmness and minimalism, with no distinct shapes or objects present.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "040_DCKLDRfProbXeJ8aSZT9Ha",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000033958_blur.jpg",
+    "description": "A blurred image featuring a bright blue and yellow object against a dark background, with a distinct circular shape and a smaller, darker form nearby.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "041_3QHn6AW28dZzz3gNoNUpMw",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000027272_blur.jpg",
+    "description": "The image features a large, dark brown bear with a lighter underbelly, standing amidst a lush green forest. The bear's fur appears thick and shaggy, and its head is slightly turned to the side, giving a sense of curiosity or alertness. The background is filled with dense foliage, creating a natural and serene setting.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "043_MgeX72ppzXHrehgU2qhmvu",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000027285_blur.jpg",
+    "description": "The image depicts an interior space with warm tones, featuring a wooden door and a glimpse of a room with a bed and a nightstand. The lighting is soft and natural, suggesting a cozy, lived-in atmosphere.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "044_2CCtpozAj5QAP67odNo3uH",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000272958_blur.jpg",
+    "description": "A dark, indistinct shape is partially submerged in water, with ripples and reflections around it, suggesting movement through a liquid medium. The background is blurred, emphasizing the central figure.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "047_GcbutkAxNTuoVYBWqcZ2EF",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000068740_blur.jpg",
+    "description": "A yellow fire hydrant with a blue top stands prominently in a grassy area, surrounded by trees and a blurred background.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "048_XhuayYKd34YZFYLCHqgKJH",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000142537_blur.jpg",
+    "description": "The image features a close-up view of a motorcycle with a prominent headlight and handlebars, set against a blurred background that includes greenery and possibly a building. The focus on the motorcycle's front contrasts with the softer, less defined surroundings.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "051_BeUywrzY9YptGCuU8ktavy",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000019763_blur.jpg",
+    "description": "The image features a sandwich with visible layers of lettuce and tomato, placed on a white surface. The background includes a blurred view of what appears to be a kitchen setting with various items and possibly a person in the distance.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "063_K7jBopRVF4UL6mnkbRBiw9",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000093670_blur.jpg",
+    "description": "The image features a close-up of a person wearing a dark suit with a white shirt and a patterned tie. The background appears to be outdoors with greenery visible.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "064_miaVnypWFPWnnWt7F3kNWc",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000182170_blur.jpg",
+    "description": "The image features two figures standing side by side against a warm, yellowish background. The person on the left appears to be wearing a darker outfit, while the one on the right is in lighter clothing. A bright light source is visible in the bottom right corner, creating a contrast with the softer tones around them.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "065_GbFKdkEGtHUgCeWsoDggAK",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000248382_blur.jpg",
+    "description": "The image features a bright orange object with a distinct shape, resembling a cone, set against a blurred background of greenery and a hint of a rainbow-like effect at the bottom right corner.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "066_3tcgywbsLeQuwqKYELedoC",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000043314_blur.jpg",
+    "description": "The image features a prominent, dark object with a distinct triangular shape, set against a lighter background. The object appears to be a piece of furniture, possibly a chair or a table, with a visible armrest and a backrest. The lighting highlights the contours and texture of the object, making it stand out distinctly from the surrounding area.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "067_AwprMBTcVE96Ffg36Y8atE",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000199442_blur.jpg",
+    "description": "A person is surfing on a wave with a clear blue sky in the background. The surfer appears to be wearing dark clothing and is positioned slightly off-center, with the wave curling around them.",
+    "listener_guess": "fourth",
+    "correct": false
+  },
+  {
+    "folder": "068_FdWLXJSnNYHdNjCnjnuZEh",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000391269_blur.jpg",
+    "description": "The image features a group of people in what appears to be an indoor setting with warm lighting. The individuals are dressed casually and seem to be engaged in a social gathering or event. The background includes blurred architectural elements like columns and possibly a staircase, suggesting a formal venue such as a hotel lobby or a conference center.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "069_D2AD2pPKPXsAEETXVPyPV5",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000190700_blur.jpg",
+    "description": "A close-up of a red and yellow object with a textured surface, possibly a plush toy or decorative item, set against a plain light background. The focus is soft, making details indistinct but emphasizing the vibrant colors.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "070_k9jbok9FBRFgcn2GGRZLeX",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000059567_blur.jpg",
+    "description": "The image features a group of people in close proximity, with one individual appearing to be holding an object, possibly a phone or a small device, while others seem to be engaged in conversation or interaction. The background is dark and indistinct, suggesting an indoor setting.",
+    "listener_guess": "fourth",
+    "correct": false
+  },
+  {
+    "folder": "077_EbSYwUW6XVqfQJNf9pkVnx",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000193401_blur.jpg",
+    "description": "A person wearing a red top and blue jeans stands in an outdoor setting with greenery in the background. The individual appears to be facing away from the camera, and there is a white object partially visible behind them.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "082_cGiZG8ch4Q2bfCL9cE9FQi",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000050326_blur.jpg",
+    "description": "The image features two individuals standing on a concrete surface with a blurred background, one person appears to be wearing a dark jacket and the other is in lighter clothing, possibly a green top. The scene suggests an outdoor setting with a focus on the interaction between the two figures.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "083_JoDPa8R2noHgCzsGY6F23Q",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000040842_blur.jpg",
+    "description": "The image features a computer screen with a blue and white interface, partially obscured by a dark wooden frame. The screen displays a clean, modern design, suggesting a desktop or laptop setup in an indoor environment.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "084_jpYy9QmonaLYSmEbEpBsge",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000191721_blur.jpg",
+    "description": "The image shows a person in motion on a red surface, possibly a tennis court, with a blurred background that includes green and brown tones. The individual appears to be wearing a white top and red shorts, and their posture suggests they might be preparing for or completing a swing.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "086_82DLfNxneWqVNpjQi4zjCB",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000000724_blur.jpg",
+    "description": "A red circular sign stands prominently in the foreground, with a white border and bold text, set against a backdrop of a clear blue sky and some greenery. The sign appears to be mounted on a pole, and there's a hint of a building structure visible in the background.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "089_SSPbt5fSrj8o2f9aAaZdp4",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000017003_blur.jpg",
+    "description": "A figure in motion, captured mid-stride on what appears to be a paved path, with blurred greenery and a hint of yellow in the background.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "092_LycEamGLGeYyKbotzNQrbm",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000194903_blur.jpg",
+    "description": "A bright orange surface dominates the scene, with a small, red object positioned near the center, appearing slightly out of focus against the vibrant background.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "094_CTiCNB8PENFFcZ9v7AGrAq",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000022118_blur.jpg",
+    "description": "The image depicts a beach scene with a variety of colorful umbrellas and chairs arranged along the sand, suggesting a lively outdoor setting. The sky above is clear and blue, indicating a sunny day.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "098_NswjCBbcgQAKLr7YKeNQui",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000013168_blur.jpg",
+    "description": "The image features a vibrant mix of warm colors, predominantly orange and yellow hues, with a blurred background that suggests a natural setting, possibly a sunset or a fire. The central area has a distinct greenish glow, which contrasts sharply with the surrounding colors.",
+    "listener_guess": "first",
+    "correct": true
+  },
+  {
+    "folder": "099_ZDmf2r8sEcG5hw5U3vDaSd",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000289620_blur.jpg",
+    "description": "A blurred scene captures two figures on a sandy beach, with one person standing and another sitting close by. The background features a mix of sand and water, suggesting a coastal setting.",
+    "listener_guess": "fourth",
+    "correct": false
+  },
+  {
+    "folder": "000_Xf39GqLsVwUGe7ErHgdq44",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000359105_blur.jpg",
+    "description": "The image features a person with their hands clasped together in front of them, positioned against a plain, light-colored background. The individual appears to be wearing a white shirt with a dark collar, and the overall composition is simple and centered.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "001_aKfods2rkcEf5uQAmFttZZ",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000335119_blur.jpg",
+    "description": "A bustling urban scene with a prominent bridge crossing over a river, flanked by modern high-rise buildings on either side. The architecture features sleek lines and glass facades, reflecting the sky above. The foreground includes a road with vehicles, adding to the dynamic city atmosphere.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "003_YEkc8XE8SmupZd36vuvi5P",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000249687_blur.jpg",
+    "description": "The image features a person wearing a pink top and blue pants, with their arms outstretched in a dynamic pose. The background appears to be an indoor setting with a white wall and some indistinct shapes, possibly furniture or decorations.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "004_VB3Tm7rg77rEpjpTYuBZnZ",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000338826_blur.jpg",
+    "description": "The image features a prominent structure with a dark roof and a lighter-colored facade, set against a backdrop of a clear blue sky. The foreground includes a lush green area, possibly a lawn or garden, which contrasts with the darker tones of the building.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "013_WthoLxjCvzwKsmKQzK5foy",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000214919_blur.jpg",
+    "description": "A vibrant salad with a mix of leafy greens and colorful vegetables, including what appears to be carrots and possibly some nuts, all served in a white bowl. The background has a warm, yellowish hue, suggesting a cozy indoor setting.",
+    "listener_guess": "fourth",
+    "correct": false
+  },
+  {
+    "folder": "014_RwUsQicUBpeLmoCYMX8ZPC",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000092644_blur.jpg",
+    "description": "A blurred scene featuring a white object with a distinct red shape, possibly a bird or a similar figure, set against a muted background of green and gray tones. The object appears to be in motion, creating a slight blur around its edges.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "026_P46gnKM3fMXy9E5usBPHFi",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000337247_blur.jpg",
+    "description": "A close-up view of a yellow object with a textured surface, surrounded by blurred shapes and colors in the background. The focus is on the yellow item, which appears to be a piece of fabric or a similar material, while the rest of the scene is out of focus.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "029_UCEfbeigsYRDkWUU6cPZez",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000124712_blur.jpg",
+    "description": "The image features a vibrant mix of green and yellow hues with a prominent blue object in the foreground, surrounded by blurred shapes and colors that create a dynamic and somewhat abstract composition.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "031_TKJu7P3rwMbMr52DcaEoNE",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000267521_blur.jpg",
+    "description": "The image features a clear sky with a soft gradient transitioning from light to darker hues, suggesting either early morning or late evening light. There's a subtle presence of what appears to be a distant structure or object, barely discernible against the backdrop, adding depth to the scene. The overall tone is calm and serene, with no prominent foreground elements.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "033_TdYvgoHk686bLdRV8cQUZz",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000045387_blur.jpg",
+    "description": "The image features a person wearing a blue shirt and holding what appears to be a yellow object, possibly a banana, in their hand. The background includes a mix of greenery and a blurred structure, suggesting an outdoor setting with some architectural elements.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "035_n49vPZ3tnANdnJvMfGztyZ",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000166401_blur.jpg",
+    "description": "A warmly lit room with a large mirror reflecting part of the interior, flanked by two dark, possibly wooden pieces of furniture, one of which appears to be a cabinet or a console table. The walls are painted in a soft yellow tone, and there's a hint of a doorway leading to another area.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "038_9LmxKyXxN8JCfER2MZAAmP",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000419074_blur.jpg",
+    "description": "The image features a gradient of dark to light gray tones, with a subtle, almost imperceptible shift in color intensity across the frame. There are no distinct shapes or objects present, and the overall impression is one of a smooth, abstract transition between shades.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "040_DCKLDRfProbXeJ8aSZT9Ha",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000195974_blur.jpg",
+    "description": "A soft gradient of blue and white hues dominates the scene, with a subtle, faint red shape near the center, adding a touch of warmth to the otherwise cool tones. The overall impression is one of gentle, diffused light, possibly suggesting a sunrise or sunset.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "041_3QHn6AW28dZzz3gNoNUpMw",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000083773_blur.jpg",
+    "description": "The image features a small, round object with a distinct dark center and lighter edges, set against a blurred background of green and white hues. The contrast between the dark core and the surrounding area makes this image stand out uniquely compared to the others.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "043_MgeX72ppzXHrehgU2qhmvu",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000053697_blur.jpg",
+    "description": "The image features a cozy living room with a large, dark-colored sofa positioned against a wall adorned with a patterned wallpaper. A small, round coffee table sits in front of the sofa, and to the side, there's a glimpse of what appears to be a lamp with a white shade. The overall ambiance suggests a warm and inviting space.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "044_2CCtpozAj5QAP67odNo3uH",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000317070_blur.jpg",
+    "description": "A small, dark object hovers in a vast expanse of light blue sky, with faint wisps of white clouds scattered around it. The scene evokes a sense of tranquility and vastness, with the object appearing almost like a distant planet or a small satellite against the serene backdrop.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "047_GcbutkAxNTuoVYBWqcZ2EF",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000359843_blur.jpg",
+    "description": "A red object stands out against a darker background, with a distinct shape and color that contrasts sharply with its surroundings.",
+    "listener_guess": "fourth",
+    "correct": false
+  },
+  {
+    "folder": "048_XhuayYKd34YZFYLCHqgKJH",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000264121_blur.jpg",
+    "description": "A motorcycle is parked on a paved road under a clear blue sky with scattered clouds. The handlebars and front wheel are prominently visible, suggesting a stationary position. The background features a grassy area and a distant building, adding depth to the scene.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "051_BeUywrzY9YptGCuU8ktavy",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000044934_blur.jpg",
+    "description": "A close-up view of a sandwich with visible layers of lettuce and tomato, placed on a white surface. The sandwich appears to be freshly made, with a golden-brown crust suggesting it might be toasted.",
+    "listener_guess": "fourth",
+    "correct": false
+  },
+  {
+    "folder": "063_K7jBopRVF4UL6mnkbRBiw9",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000134807_blur.jpg",
+    "description": "A vibrant mix of warm and cool tones, blending purples, pinks, and oranges in an abstract pattern, creating a dynamic and fluid visual effect.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "064_miaVnypWFPWnnWt7F3kNWc",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000350855_blur.jpg",
+    "description": "The image features a dimly lit scene with a warm, reddish hue dominating the background. A figure appears to be seated, possibly in a relaxed posture, with a soft glow emanating from their face, suggesting a light source like a lamp nearby. The overall atmosphere is cozy and intimate, contrasting with the other images which have more varied lighting and settings.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "065_GbFKdkEGtHUgCeWsoDggAK",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000315939_blur.jpg",
+    "description": "The image features a person standing outdoors with a blurred background of greenery and a hint of a pink object to the side. The individual appears to be wearing a light-colored top and dark pants, and there's a noticeable yellow element near their shoulder, possibly part of a bag or accessory.",
+    "listener_guess": "fourth",
+    "correct": false
+  },
+  {
+    "folder": "066_3tcgywbsLeQuwqKYELedoC",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000290602_blur.jpg",
+    "description": "The image features a prominent, dark object against a lighter background, with a distinct shape that resembles a mountain or a hill. The contrast between the dark and light areas creates a striking visual effect, making this image stand out distinctly from the others in the set.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "067_AwprMBTcVE96Ffg36Y8atE",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000423113_blur.jpg",
+    "description": "A figure in a blue outfit is captured mid-air against a backdrop of white and gray tones, suggesting a dynamic movement or jump. The blurred background hints at an urban setting with possible buildings or structures faintly visible.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "068_FdWLXJSnNYHdNjCnjnuZEh",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000427965_blur.jpg",
+    "description": "The image features a person seated indoors, with a blurred background that includes what appears to be a wooden surface and possibly some furniture. The individual is wearing a light-colored top and seems to be in a relaxed posture, suggesting a casual setting.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "069_D2AD2pPKPXsAEETXVPyPV5",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000322987_blur.jpg",
+    "description": "A vibrant pink object with a soft, fluffy texture dominates the scene, surrounded by muted tones and subtle shadows. The background appears to be a mix of warm and cool hues, creating a gentle contrast with the central pink element.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "070_k9jbok9FBRFgcn2GGRZLeX",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000297578_blur.jpg",
+    "description": "The image features two individuals in close proximity, one appearing to be seated while the other stands beside them. The background includes what seems to be a wall and some indistinct shapes, possibly furniture or objects. The overall composition suggests an indoor setting with muted colors and soft lighting.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "077_EbSYwUW6XVqfQJNf9pkVnx",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000212545_blur.jpg",
+    "description": "A person in a light-colored shirt appears to be holding something small and white, possibly a pet or an object, with a background that includes a yellow element. The scene suggests an indoor setting with soft lighting.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "082_cGiZG8ch4Q2bfCL9cE9FQi",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000083277_blur.jpg",
+    "description": "A person wearing a white shirt and dark pants is standing on a paved surface with a blue object in front of them. The background includes a brick wall and some greenery.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "083_JoDPa8R2noHgCzsGY6F23Q",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000142890_blur.jpg",
+    "description": "A dark silhouette of a person standing in front of a bright light source, creating a stark contrast between the figure and the background. The scene appears to be indoors with a window or a lighted area behind the person.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "084_jpYy9QmonaLYSmEbEpBsge",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000284220_blur.jpg",
+    "description": "The image features a person in a red outfit, holding what appears to be a tennis racket, with a blurred green background suggesting an outdoor setting. The individual's stance and attire suggest they might be engaged in a sport, possibly tennis.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "086_82DLfNxneWqVNpjQi4zjCB",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000098268_blur.jpg",
+    "description": "A red sign with white text stands prominently in a natural setting, surrounded by greenery and a hint of a paved path. The sign appears to be mounted on a pole, and the background includes blurred trees and foliage, suggesting an outdoor environment.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "089_SSPbt5fSrj8o2f9aAaZdp4",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000135785_blur.jpg",
+    "description": "A person is seen in motion, seemingly jumping or leaping over an obstacle, with their body angled forward and arms extended for balance. The background appears to be an outdoor setting with a mix of greenery and possibly a structure.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "092_LycEamGLGeYyKbotzNQrbm",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000281500_blur.jpg",
+    "description": "A figure stands upright on a reddish-brown surface, with a blurred object in the background that appears to be a bottle or container. The scene has a warm tone and the figure's posture suggests they might be observing something.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "094_CTiCNB8PENFFcZ9v7AGrAq",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000234595_blur.jpg",
+    "description": "A blurred view of a beach scene with a prominent pink object in the foreground and a light blue sky above. The image appears to be taken at an angle, giving a sense of depth and perspective.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "098_NswjCBbcgQAKLr7YKeNQui",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000178982_blur.jpg",
+    "description": "The image features a nighttime scene with a prominent rectangular light source in the upper center, emitting a soft glow against a dark background. The surrounding area is dimly lit, with hints of warm and cool tones blending into each other, creating a serene and somewhat mysterious atmosphere.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "099_ZDmf2r8sEcG5hw5U3vDaSd",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000515792_blur.jpg",
+    "description": "A blurred scene captures a person standing near the water's edge, with the vast expanse of the ocean stretching out behind them under a clear blue sky. The figure appears to be in motion, possibly walking towards the sea.",
+    "listener_guess": "second",
+    "correct": true
+  },
+  {
+    "folder": "000_Xf39GqLsVwUGe7ErHgdq44",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000473237_blur.jpg",
+    "description": "The image features a person in motion, with a blurred background that includes what appears to be a green object and possibly some furniture. The individual's face is not clearly visible due to the blur, but there is a noticeable orange element in the foreground, which could be a piece of fruit or a similar item. The overall scene suggests an indoor setting with a casual atmosphere.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "001_aKfods2rkcEf5uQAmFttZZ",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000376677_blur.jpg",
+    "description": "The image features a large, imposing structure with multiple arches and columns, suggesting an ancient or historical monument. The architecture includes a prominent central dome and intricate detailing on the upper sections. The foreground shows a blurred figure in motion, possibly a person walking or running, adding a dynamic element to the scene. The background includes a mix of other structures and open sky, indicating an outdoor setting.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "003_YEkc8XE8SmupZd36vuvi5P",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000331727_blur.jpg",
+    "description": "The image features a person in motion, wearing a helmet and what appears to be a colorful outfit with shades of blue and pink. The background is a light, neutral color, possibly indicating an indoor setting. The individual seems to be engaged in an activity that involves dynamic movement, suggested by the blurred motion and the angle of their body.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "004_VB3Tm7rg77rEpjpTYuBZnZ",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000436138_blur.jpg",
+    "description": "The image features a close-up view of a house with a prominent circular window and a wooden deck extending outward. The structure appears to be surrounded by greenery, including bushes and trees, which are slightly blurred in the background. The overall scene suggests a residential setting with a focus on the architectural details of the house.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "013_WthoLxjCvzwKsmKQzK5foy",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000256660_blur.jpg",
+    "description": "The image features a vibrant mix of green leafy vegetables and a bright orange carrot slice, set against a white background. The arrangement appears fresh and colorful, with the green leaves providing a lush contrast to the vivid orange of the carrot.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "014_RwUsQicUBpeLmoCYMX8ZPC",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000111909_blur.jpg",
+    "description": "The image features two individuals standing on a sandy beach with a clear blue sky above and a dense forest in the background. The foreground includes a white object, possibly a piece of driftwood or a small structure, which contrasts with the natural tones of the scene.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "026_P46gnKM3fMXy9E5usBPHFi",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000344758_blur.jpg",
+    "description": "The image features a variety of fruits arranged on a white surface against a dark background. The fruits include apples and bananas, with some green leaves visible, suggesting they might be freshly picked. The lighting is dim, creating a contrast between the bright colors of the fruits and the dark surroundings.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "029_UCEfbeigsYRDkWUU6cPZez",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000377588_blur.jpg",
+    "description": "The image features a figure standing on a grassy field with a blurred background, suggesting an outdoor setting. The figure appears to be wearing light-colored clothing and is positioned near what looks like a fence or barrier. The overall scene has a soft focus, giving it a dreamy or abstract quality.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "031_TKJu7P3rwMbMr52DcaEoNE",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000283498_blur.jpg",
+    "description": "The image features a prominent, slightly out-of-focus object in the foreground with a gradient of cool blue tones dominating the background. The overall impression is one of depth and mystery, with the blurred edges suggesting a sense of movement or softness.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "033_TdYvgoHk686bLdRV8cQUZz",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000360318_blur.jpg",
+    "description": "The image features a close-up of a person's hand holding a small, round object with a textured surface, possibly a piece of fruit or a similar item. The background appears to be a natural setting with earthy tones and some blurred greenery, suggesting an outdoor environment. The focus is primarily on the hand and the object, making the details of the hand and the object stand out against the softer",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "035_n49vPZ3tnANdnJvMfGztyZ",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000213224_blur.jpg",
+    "description": "The image features a vibrant arrangement of flowers in a vase, with a mix of red and purple blooms, set against a backdrop of warm-toned walls. The scene includes a hint of greenery to the side, adding depth and contrast to the composition.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "038_9LmxKyXxN8JCfER2MZAAmP",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000455943_blur.jpg",
+    "description": "The image features a clear sky with a distinct circular object in the center, surrounded by a soft gradient of light and shadow, creating a serene and expansive atmosphere.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "040_DCKLDRfProbXeJ8aSZT9Ha",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000196442_blur.jpg",
+    "description": "The image features a prominent, dark silhouette against a bright, light background with scattered white spots resembling stars or distant lights. The contrast between the dark figure and the luminous backdrop creates a striking visual effect.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "041_3QHn6AW28dZzz3gNoNUpMw",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000174457_blur.jpg",
+    "description": "The image features a small, dark object with a distinct shape, set against a backdrop of green foliage and a blurred background. The object appears to be in motion, possibly a bird or an animal, with its form slightly elongated and its head turned to one side. The surrounding area is filled with soft, out-of-focus green tones, suggesting a natural setting like a forest or park.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "043_MgeX72ppzXHrehgU2qhmvu",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000454907_blur.jpg",
+    "description": "The image features a room with warm wooden tones, a large window allowing natural light to flood in, and a cozy seating area with a mix of modern and rustic furniture. A prominent piece of artwork hangs on the wall, adding a splash of color and personality to the space. The overall ambiance suggests a comfortable and inviting living environment.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "044_2CCtpozAj5QAP67odNo3uH",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000339676_blur.jpg",
+    "description": "The image captures a dynamic scene with a person actively engaged in surfing, riding a wave amidst a backdrop of clear skies and ocean waves. The surfer's silhouette contrasts sharply against the vibrant blue and white hues of the water and sky, creating a sense of motion and energy.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "047_GcbutkAxNTuoVYBWqcZ2EF",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000453390_blur.jpg",
+    "description": "A fire hydrant with a red top and yellow body stands prominently in an outdoor setting, surrounded by grass and trees. The hydrant's distinct color combination makes it easily recognizable against the blurred background.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "048_XhuayYKd34YZFYLCHqgKJH",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000271177_blur.jpg",
+    "description": "The image features a close-up view of a bicycle with a prominent front wheel and handlebars, set against a background that includes greenery and a hint of a building structure. The focus on the bicycle's details contrasts with the blurred surroundings, making it stand out distinctly from the other images.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "051_BeUywrzY9YptGCuU8ktavy",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000050422_blur.jpg",
+    "description": "The image showcases a sandwich with visible layers of lettuce and tomato, placed on a white surface. The sandwich appears to be partially eaten, with some bites taken out, revealing the filling inside. The background includes a blurred view of what seems to be a kitchen setting with various items and possibly a person in the distance.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "063_K7jBopRVF4UL6mnkbRBiw9",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000198625_blur.jpg",
+    "description": "The image features a person wearing a light-colored shirt with a collar and a dark tie, standing against a background that appears to be indoors with warm lighting. The focus is on the upper part of the torso, highlighting the attire and the subtle details of the fabric.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "064_miaVnypWFPWnnWt7F3kNWc",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000363922_blur.jpg",
+    "description": "The image features a scene with warm lighting and a ceiling fan visible in the upper part of the frame. The background includes a yellow wall and what appears to be a piece of furniture or decor on the right side. The overall composition suggests an indoor setting, possibly a living room or dining area.",
+    "listener_guess": "fourth",
+    "correct": false
+  },
+  {
+    "folder": "065_GbFKdkEGtHUgCeWsoDggAK",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000388398_blur.jpg",
+    "description": "The image features two individuals seated on a vibrant red bench in an outdoor setting. The person on the left is wearing a blue shirt and jeans, while the individual on the right is dressed in a white shirt and dark pants. The background includes lush greenery and a hint of a building structure, suggesting a park-like environment.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "066_3tcgywbsLeQuwqKYELedoC",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000465489_blur.jpg",
+    "description": "The image features a prominent, elongated shape that resembles a crescent moon against a backdrop of soft, pastel hues. The colors transition smoothly from light blue to pink and purple, creating a gentle gradient effect. The overall composition has a dreamy, ethereal quality, with the shape appearing to float or drift in space.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "067_AwprMBTcVE96Ffg36Y8atE",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000483358_blur.jpg",
+    "description": "The image features two individuals engaged in what appears to be a water activity, possibly kayaking or canoeing, with one person wearing a life jacket and the other appearing to be holding onto a paddle. The background includes a mix of blue and white tones, suggesting a body of water with some splashes or waves.",
+    "listener_guess": "second",
+    "correct": false
+  },
+  {
+    "folder": "068_FdWLXJSnNYHdNjCnjnuZEh",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000468162_blur.jpg",
+    "description": "The image features a person in a dark outfit, seated indoors with a blurred background that includes what appears to be a window and some indistinct shapes, possibly furniture or decor. The lighting is soft and natural, suggesting daytime.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "069_D2AD2pPKPXsAEETXVPyPV5",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000475330_blur.jpg",
+    "description": "The image features two figures against a vibrant red background. One figure appears to be wearing a green hat and an orange outfit, while the other is dressed in a yellow top with a white collar. The figures are positioned side by side, creating a striking contrast with the bold backdrop.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "070_k9jbok9FBRFgcn2GGRZLeX",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000386089_blur.jpg",
+    "description": "The image features a person wearing a dark suit and tie, standing in front of a light-colored background with a window-like structure visible behind them. The individual appears to be speaking or gesturing with their hand raised near their face.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "077_EbSYwUW6XVqfQJNf9pkVnx",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000318888_blur.jpg",
+    "description": "A person wearing an orange shirt and white pants stands outdoors with their hands clasped in front of them, set against a backdrop of greenery and a clear sky.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "082_cGiZG8ch4Q2bfCL9cE9FQi",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000285314_blur.jpg",
+    "description": "The image features a person standing outdoors, dressed in a light blue shirt and dark shorts, with their arms crossed over their chest. The background includes greenery and what appears to be a paved area, suggesting an open space like a park or a courtyard.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "083_JoDPa8R2noHgCzsGY6F23Q",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000232383_blur.jpg",
+    "description": "The image features a computer screen with a bright blue and white interface, partially obscured by a dark object in the foreground. The background includes a blurred view of what appears to be a room with warm lighting, possibly from a lamp or window.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "084_jpYy9QmonaLYSmEbEpBsge",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000501898_blur.jpg",
+    "description": "The image features a person in a vibrant pink outfit, holding a tennis racket with both hands, positioned on a clay court. The background includes a green fence and some trees, suggesting an outdoor setting.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "086_82DLfNxneWqVNpjQi4zjCB",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000136400_blur.jpg",
+    "description": "The image features a red circular sign with white text, mounted on a white pole. The background includes greenery and a hint of a building structure, suggesting an outdoor setting. The sign appears to be in focus compared to the other images, making it stand out distinctly.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "089_SSPbt5fSrj8o2f9aAaZdp4",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000251857_blur.jpg",
+    "description": "The image features a person in motion, captured with a blurred background that includes greenery and what appears to be a building structure. The individual seems to be engaged in an activity that involves movement, possibly running or dancing, with their arms raised and body leaning forward.",
+    "listener_guess": "first",
+    "correct": false
+  },
+  {
+    "folder": "092_LycEamGLGeYyKbotzNQrbm",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000428254_blur.jpg",
+    "description": "The image features a tennis player in mid-action on a clay court, with a blurred background that suggests motion and depth. The player's posture indicates they are either serving or returning a shot, with their body angled forward and one arm extended. The vibrant orange color of the court contrasts sharply with the player's darker attire, making them stand out prominently against the backdrop.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "094_CTiCNB8PENFFcZ9v7AGrAq",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000388846_blur.jpg",
+    "description": "The image showcases a beach scene with a variety of colorful umbrellas and chairs neatly arranged along the sandy shore. The sky appears overcast, giving the scene a muted tone. In the background, there's a hint of greenery, possibly trees or bushes, adding depth to the composition.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "098_NswjCBbcgQAKLr7YKeNQui",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000325666_blur.jpg",
+    "description": "The image features a bright green object with a distinct shape, possibly a vase or a bottle, placed on a surface. The background includes a mix of warm and cool tones, with hints of yellow and blue, suggesting an indoor setting with soft lighting.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "099_ZDmf2r8sEcG5hw5U3vDaSd",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000536416_blur.jpg",
+    "description": "The image features two individuals standing on a sandy beach under a bright blue sky dotted with fluffy white clouds. One person appears to be wearing shorts and a shirt, while the other is dressed in darker clothing. The scene suggests a casual, sunny day at the beach, with the horizon line visible in the background.",
+    "listener_guess": "third",
+    "correct": true
+  },
+  {
+    "folder": "000_Xf39GqLsVwUGe7ErHgdq44",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000553667_blur.jpg",
+    "description": "The image features a person wearing a green shirt, holding an object close to their face, with a yellow background visible in the upper right corner. The scene appears to be indoors, and the lighting is dim, creating a warm ambiance.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "001_aKfods2rkcEf5uQAmFttZZ",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000579036_blur.jpg",
+    "description": "The image features a vibrant red and blue object in the foreground, with a tall building dominating the background. The scene appears to be taken outdoors on a cloudy day, giving the image a muted tone overall.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "003_YEkc8XE8SmupZd36vuvi5P",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000396542_blur.jpg",
+    "description": "The image features a person wearing a red and blue jacket, with their arms outstretched in a dynamic pose. The background includes greenery, suggesting an outdoor setting. The individual appears to be in motion, possibly skiing or engaging in a similar activity.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "004_VB3Tm7rg77rEpjpTYuBZnZ",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000479099_blur.jpg",
+    "description": "The image features a vibrant green field with scattered yellow flowers and a mix of dark and light green patches, creating a textured appearance. In the background, there's a dense cluster of trees with varying shades of green, adding depth to the scene. The overall composition suggests a natural outdoor setting, possibly a meadow or garden.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "013_WthoLxjCvzwKsmKQzK5foy",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000558640_blur.jpg",
+    "description": "The image features a vibrant mix of green and yellow hues, with a prominent red border framing the scene. The colors appear to be part of a natural setting, possibly a close-up of foliage or a plant. The contrast between the bright colors and the red border makes this image distinct from the others in the set.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "014_RwUsQicUBpeLmoCYMX8ZPC",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000435308_blur.jpg",
+    "description": "The image features a dark, almost black object floating on a body of water, with a blurred background of greenery and trees. The contrast between the dark object and the lighter water creates a striking visual effect, distinguishing it from the other images in the set.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "026_P46gnKM3fMXy9E5usBPHFi",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000353558_blur.jpg",
+    "description": "The image features a bowl with a single yellow fruit and a red fruit, placed on a surface with a patterned cloth in warm tones. The background includes a hint of a wooden texture, adding a rustic feel to the scene.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "029_UCEfbeigsYRDkWUU6cPZez",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000541123_blur.jpg",
+    "description": "The image features a vibrant green background with a prominent red circular shape in the center, surrounded by a gradient of colors including yellow and purple hues. The overall composition has a soft, blurred effect, giving it an abstract appearance.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "031_TKJu7P3rwMbMr52DcaEoNE",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000347253_blur.jpg",
+    "description": "The image features a prominent, elongated object with a distinct shape, set against a background that includes a lighter area and darker tones. The object appears to have a smooth surface and is positioned diagonally within the frame, creating a sense of depth. The overall color palette is muted, with shades of green and beige dominating the scene.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "033_TdYvgoHk686bLdRV8cQUZz",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000460732_blur.jpg",
+    "description": "The image features a person wearing a dark jacket and holding a yellow object, standing against a light background with some greenery visible in the upper left corner. The overall scene appears to be outdoors, possibly in a park or garden setting.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "035_n49vPZ3tnANdnJvMfGztyZ",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000290477_blur.jpg",
+    "description": "The image features a vibrant purple surface with a distinct green object in the background, which contrasts sharply against the warm tones of the surrounding area. The scene appears to be indoors, with soft lighting that highlights the colors and textures of the objects present.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "038_9LmxKyXxN8JCfER2MZAAmP",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000551650_blur.jpg",
+    "description": "The image features a gradient of soft, muted colors with a subtle texture that gives it a dreamy, ethereal quality. The overall tone is cool and subdued, with no distinct shapes or objects present, making it appear almost like a close-up of a foggy landscape or a blurred abstract painting.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "040_DCKLDRfProbXeJ8aSZT9Ha",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000549789_blur.jpg",
+    "description": "The image features a scene with a prominent, elongated structure that appears to be a bridge or an archway, set against a backdrop of soft, diffused light. The foreground includes what looks like a small, dark object near the bottom left corner, possibly a person or a piece of equipment. The overall tone is muted and ethereal, with a blend of white and gray hues dominating the composition",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "041_3QHn6AW28dZzz3gNoNUpMw",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000452263_blur.jpg",
+    "description": "The image features a small, dark object with a distinct shape, possibly resembling a bird or an animal, set against a backdrop of green foliage and a hint of a light-colored structure in the upper right corner. The background includes blurred trees and a mix of green and brown tones, suggesting a natural outdoor setting.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "043_MgeX72ppzXHrehgU2qhmvu",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000548523_blur.jpg",
+    "description": "The image features a dark, narrow corridor with a red object on the floor and a white structure in the background, which contrasts sharply with the dim lighting.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "044_2CCtpozAj5QAP67odNo3uH",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000408534_blur.jpg",
+    "description": "The image showcases a serene landscape with a prominent body of water in the foreground, reflecting a clear blue sky above. A small, distinct island or landmass is visible on the horizon, adding depth to the scene. The overall composition emphasizes tranquility and natural beauty, with no other significant elements to distract from the expansive view.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "047_GcbutkAxNTuoVYBWqcZ2EF",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000483941_blur.jpg",
+    "description": "The image features a tall, slender structure with a red top and a white base, standing against a backdrop of greenery and a blurred background. The object appears to be a marker or a pole, distinct in its vertical form and color contrast.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "048_XhuayYKd34YZFYLCHqgKJH",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000566249_blur.jpg",
+    "description": "The image features a motorcycle parked on a street with a brick building in the background. The scene includes a clear blue sky and some scattered clouds, indicating a bright day. The motorcycle appears to be a sportbike model, with a sleek design and a visible exhaust pipe. The surrounding area suggests an urban environment, with the building's red bricks adding a warm tone to the overall composition.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "051_BeUywrzY9YptGCuU8ktavy",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000317798_blur.jpg",
+    "description": "The image features a sandwich with visible layers of lettuce and tomato, placed on a plate with a blurred background that includes what appears to be a window and some indistinct shapes.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "063_K7jBopRVF4UL6mnkbRBiw9",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000572850_blur.jpg",
+    "description": "The image features a close-up of a person's hand holding a small object with intricate patterns and colors, set against a dark background. The object appears to be a delicate piece of jewelry or a decorative item, with visible details that stand out vividly against the dark surroundings.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "064_miaVnypWFPWnnWt7F3kNWc",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000447854_blur.jpg",
+    "description": "The image features a person in a yellow top with their arm raised, standing against a backdrop that includes a light fixture and a wall with a decorative element. The lighting creates a warm ambiance, and the background appears to be indoors, possibly in a home setting.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "065_GbFKdkEGtHUgCeWsoDggAK",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000504977_blur.jpg",
+    "description": "The image features an individual standing outdoors, dressed in a white shirt and dark pants, with a green object, possibly a trash can or a small structure, positioned to their right. The background includes trees and a hint of a building, suggesting a park-like setting.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "066_3tcgywbsLeQuwqKYELedoC",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000514518_blur.jpg",
+    "description": "The image features a scene with a prominent, large tree in the foreground, its branches extending outward and slightly obscuring the view of a distant landscape. The sky above is a mix of soft blues and whites, suggesting either early morning or late afternoon light. The overall composition has a serene, almost ethereal quality, with the tree's silhouette standing out against the lighter background.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "067_AwprMBTcVE96Ffg36Y8atE",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000485212_blur.jpg",
+    "description": "The image features a person in a dynamic pose, seemingly engaged in an action sport, with a blurred background suggesting motion and speed. The individual appears to be wearing a helmet, indicating safety precautions for the activity. The overall composition conveys a sense of energy and movement, distinct from the other images which show different subjects or settings.",
+    "listener_guess": "second",
+    "correct": false
+  },
+  {
+    "folder": "068_FdWLXJSnNYHdNjCnjnuZEh",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000535312_blur.jpg",
+    "description": "The image features a person wearing a dark jacket and a light-colored shirt, standing in what appears to be an indoor setting with a green object on the right side. The background includes a mix of neutral tones and some blurred shapes, suggesting a casual environment.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "069_D2AD2pPKPXsAEETXVPyPV5",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000516766_blur.jpg",
+    "description": "The image features two individuals in a dynamic pose against a vibrant red background. One person appears to be wearing a blue outfit with a white shirt underneath, while the other is dressed in a light-colored top. The scene captures a sense of movement and interaction between the two figures, with one seemingly leaning forward towards the other. The bright red backdrop contrasts sharply with the clothing colors, making the subjects stand out",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "070_k9jbok9FBRFgcn2GGRZLeX",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000391199_blur.jpg",
+    "description": "The image features a group of people in a close, dynamic pose, with one individual prominently raising their hand, suggesting an action or gesture of emphasis. The background appears to be an outdoor setting with natural light and possibly some greenery, adding depth to the scene.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "077_EbSYwUW6XVqfQJNf9pkVnx",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000468043_blur.jpg",
+    "description": "The image features a person wearing a blue top and light-colored pants, standing near what appears to be a body of water with a railing in the background. The setting suggests an outdoor location, possibly a beach or a waterfront area.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "082_cGiZG8ch4Q2bfCL9cE9FQi",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000574666_blur.jpg",
+    "description": "The image features a person wearing a dark jacket and light-colored pants, standing on what appears to be a paved surface with a blurred background. The individual's posture suggests they might be in motion or adjusting their stance. The focus is primarily on the lower half of the person, with the upper body slightly out of frame.",
+    "listener_guess": "first",
+    "correct": false
+  },
+  {
+    "folder": "083_JoDPa8R2noHgCzsGY6F23Q",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000375509_blur.jpg",
+    "description": "The image features a person standing indoors, with their back to the camera, wearing a dark-colored shirt and light-colored pants. The background includes a window with natural light coming through, and there's a piece of furniture, possibly a chair or a small table, partially visible on the left side. The overall scene suggests a casual indoor setting.",
+    "listener_guess": "second",
+    "correct": false
+  },
+  {
+    "folder": "084_jpYy9QmonaLYSmEbEpBsge",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000580847_blur.jpg",
+    "description": "The image features a person in a white top and light-colored shorts, standing on a red surface with a blurred background that includes greenery and possibly a building structure. The individual appears to be in motion, possibly dancing or engaging in an activity that involves movement.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "086_82DLfNxneWqVNpjQi4zjCB",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000321308_blur.jpg",
+    "description": "The image features a red circular sign with white text, mounted on a pole, surrounded by greenery and a blurred background. The sign appears to be in focus compared to the other elements in the frame, making it stand out distinctly against the softer, less defined surroundings.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "089_SSPbt5fSrj8o2f9aAaZdp4",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000476258_blur.jpg",
+    "description": "The image features a person wearing a yellow and black outfit, standing in an indoor setting with a light-colored background. The individual appears to be holding something in their hands, possibly a small object or a piece of equipment. The scene has a warm tone, suggesting artificial lighting.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "092_LycEamGLGeYyKbotzNQrbm",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000567276_blur.jpg",
+    "description": "The image features a tennis court with a player in motion, captured mid-swing, wearing a dark outfit and a white cap. The background includes a net and some greenery, indicating an outdoor setting. The focus on the player's form and the dynamic pose set this image apart from the others.",
+    "listener_guess": "third",
+    "correct": false
+  },
+  {
+    "folder": "094_CTiCNB8PENFFcZ9v7AGrAq",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000490244_blur.jpg",
+    "description": "The image features a vibrant scene with a prominent yellow and blue structure in the foreground, possibly a slide or a similar attraction. In the background, there's a clear view of a hill adorned with greenery and a flag flying atop it, suggesting a park or recreational area. The sky is bright and mostly clear, indicating a sunny day.",
+    "listener_guess": "fourth",
+    "correct": true
+  },
+  {
+    "folder": "098_NswjCBbcgQAKLr7YKeNQui",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000568961_blur.jpg",
+    "description": "The image features a close-up of a person's face with a warm, golden glow illuminating their skin and hair. The background appears to be indoors, with soft, blurred lighting creating a cozy atmosphere. The focus is on the individual's facial expression, which seems contemplative or serene.",
+    "listener_guess": "first",
+    "correct": false
+  },
+  {
+    "folder": "099_ZDmf2r8sEcG5hw5U3vDaSd",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000566049_blur.jpg",
+    "description": "The image shows two individuals sitting on the sand near the water's edge, with one person appearing to be leaning forward slightly, possibly in conversation or gesturing. The background features a clear blue sky and the ocean, with gentle waves visible in the distance. The overall scene suggests a relaxed beach setting.",
+    "listener_guess": "fourth",
+    "correct": true
+  }
+]

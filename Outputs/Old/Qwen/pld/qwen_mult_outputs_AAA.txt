@@ -1,0 +1,1332 @@
+=== TRIAL 1 ===
+
+FOLDER: 000_Xf39GqLsVwUGe7ErHgdq44
+TARGET IMAGE: COCO_val2014_000000473237.jpg, third
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A young girl with yellow hair accessories is eating a slice of pizza in a classroom setting.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A young girl with yellow hair accessories is eating a slice of pizza in a classroom setting."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: third
+[LISTENER PROBS]
+first: 0.000
+second: 0.000
+third: 0.996
+fourth: 0.004
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: thirdDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 2 ===
+
+FOLDER: 001_aKfods2rkcEf5uQAmFttZZ
+TARGET IMAGE: COCO_val2014_000000579036.jpg, fourth
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A red double-decker bus with open-top seating is parked in front of modern skyscrapers under an overcast sky.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A red double-decker bus with open-top seating is parked in front of modern skyscrapers under an overcast sky."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: fourth
+[LISTENER PROBS]
+first: 0.000
+second: 0.000
+third: 0.000
+fourth: 1.000
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: fourthDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 3 ===
+
+FOLDER: 003_YEkc8XE8SmupZd36vuvi5P
+TARGET IMAGE: COCO_val2014_000000331727.jpg, third
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A skier in a blue and green suit navigates a slalom course with numbered gates.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A skier in a blue and green suit navigates a slalom course with numbered gates."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: third
+[LISTENER PROBS]
+first: 0.000
+second: 0.000
+third: 1.000
+fourth: 0.000
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: thirdDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 4 ===
+
+FOLDER: 004_VB3Tm7rg77rEpjpTYuBZnZ
+TARGET IMAGE: COCO_val2014_000000479099.jpg, fourth
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A serene garden with vibrant yellow flowers, a solitary tree, and a brick wall backdrop, offering a peaceful outdoor setting.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A serene garden with vibrant yellow flowers, a solitary tree, and a brick wall backdrop, offering a peaceful outdoor setting."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: fourth
+[LISTENER PROBS]
+first: 0.000
+second: 0.000
+third: 0.000
+fourth: 1.000
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: fourthDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 5 ===
+
+FOLDER: 013_WthoLxjCvzwKsmKQzK5foy
+TARGET IMAGE: COCO_val2014_000000558640.jpg, fourth
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A vibrant salad in a red bowl, featuring broccoli florets, corn kernels, sliced avocado, and possibly some shredded cheese, all mixed together.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A vibrant salad in a red bowl, featuring broccoli florets, corn kernels, sliced avocado, and possibly some shredded cheese, all mixed together."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: fourth
+[LISTENER PROBS]
+first: 0.000
+second: 0.000
+third: 0.000
+fourth: 1.000
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: fourthDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 6 ===
+
+FOLDER: 014_RwUsQicUBpeLmoCYMX8ZPC
+TARGET IMAGE: COCO_val2014_000000435308.jpg, fourth
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A blue speedboat pulls a person in mid-air over calm water, with a red house and green trees in the background.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A blue speedboat pulls a person in mid-air over calm water, with a red house and green trees in the background."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: fourth
+[LISTENER PROBS]
+first: 0.000
+second: 0.000
+third: 0.000
+fourth: 1.000
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: fourthDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 7 ===
+
+FOLDER: 026_P46gnKM3fMXy9E5usBPHFi
+TARGET IMAGE: COCO_val2014_000000337247.jpg, second
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A vibrant banana sits atop a colorful sunflower-patterned tablecloth, accompanied by a single mango.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A vibrant banana sits atop a colorful sunflower-patterned tablecloth, accompanied by a single mango."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: second
+[LISTENER PROBS]
+first: 0.000
+second: 0.965
+third: 0.005
+fourth: 0.031
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: secondDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 8 ===
+
+FOLDER: 029_UCEfbeigsYRDkWUU6cPZez
+TARGET IMAGE: COCO_val2014_000000102478.jpg, first
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the first image so that the listener can identify it among the others, DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A baseball game viewed from above, focusing on the pitcher's mound and batter's box, with players in action on the field.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A baseball game viewed from above, focusing on the pitcher's mound and batter's box, with players in action on the field."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: first
+[LISTENER PROBS]
+first: 0.996
+second: 0.001
+third: 0.002
+fourth: 0.000
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the first image so that the listener can identify it among the others, DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: firstDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 9 ===
+
+FOLDER: 031_TKJu7P3rwMbMr52DcaEoNE
+TARGET IMAGE: COCO_val2014_000000036492.jpg, first
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the first image so that the listener can identify it among the others, DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A large white airplane with a red tail is parked at an airport gate, connected to a jet bridge, with ground service equipment nearby.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A large white airplane with a red tail is parked at an airport gate, connected to a jet bridge, with ground service equipment nearby."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: second
+[LISTENER PROBS]
+first: 0.086
+second: 0.498
+third: 0.072
+fourth: 0.342
+
+[RESULT]: wrong
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the first image so that the listener can identify it among the others, DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: firstDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 10 ===
+
+FOLDER: 033_TdYvgoHk686bLdRV8cQUZz
+TARGET IMAGE: COCO_val2014_000000045387.jpg, second
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A monkey sits on the ground, holding a partially eaten banana in its hand. The background appears to be a mix of dirt and sparse grass.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A monkey sits on the ground, holding a partially eaten banana in its hand. The background appears to be a mix of dirt and sparse grass."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: fourth
+[LISTENER PROBS]
+first: 0.000
+second: 0.001
+third: 0.003
+fourth: 0.996
+
+[RESULT]: wrong
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: secondDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 11 ===
+
+FOLDER: 035_n49vPZ3tnANdnJvMfGztyZ
+TARGET IMAGE: COCO_val2014_000000290477.jpg, fourth
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A lush green plant sits atop a purple cube in front of a wooden pew, flanked by two candlesticks with lit candles.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A lush green plant sits atop a purple cube in front of a wooden pew, flanked by two candlesticks with lit candles."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: fourth
+[LISTENER PROBS]
+first: 0.000
+second: 0.000
+third: 0.000
+fourth: 1.000
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: fourthDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 12 ===
+
+FOLDER: 038_9LmxKyXxN8JCfER2MZAAmP
+TARGET IMAGE: COCO_val2014_000000455943.jpg, third
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A small airplane soars against a clear sky with a distinct red tail fin.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A small airplane soars against a clear sky with a distinct red tail fin."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: third
+[LISTENER PROBS]
+first: 0.000
+second: 0.000
+third: 1.000
+fourth: 0.001
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: thirdDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 13 ===
+
+FOLDER: 040_DCKLDRfProbXeJ8aSZT9Ha
+TARGET IMAGE: COCO_val2014_000000196442.jpg, third
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A skier in black attire leaps high against a backdrop of fluffy white clouds, with a red flag marking the course below.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A skier in black attire leaps high against a backdrop of fluffy white clouds, with a red flag marking the course below."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: third
+[LISTENER PROBS]
+first: 0.000
+second: 0.000
+third: 1.000
+fourth: 0.001
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: thirdDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 14 ===
+
+FOLDER: 041_3QHn6AW28dZzz3gNoNUpMw
+TARGET IMAGE: COCO_val2014_000000452263.jpg, fourth
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A bear stands in tall grass near a tree trunk, with a backdrop of green foliage and a clear sky.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A bear stands in tall grass near a tree trunk, with a backdrop of green foliage and a clear sky."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: fourth
+[LISTENER PROBS]
+first: 0.000
+second: 0.000
+third: 0.000
+fourth: 1.000
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: fourthDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 15 ===
+
+FOLDER: 043_MgeX72ppzXHrehgU2qhmvu
+TARGET IMAGE: COCO_val2014_000000454907.jpg, third
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A kitchen with wooden cabinets, a stainless steel oven, and a tiled floor.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A kitchen with wooden cabinets, a stainless steel oven, and a tiled floor."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: third
+[LISTENER PROBS]
+first: 0.000
+second: 0.000
+third: 1.000
+fourth: 0.001
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: thirdDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 16 ===
+
+FOLDER: 044_2CCtpozAj5QAP67odNo3uH
+TARGET IMAGE: COCO_val2014_000000317070.jpg, second
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A kiteboarder soars high above the ocean, silhouetted against a cloudy sky.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A kiteboarder soars high above the ocean, silhouetted against a cloudy sky."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: second
+[LISTENER PROBS]
+first: 0.000
+second: 0.980
+third: 0.001
+fourth: 0.017
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: secondDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 17 ===
+
+FOLDER: 047_GcbutkAxNTuoVYBWqcZ2EF
+TARGET IMAGE: COCO_val2014_000000068740.jpg, first
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the first image so that the listener can identify it among the others, DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A vibrant yellow fire hydrant with a blue top stands out against a backdrop of autumn leaves and a wooden fence.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A vibrant yellow fire hydrant with a blue top stands out against a backdrop of autumn leaves and a wooden fence."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: first
+[LISTENER PROBS]
+first: 1.000
+second: 0.000
+third: 0.000
+fourth: 0.001
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the first image so that the listener can identify it among the others, DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: firstDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 18 ===
+
+FOLDER: 048_XhuayYKd34YZFYLCHqgKJH
+TARGET IMAGE: COCO_val2014_000000264121.jpg, second
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A sleek touring motorcycle with a windscreen and panniers, parked on a road under a partly cloudy sky.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A sleek touring motorcycle with a windscreen and panniers, parked on a road under a partly cloudy sky."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: second
+[LISTENER PROBS]
+first: 0.000
+second: 0.996
+third: 0.002
+fourth: 0.000
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: secondDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 19 ===
+
+FOLDER: 051_BeUywrzY9YptGCuU8ktavy
+TARGET IMAGE: COCO_val2014_000000044934.jpg, second
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A slice of deep-dish pizza topped with melted cheese, green peppers, and tomato sauce, served on a white plate with a fork beside it.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A slice of deep-dish pizza topped with melted cheese, green peppers, and tomato sauce, served on a white plate with a fork beside it."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: third
+[LISTENER PROBS]
+first: 0.013
+second: 0.162
+third: 0.824
+fourth: 0.001
+
+[RESULT]: wrong
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: secondDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 20 ===
+
+FOLDER: 063_K7jBopRVF4UL6mnkbRBiw9
+TARGET IMAGE: COCO_val2014_000000093670.jpg, first
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the first image so that the listener can identify it among the others, DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A close-up of a person wearing a dark brown suit jacket over a light blue dress shirt with a matching dark brown tie. The background appears to be outdoors with greenery.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A close-up of a person wearing a dark brown suit jacket over a light blue dress shirt with a matching dark brown tie. The background appears to be outdoors with greenery."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: first
+[LISTENER PROBS]
+first: 0.957
+second: 0.000
+third: 0.000
+fourth: 0.042
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the first image so that the listener can identify it among the others, DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: firstDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 21 ===
+
+FOLDER: 064_miaVnypWFPWnnWt7F3kNWc
+TARGET IMAGE: COCO_val2014_000000363922.jpg, third
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A man in a black shirt holds a glowing object, while another person stands nearby with a surfboard on the wall behind them.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A man in a black shirt holds a glowing object, while another person stands nearby with a surfboard on the wall behind them."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: third
+[LISTENER PROBS]
+first: 0.000
+second: 0.000
+third: 1.000
+fourth: 0.000
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: thirdDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 22 ===
+
+FOLDER: 065_GbFKdkEGtHUgCeWsoDggAK
+TARGET IMAGE: COCO_val2014_000000504977.jpg, fourth
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A woman sits on a green park bench, holding a black bag, with her legs crossed and hands resting on her lap. The background features tall grass and trees.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A woman sits on a green park bench, holding a black bag, with her legs crossed and hands resting on her lap. The background features tall grass and trees."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: fourth
+[LISTENER PROBS]
+first: 0.000
+second: 0.000
+third: 0.000
+fourth: 1.000
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: fourthDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 23 ===
+
+FOLDER: 066_3tcgywbsLeQuwqKYELedoC
+TARGET IMAGE: COCO_val2014_000000465489.jpg, third
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A lone skier ascends a steep, snow-covered slope under a partly cloudy sky.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A lone skier ascends a steep, snow-covered slope under a partly cloudy sky."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: third
+[LISTENER PROBS]
+first: 0.000
+second: 0.000
+third: 0.996
+fourth: 0.005
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: thirdDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 24 ===
+
+FOLDER: 067_AwprMBTcVE96Ffg36Y8atE
+TARGET IMAGE: COCO_val2014_000000483358.jpg, third
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A surfer stands on a blue and white surfboard, facing a large wave crashing towards them with a beach and people in the background.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A surfer stands on a blue and white surfboard, facing a large wave crashing towards them with a beach and people in the background."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: third
+[LISTENER PROBS]
+first: 0.000
+second: 0.000
+third: 1.000
+fourth: 0.001
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: thirdDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 25 ===
+
+FOLDER: 068_FdWLXJSnNYHdNjCnjnuZEh
+TARGET IMAGE: COCO_val2014_000000427965.jpg, second
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A cozy living room with wooden walls, a large TV on a stand, and various decorative items like a flamingo figurine and a small table with a checkered cloth.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A cozy living room with wooden walls, a large TV on a stand, and various decorative items like a flamingo figurine and a small table with a checkered cloth."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: second
+[LISTENER PROBS]
+first: 0.000
+second: 1.000
+third: 0.000
+fourth: 0.000
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: secondDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 26 ===
+
+FOLDER: 069_D2AD2pPKPXsAEETXVPyPV5
+TARGET IMAGE: COCO_val2014_000000190700.jpg, first
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the first image so that the listener can identify it among the others, DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A teddy bear in a red and blue outfit with a matching hat, sitting on a couch with a smaller teddy bear beside it.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A teddy bear in a red and blue outfit with a matching hat, sitting on a couch with a smaller teddy bear beside it."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: first
+[LISTENER PROBS]
+first: 1.000
+second: 0.000
+third: 0.000
+fourth: 0.001
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the first image so that the listener can identify it among the others, DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: firstDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 27 ===
+
+FOLDER: 070_k9jbok9FBRFgcn2GGRZLeX
+TARGET IMAGE: COCO_val2014_000000386089.jpg, third
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A man in a dark coat and red tie talks on his phone while walking down a street with a building facade behind him.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A man in a dark coat and red tie talks on his phone while walking down a street with a building facade behind him."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: third
+[LISTENER PROBS]
+first: 0.000
+second: 0.000
+third: 1.000
+fourth: 0.000
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: thirdDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 28 ===
+
+FOLDER: 077_EbSYwUW6XVqfQJNf9pkVnx
+TARGET IMAGE: COCO_val2014_000000468043.jpg, fourth
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A child sits on a row of sheep-like figures on a boat, with a scenic view of water and distant land in the background.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A child sits on a row of sheep-like figures on a boat, with a scenic view of water and distant land in the background."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: fourth
+[LISTENER PROBS]
+first: 0.000
+second: 0.000
+third: 0.000
+fourth: 1.000
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: fourthDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 29 ===
+
+FOLDER: 082_cGiZG8ch4Q2bfCL9cE9FQi
+TARGET IMAGE: COCO_val2014_000000083277.jpg, second
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A skateboarder mid-air in an urban setting, performing a trick on a blue board with a cityscape background.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A skateboarder mid-air in an urban setting, performing a trick on a blue board with a cityscape background."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: second
+[LISTENER PROBS]
+first: 0.000
+second: 1.000
+third: 0.000
+fourth: 0.000
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: secondDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 30 ===
+
+FOLDER: 083_JoDPa8R2noHgCzsGY6F23Q
+TARGET IMAGE: COCO_val2014_000000375509.jpg, fourth
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A cat with a blurred tail stands between two laptops, one displaying a webpage and the other showing a document. The setting includes a desk with a computer mouse and various small items scattered around.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A cat with a blurred tail stands between two laptops, one displaying a webpage and the other showing a document. The setting includes a desk with a computer mouse and various small items scattered around."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: fourth
+[LISTENER PROBS]
+first: 0.000
+second: 0.000
+third: 0.000
+fourth: 1.000
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: fourthDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 31 ===
+
+FOLDER: 084_jpYy9QmonaLYSmEbEpBsge
+TARGET IMAGE: COCO_val2014_000000501898.jpg, third
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A woman in a pink shirt swings her tennis racket on a clay court, with a sign reading "De Wijzer" in the background.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A woman in a pink shirt swings her tennis racket on a clay court, with a sign reading "De Wijzer" in the background."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: third
+[LISTENER PROBS]
+first: 0.000
+second: 0.000
+third: 1.000
+fourth: 0.000
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: thirdDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 32 ===
+
+FOLDER: 086_82DLfNxneWqVNpjQi4zjCB
+TARGET IMAGE: COCO_val2014_000000321308.jpg, fourth
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A red stop sign with "STOP" written in white letters is mounted on a wooden pole, with graffiti reading "CANADA" below the word "STOP." The background features trees and a residential area.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A red stop sign with "STOP" written in white letters is mounted on a wooden pole, with graffiti reading "CANADA" below the word "STOP." The background features trees and a residential area."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: fourth
+[LISTENER PROBS]
+first: 0.000
+second: 0.000
+third: 0.000
+fourth: 1.000
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: fourthDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 33 ===
+
+FOLDER: 089_SSPbt5fSrj8o2f9aAaZdp4
+TARGET IMAGE: COCO_val2014_000000135785.jpg, second
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A skateboarder in a beige outfit performs an aerial trick on a sunlit urban plaza, casting a long shadow on the ground.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A skateboarder in a beige outfit performs an aerial trick on a sunlit urban plaza, casting a long shadow on the ground."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: second
+[LISTENER PROBS]
+first: 0.000
+second: 1.000
+third: 0.001
+fourth: 0.000
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: secondDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 34 ===
+
+FOLDER: 092_LycEamGLGeYyKbotzNQrbm
+TARGET IMAGE: COCO_val2014_000000281500.jpg, second
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A tennis player in white attire walks across a clay court, holding a racket with one hand.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A tennis player in white attire walks across a clay court, holding a racket with one hand."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: second
+[LISTENER PROBS]
+first: 0.000
+second: 1.000
+third: 0.000
+fourth: 0.000
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the second image so that the listener can identify it among the others, DO NOT MENTION that the image is the second. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: secondDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 35 ===
+
+FOLDER: 094_CTiCNB8PENFFcZ9v7AGrAq
+TARGET IMAGE: COCO_val2014_000000490244.jpg, fourth
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A beach scene with colorful surfboards lined up on the sand, an American flag flying in the background, and a person relaxing nearby.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A beach scene with colorful surfboards lined up on the sand, an American flag flying in the background, and a person relaxing nearby."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: fourth
+[LISTENER PROBS]
+first: 0.000
+second: 0.000
+third: 0.000
+fourth: 1.000
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the fourth image so that the listener can identify it among the others, DO NOT MENTION that the image is the fourth. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: fourthDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 36 ===
+
+FOLDER: 098_NswjCBbcgQAKLr7YKeNQui
+TARGET IMAGE: COCO_val2014_000000013168.jpg, first
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the first image so that the listener can identify it among the others, DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+A nighttime train station platform illuminated by a bright overhead light, with a sign indicating "60th Street" and an arrow pointing left.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "A nighttime train station platform illuminated by a bright overhead light, with a sign indicating "60th Street" and an arrow pointing left."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: first
+[LISTENER PROBS]
+first: 0.953
+second: 0.000
+third: 0.000
+fourth: 0.045
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the first image so that the listener can identify it among the others, DO NOT MENTION that the image is the first. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: firstDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
+=== TRIAL 37 ===
+
+FOLDER: 099_ZDmf2r8sEcG5hw5U3vDaSd
+TARGET IMAGE: COCO_val2014_000000536416.jpg, third
+
+[SPEAKER PROMPT]
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others. 
+
+[DESCRIPTION GENERATED]
+Two individuals in wetsuits stand on a sandy beach, one holding a surfboard while the other appears to be adjusting their equipment. The ocean waves are visible in the background under a partly cloudy sky.
+
+[LISTENER PROMPT]
+You are playing a reference game as the listener. Here is a description: "Two individuals in wetsuits stand on a sandy beach, one holding a surfboard while the other appears to be adjusting their equipment. The ocean waves are visible in the background under a partly cloudy sky."
+Which of the four images does this description refer to?
+Answer with one word: first, second, third, or fourth.
+
+[LISTENER GUESS]: third
+[LISTENER PROBS]
+first: 0.000
+second: 0.000
+third: 1.000
+fourth: 0.001
+
+[RESULT]: correct
+
+[RAW SPEAKER PROMPT]
+<|im_start|>system
+You are a helpful assistant.<|im_end|>
+<|im_start|>user
+You are playing a reference game as the speaker. I will give you 4 different images. Generate a description of the third image so that the listener can identify it among the others, DO NOT MENTION that the image is the third. Never use the words 'first', 'second', 'third', or 'fourth'. Keep the description short and concise. To generate the description use the unique elements of the target image that distinguish it from the others.
+### IMAGE SETIMAGE 1:<|vision_start|><|image_pad|><|vision_end|>IMAGE 2:<|vision_start|><|image_pad|><|vision_end|>IMAGE 3:<|vision_start|><|image_pad|><|vision_end|>IMAGE 4:<|vision_start|><|image_pad|><|vision_end|>TARGET: thirdDESCRIPTION:<|im_end|>
+<|im_start|>assistant
+
+
+================================================================================
+
