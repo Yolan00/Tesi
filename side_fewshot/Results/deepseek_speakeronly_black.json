@@ -1,0 +1,1038 @@
+[
+  {
+    "folder": "000_Xf39GqLsVwUGe7ErHgdq44",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000334417.jpg",
+    "description": "a man wearing a suit and tie, eating a sandwich in a piece of bread in his hand, with a plate in the other hand.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: Skier is wearing a blue jacket.\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "001_aKfods2rkcEf5uQAmFttZZ",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000087912.jpg",
+    "description": "a bridge with a bus driving on it is on it",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: person with yellow shirt and a tag.\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "003_YEkc8XE8SmupZd36vuvi5P",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000241638.jpg",
+    "description": "a person skiing down a snowy slope.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: amazon box\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "004_VB3Tm7rg77rEpjpTYuBZnZ",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000201004.jpg",
+    "description": "The image",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: ONE WAY\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "013_WthoLxjCvzwKsmKQzK5foy",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000159716.jpg",
+    "description": "The image depicts a meal served in a takeout container with a variety of food. The meal consists of grilled meat, rice, broccoli, a carrot, and a green beans. The meat is topped with sesame seeds. The broccoli is on the side. The container is white.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: Red and white long boy\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "014_RwUsQicUBpeLmoCYMX8ZPC",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000050962.jpg",
+    "description": "man[[315, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: 3 carrots\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "026_P46gnKM3fMXy9E5usBPHFi",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000198367.jpg",
+    "description": "a person performing a mid-air trick on skis wearing a skiis",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: Snowboarder is wearing a red jacket.\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "029_UCEfbeigsYRDkWUU6cPZez",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000102478.jpg",
+    "description": "A baseball game is being played on a baseball game is being played on a baseball field.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: Lots of snow, skiier looks small going, going downhill\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "031_TKJu7P3rwMbMr52DcaEoNE",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000036492.jpg",
+    "description": "the image is an airplane is parked at an airport",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: the person with the red jacket and the mini horse\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "033_TdYvgoHk686bLdRV8cQUZz",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000014592.jpg",
+    "description": "a monkey eating a banana from a banana",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: guy might be doing a flip\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "035_n49vPZ3tnANdnJvMfGztyZ",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000140076.jpg",
+    "description": "a dining room with a table and chairs around it has a table with a vase of flowers in it",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: cat behind monitor\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "038_9LmxKyXxN8JCfER2MZAAmP",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000161044.jpg",
+    "description": "The image depicts a group of three airplanes flying in the sky with a dark clouds.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: The target looks like a sandwich\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "040_DCKLDRfProbXeJ8aSZT9Ha",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000033958.jpg",
+    "description": "a person wearing a blue and yellow and black helmet and blue jacket performing a ski jump in mid-air trick with skis",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: blow out the candles in the cake\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "041_3QHn6AW28dZzz3gNoNUpMw",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000027272.jpg",
+    "description": "a bear",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: white shirt\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "043_MgeX72ppzXHrehgU2qhmvu",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000027285.jpg",
+    "description": "The first image depicts a kitchen with a modern design. The kitchen. The kitchen features a stainless steel range hood over a stove. There is hood. There is a refrigerator. The countertop is white. The floor is a white. The is a white cabinets. There is a a a a a a a a a",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: The tennis game\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "044_2CCtpozAj5QAP67odNo3uH",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000272958.jpg",
+    "description": "The image depicts a person engaged in a young girl playing tennis, wearing a tennis court. She is wearing a striped shirt and a pink skirt and holding a tennis racket.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: The woman has a pink shirt\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "047_GcbutkAxNTuoVYBWqcZ2EF",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000068740.jpg",
+    "description": "The first image shows a young girl playing tennis player in a tennis court. She is wearing a striped shirt and a pink skirt and holding a tennis racket",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: The woman has a red skirt/shorts\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "048_XhuayYKd34YZFYLCHqgKJH",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000142537.jpg",
+    "description": "a motorcycle with a black and white tire parked on the front wheel.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: perosn with brown coat and brown tie.\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "051_BeUywrzY9YptGCuU8ktavy",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000019763.jpg",
+    "description": "a slice of deep-dish dish with a thick crust, thick crust, topped with a red sauce, possibly tomato-based sauce, cheese, and some green vegetables, and a side of two glasses filled with a dark liquid, possibly beer. The dish is placed on a checkered table with a white plate, and a",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: white container on wooden table\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "063_K7jBopRVF4UL6mnkbRBiw9",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000093670.jpg",
+    "description": "The image shows a man wearing a man in a suit and tie.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: Click on the one with the two bouquets in vases.\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "064_miaVnypWFPWnnWt7F3kNWc",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000182170.jpg",
+    "description": "two people standing in a room playing a video game with a game on a game",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: Clean bus exiting the bridge.\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "065_GbFKdkEGtHUgCeWsoDggAK",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000248382.jpg",
+    "description": "a woman wearing an orange dress with a scarf, sitting on a bench in a park setting with trees and a body of greenery in the trees in the background.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: perosn with brown coat and brown tie.\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "066_3tcgywbsLeQuwqKYELedoC",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000043314.jpg",
+    "description": "a man",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: man smoking\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "067_AwprMBTcVE96Ffg36Y8atE",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000199442.jpg",
+    "description": "a person surfing on a wave, wearing a wet suit, balancing on a surfboard, with water splashing around them, and a clear blue sky in the background. The surfer is in a male, and the only person in the surfer is wearing a wet suit. The surfer is in the only sur",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: woman in orange sari\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "068_FdWLXJSnNYHdNjCnjnuZEh",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000391269.jpg",
+    "description": "a woman sitting on a bench in a park, wearing an orange dress with a scarf around her neck, with her arms crossed, and wearing sandals on her feet.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: African-American woman on bench\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "069_D2AD2pPKPXsAEETXVPyPV5",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000190700.jpg",
+    "description": "a teddyeddy bear wearing a red hat and scarf and a teddy bear wearing a red hat and a scarf and a red scarf",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: Click on the one with the painting.\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "070_k9jbok9FBRFgcn2GGRZLeX",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000059567.jpg",
+    "description": "a man talking on two phones",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: red bowl\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "077_EbSYwUW6XVqfQJNf9pkVnx",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000193401.jpg",
+    "description": "a woman wearing a red jacket and a red coat and a beanie, holding a camera, crouching down and taking a photo of a white pony in a grassy area with trees in the background",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: Man in a hat on a phone\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "082_cGiZG8ch4Q2bfCL9cE9FQi",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000050326.jpg",
+    "description": "The image depicts a person standing on a beach with their arm raised, holding a cell phone in hand. The person is wearing a hat, a green chair in the foreground. The background shows waves and a beach with a yellow and red object on the sand.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: ItIt's It, s tIt', s te hIt's the picture with teh tree driectly behind it\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "083_JoDPa8R2noHgCzsGY6F23Q",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000040842.jpg",
+    "description": "a cat resting on a shelf above a computer monitor, with a computer screen displaying a computer monitor with a screen showing a blue interface, possibly a code or text, and a cat resting on a shelf above it.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: two guys playing paddle\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "084_jpYy9QmonaLYSmEbEpBsge",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000191721.jpg",
+    "description": "a young girl playing tennis on a tennis court. she is wearing a striped shirt and red skirt and holding a tennis racket",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: in air\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "086_82DLfNxneWqVNpjQi4zjCB",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000000724.jpg",
+    "description": "a stop sign with the word \"STOP\" written on it is on it is",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: colorful circles on orange background\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "089_SSPbt5fSrj8o2f9aAaZdp4",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000017003.jpg",
+    "description": "a person wearing a green beanie and sunglasses, a scarf, skateboarding on a skateboard, and a jacket, riding a skateboarding on a skateboard on a skateboard on a sidewalk.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: white shirt\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "092_LycEamGLGeYyKbotzNQrbm",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000194903.jpg",
+    "description": "a woman wearing a red shirt and black shorts and a visor",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: fruit is in a bowl with pictures of fruit on it\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "094_CTiCNB8PENFFcZ9v7AGrAq",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000022118.jpg",
+    "description": "a beach scene with multiple people relaxing under umbreakers, a man standing and a man standing shirtless man in green shorts, a beach chair, a beach umbrella, and a beach umbrella.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: Girl with all white clothes\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "098_NswjCBbcgQAKLr7YKeNQui",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000013168.jpg",
+    "description": "A train station platform with a sign that says to new york",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: Lots of snow, skiier looks small going, going downhill\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "099_ZDmf2r8sEcG5hw5U3vDaSd",
+    "target_label": "first",
+    "target_img_name": "COCO_val2014_000000289620.jpg",
+    "description": "The image depicts a beach scene with two men playing a beach.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: The woman in the read shirt in a squat position\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the first image.\nYour DESCRIPTION of the first image:"
+  },
+  {
+    "folder": "000_Xf39GqLsVwUGe7ErHgdq44",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000359105.jpg",
+    "description": "a young girl wearing a white shirt with a black hair clips in her hair, eating a cupcake with red frosting on her mouth and a black decoration on top of the cupcake",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: perosn with brown coat and brown tie.\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "001_aKfods2rkcEf5uQAmFttZZ",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000335119.jpg",
+    "description": "a teddy bear wearing a pink dress with a pink outfit, holding a cone-shaped object with a red flower on it, sitting on its lap, and a teddy bear wearing a white shirt and beige pants sitting next to its left of the pink teddy",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: white bear, big nose\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "003_YEkc8XE8SmupZd36vuvi5P",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000249687.jpg",
+    "description": "a young child wearing a pink jacket and a pink jacket and a brown hat is holding skis holding skis holding skis in a snowy area with a person in the background",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: it's the bear laying lower in the field, closer frame\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "004_VB3Tm7rg77rEpjpTYuBZnZ",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000338826.jpg",
+    "description": "",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: Modern kitchen with black / gray exterior and cardboard boxes on lower shelves\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "013_WthoLxjCvzwKsmKQzK5foy",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000214919.jpg",
+    "description": "A bowl of food on table",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: Lots of snow, skiier looks small going, going downhill\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "014_RwUsQicUBpeLmoCYMX8ZPC",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000092644.jpg",
+    "description": "A boat with 5 people on the boat is white with 2 people on it",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: Modern kitchen with black / gray exterior and cardboard boxes on lower shelves\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "026_P46gnKM3fMXy9E5usBPHFi",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000337247.jpg",
+    "description": "The image depicts a motorcycle parked on a blue and white and a grassy field with a blue sky in the background.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: ItIt's It, s tIt', s te hIt's the picture with teh tree driectly behind it\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "029_UCEfbeigsYRDkWUU6cPZez",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000124712.jpg",
+    "description": "a baseball game in progress",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: guy might be doing a flip\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "031_TKJu7P3rwMbMr52DcaEoNE",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000267521.jpg",
+    "description": "an airplane parked at an airport with a jet bridge connected to it",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: blow out the candles in the cake\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "033_TdYvgoHk686bLdRV8cQUZz",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000045387.jpg",
+    "description": "a monkey sitting on the ground, holding a banana,",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: The woman in the read shirt in a squat position\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "035_n49vPZ3tnANdnJvMfGztyZ",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000166401.jpg",
+    "description": "a bathroom with a batht",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: the older man with the little puppy\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "038_9LmxKyXxN8JCfER2MZAAmP",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000419074.jpg",
+    "description": "a young girl wearing a cowboy hat and a blue sweater and a dog",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: the person with the red jacket and the mini horse\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "040_DCKLDRfProbXeJ8aSZT9Ha",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000195974.jpg",
+    "description": "a snowboarder performing a trick in mid-air above a jump on a snowy slope, with a clear blue sky in the background and a flag on the top right side.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: The blue sky is in the background\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "041_3QHn6AW28dZzz3gNoNUpMw",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000083773.jpg",
+    "description": "The image depicts a bear sitting on a brown bear in a",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: The woman has a red skirt/shorts\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "043_MgeX72ppzXHrehgU2qhmvu",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000053697.jpg",
+    "description": "a person wearing a white shirt with a pink and purple tie with a lanyard necktie",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: person with purple shirt and yellow striped tie.\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "044_2CCtpozAj5QAP67odNo3uH",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000317070.jpg",
+    "description": "a person is kiteboarding in the sky",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: woman in an orange sari sitting on a bench\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "047_GcbutkAxNTuoVYBWqcZ2EF",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000359843.jpg",
+    "description": "a red fire hydrant is on the hydrant",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: person with yellow shirt and a tag.\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "048_XhuayYKd34YZFYLCHqgKJH",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000264121.jpg",
+    "description": "a motorcycle parked on a road with a blue and a grassy field in the background.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: greenlight in front, mcdonalds in back\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "051_BeUywrzY9YptGCuU8ktavy",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000044934.jpg",
+    "description": "slice of",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: red hat\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "063_K7jBopRVF4UL6mnkbRBiw9",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000134807.jpg",
+    "description": "a person wearing a white shirt with a pink and purple tie",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: grey walkway right up against plane\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "064_miaVnypWFPWnnWt7F3kNWc",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000350855.jpg",
+    "description": "a woman standing in a room with a birthday cake in front of candles on her face, a group of people in the background, and a birthday party",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: Dirty truck going towards the bridge.\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "065_GbFKdkEGtHUgCeWsoDggAK",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000315939.jpg",
+    "description": "a boat with several people on it is moving on the water with a person is riding a jet ski",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: guy might be doing a flip\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "066_3tcgywbsLeQuwqKYELedoC",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000290602.jpg",
+    "description": "a snowboarder performing a trick in mid-air maneuver on a jump on a snowy mountain terrain. The snowboarder is positioned above the snowboarder is in the air, with the snowboarder's body slightly bent at an arm extended. The snowboarder is wearing a helmet and goggles. The background features",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: two guys playing paddle\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "067_AwprMBTcVE96Ffg36Y8atE",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000423113.jpg",
+    "description": "a surferry",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: Dirty truck going towards the bridge.\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "068_FdWLXJSnNYHdNjCnjnuZEh",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000427965.jpg",
+    "description": "The image depicts a bathroom with a dark wooden vanity featuring a white sink and a white bathtub.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: Click on the bathroom.\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "069_D2AD2pPKPXsAEETXVPyPV5",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000322987.jpg",
+    "description": "a teddy bear wearing a pink dress holding a cone with a rose",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: the one with the houses behind it\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "070_k9jbok9FBRFgcn2GGRZLeX",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000297578.jpg",
+    "description": "a man in a suit smoking a cigarette on a city",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: the little kid in a sheriff hat with a dog\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "077_EbSYwUW6XVqfQJNf9pkVnx",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000212545.jpg",
+    "description": "a motorcycle parked on a road with a grassy field",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: It's the picture of the bike on the white sidewalk\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "082_cGiZG8ch4Q2bfCL9cE9FQi",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000083277.jpg",
+    "description": "a young boy wearing a cowboy hat with a dog",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: the little kid in a sheriff hat with a dog\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "083_JoDPa8R2noHgCzsGY6F23Q",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000142890.jpg",
+    "description": "a black cat sitting in front of a computer monitor and keyboard, with a computer monitor",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: white bear, big nose\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "084_jpYy9QmonaLYSmEbEpBsge",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000284220.jpg",
+    "description": "The image depicts a young boy in a young male tennis player on a red shirt and shorts, holding a blue tennis racket in his right hand. The boy is on a tennis court with a green fence in the background.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: Red and yellow short boy\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "086_82DLfNxneWqVNpjQi4zjCB",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000098268.jpg",
+    "description": "a person surfing on a white surfboard with a blue and red logo on a wave",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: blue ring around white surf board\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "089_SSPbt5fSrj8o2f9aAaZdp4",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000135785.jpg",
+    "description": "a skateboarder performing a trick in mid-air maneuver on a skateboard in an urban setting",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: in air\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "092_LycEamGLGeYyKbotzNQrbm",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000281500.jpg",
+    "description": "a tennis player on a clay court, wearing white outfit, holding a tennis racket, preparing to serve or waiting for a serve.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: small brown leather couch next to another\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "094_CTiCNB8PENFFcZ9v7AGrAq",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000234595.jpg",
+    "description": "a beach with pink umbrellas and chairs",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: yellow hat\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "098_NswjCBbcgQAKLr7YKeNQui",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000178982.jpg",
+    "description": "a person wearing a white outfit with a white shirt and blue shorts, holding a tennis racket and a tennis racket",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: the women with the white bow ready to swing\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "099_ZDmf2r8sEcG5hw5U3vDaSd",
+    "target_label": "second",
+    "target_img_name": "COCO_val2014_000000515792.jpg",
+    "description": "a kitchen with a stove, microwave, coffee maker, toaster",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: Kitchen with white refrigerator and wood panel background\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the second image.\nYour DESCRIPTION of the second image:"
+  },
+  {
+    "folder": "000_Xf39GqLsVwUGe7ErHgdq44",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000473237.jpg",
+    "description": "a young girl eating a slice of pizza",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: doing a kick alone in the scene\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "001_aKfods2rkcEf5uQAmFttZZ",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000376677.jpg",
+    "description": "a large truck carrying a massive concrete structure, possibly a bridge segment on its back, with a blue container on its back. The truck is on a road in the background. There are multiple street signs and a few vehicles on the road. The truck is on the road.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: Blue boy with numbers\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "003_YEkc8XE8SmupZd36vuvi5P",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000331727.jpg",
+    "description": "a teddyed bear wearing a pumpkin costume and a bear wearing sunglasses and a turkey wearing glasses",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: pink top with polka dots\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "004_VB3Tm7rg77rEpjpTYuBZnZ",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000436138.jpg",
+    "description": "The image depicts a two-story house with a pale yellow exterior walls and brown roof. The house has a balcony on the second floor and a wooden railing",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: Girl with all white clothes\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "013_WthoLxjCvzwKsmKQzK5foy",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000256660.jpg",
+    "description": "a beach with many red and white and white umbrellllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: There are a bunch of surf boards lined up\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "014_RwUsQicUBpeLmoCYMX8ZPC",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000111909.jpg",
+    "description": "A person at the bottom of the pic is also",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: Surfer is upright and jumping over the wave. Another person at the bottom of the pic also\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "026_P46gnKM3fMXy9E5usBPHFi",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000344758.jpg",
+    "description": "a bowl filled with various fruits, including bananas, apples, oranges, grapes, and pears, and oranges, placed on a table.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: Stop sign where STOP is upside down.\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "029_UCEfbeigsYRDkWUU6cPZez",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000377588.jpg",
+    "description": "a baseball game is being played on a player is throwing the ball to the ball to the batter",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: A little girl is eating a cupcake and looking at the camera\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "031_TKJu7P3rwMbMr52DcaEoNE",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000283498.jpg",
+    "description": "an airplane parked on the tarmac with a jet bridge connected to the plane and vehicles nearby",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: ONE WAY\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "033_TdYvgoHk686bLdRV8cQUZz",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000360318.jpg",
+    "description": "a monkey sitting on a rock eating a piece of eating a piece of food",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: It's the picture of the bike on the white sidewalk\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "035_n49vPZ3tnANdnJvMfGztyZ",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000213224.jpg",
+    "description": "teddy bear",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: pumpkin shirt\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "038_9LmxKyXxN8JCfER2MZAAmP",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000455943.jpg",
+    "description": "The image depicts a single airplane flying in the sky.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: ItIt's It, s tIt', s te hIt's the picture with teh tree driectly behind it\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "040_DCKLDRfProbXeJ8aSZT9Ha",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000196442.jpg",
+    "description": "a two-story house with a balcony, white exterior, wooden door, and a staircase leading to the front door.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: A building that looks like the white house\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "041_3QHn6AW28dZzz3gNoNUpMw",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000174457.jpg",
+    "description": "a large truck carrying a massive concrete structure, possibly a bridge segment, with a road with multiple street signs, including a \"No Entry\" and \"No Entry\" signs, and a \"No Entry\" signs. The truck is driving on the road. The sky is clear with a few clouds.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: Clean bus exiting the bridge.\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "043_MgeX72ppzXHrehgU2qhmvu",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000454907.jpg",
+    "description": "the kitchen with stove is a stove",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: The target had no cheese on top, The target is red on top.\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "044_2CCtpozAj5QAP67odNo3uH",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000339676.jpg",
+    "description": "a surferryder in the third image, a person wearing a",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: person with yellow shirt and a tag.\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "047_GcbutkAxNTuoVYBWqcZ2EF",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000453390.jpg",
+    "description": "a fire hydrant is yellow and red fire hydrant",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: Two planes are flying on the sky\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "048_XhuayYKd34YZFYLCHqgKJH",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000271177.jpg",
+    "description": "a motorcycle parked on a street with a side view of a sidewalk, surrounded by trees in the background. The motorcycle has a black color scheme with a large front wheel visible, a headlight, and a rearview mirror. The motorcycle is parked.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: Standing in front tv\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "051_BeUywrzY9YptGCuU8ktavy",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000050422.jpg",
+    "description": "a slice of pizza on a plate with cheese and sauce and green peppers",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: snowboarder doing a jump\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "063_K7jBopRVF4UL6mnkbRBiw9",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000198625.jpg",
+    "description": "The image depicts a kitchen with wooden cabinets and a refrigerator on the right of picture.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: The only option you haven't selected. Kitchen with wood cabinet drawers. Refrigerator at far right of picture\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "064_miaVnypWFPWnnWt7F3kNWc",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000363922.jpg",
+    "description": "a living room with two people, one man and a boy playing a video game",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: purple flowers\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "065_GbFKdkEGtHUgCeWsoDggAK",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000388398.jpg",
+    "description": "two children sitting on a red bench in front of a park",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: graphity on the STOP sign\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "066_3tcgywbsLeQuwqKYELedoC",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000465489.jpg",
+    "description": "a snowy urban scene with a train on tracks,",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: greenlight in front, mcdonalds in back\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "067_AwprMBTcVE96Ffg36Y8atE",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000483358.jpg",
+    "description": "The image shows a wooden table with two bouquets of flowers in vases.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: Click on the one with the two bouquets in vases.\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "068_FdWLXJSnNYHdNjCnjnuZEh",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000468162.jpg",
+    "description": "living room with 2 people sitting on couch",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: Street sign visible on top that is green, opening of tunnel/bridge\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "069_D2AD2pPKPXsAEETXVPyPV5",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000475330.jpg",
+    "description": "a two teddyeddy bear and a teddy bear dressed in a pumpkin costume with sunglasses and a green hat, and a turkey with a turkey costume with a beak and glasses",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: A building that looks like the white house\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "070_k9jbok9FBRFgcn2GGRZLeX",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000386089.jpg",
+    "description": "A man is talking on phone is a man is talking on phone.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: A grown man is in a tuxedo is eating something\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "077_EbSYwUW6XVqfQJNf9pkVnx",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000318888.jpg",
+    "description": "a kitchen with wooden cabinets, a stove, a refrigerator, and a stove, a microwave, and a refrigerator. The cabinets are made of wood.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: The only option you haven't selected. Kitchen with wood cabinet drawers. Refrigerator at far right of picture\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "082_cGiZG8ch4Q2bfCL9cE9FQi",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000285314.jpg",
+    "description": "two children sitting on a red bench",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: a man and a woman standing by a bench\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "083_JoDPa8R2noHgCzsGY6F23Q",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000232383.jpg",
+    "description": "a woman wearing a pink shirt and blue shorts",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: The woman has a red skirt/shorts\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "084_jpYy9QmonaLYSmEbEpBsge",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000501898.jpg",
+    "description": "a woman in pink shirt holding a tennis racketball",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: the little kid in a sheriff hat with a dog\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "086_82DLfNxneWqVNpjQi4zjCB",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000136400.jpg",
+    "description": "two stop signs on a red and white sign",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: A black girl is eating pizza\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "089_SSPbt5fSrj8o2f9aAaZdp4",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000251857.jpg",
+    "description": "man holding a puppy",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: the little kid in a sheriff hat with a dog\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "092_LycEamGLGeYyKbotzNQrbm",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000428254.jpg",
+    "description": "a tennis player in action shot of a man playing tennis on a clay court.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: fruit is in a bowl with pictures of fruit on it\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "094_CTiCNB8PENFFcZ9v7AGrAq",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000388846.jpg",
+    "description": "laptop computer monitor with cat",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: laptop and monitor with cat in front of monitor\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "098_NswjCBbcgQAKLr7YKeNQui",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000325666.jpg",
+    "description": "a snowy scene with a train on tracks and a green traffic light and cars on the road.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: ONE WAY\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "099_ZDmf2r8sEcG5hw5U3vDaSd",
+    "target_label": "third",
+    "target_img_name": "COCO_val2014_000000536416.jpg",
+    "description": "two women on a beach with surfboards",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: only see back of plane\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the third image.\nYour DESCRIPTION of the third image:"
+  },
+  {
+    "folder": "000_Xf39GqLsVwUGe7ErHgdq44",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000553667.jpg",
+    "description": "a young girl wearing a green shirt eating a sandwich",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: The man facing forward who is hitting the ball\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "001_aKfods2rkcEf5uQAmFttZZ",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000579036.jpg",
+    "description": "a red double-decker bus with the word \"SKY\" written on its passengers on the top deck, moving through a city street with tall buildings in the background.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: says chs on back\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "003_YEkc8XE8SmupZd36vuvi5P",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000396542.jpg",
+    "description": "a person skiing in a snowy forest with a pink backpack and blue jacket and carrying a tree on their back",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: graphity on the STOP sign\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "004_VB3Tm7rg77rEpjpTYuBZnZ",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000479099.jpg",
+    "description": "a garden with a brick wall in the",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: There is a star above the guy\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "013_WthoLxjCvzwKsmKQzK5foy",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000558640.jpg",
+    "description": "A bowl of vegetables in a red bowl of vegetables in a red bowl",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: A little girl is eating a cupcake and looking at the camera\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "014_RwUsQicUBpeLmoCYMX8ZPC",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000435308.jpg",
+    "description": "adultraquet[[0, adult[[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: The woman has a red skirt/shorts\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "026_P46gnKM3fMXy9E5usBPHFi",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000353558.jpg",
+    "description": "a bowl containing three bananas and two apples, placed on a table with a table",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: Girl with all white clothes\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "029_UCEfbeigsYRDkWUU6cPZez",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000541123.jpg",
+    "description": "The image depicts a tennis match in progress of the tennis match in progress.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: Lots of snow, skiier looks small going, going downhill\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "031_TKJu7P3rwMbMr52DcaEoNE",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000347253.jpg",
+    "description": "The image depicts an airport tarmac with a large airplane parked at a gate. there is a jet bridge connected to the plane.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: The woman in the read shirt in a squat position\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "033_TdYvgoHk686bLdRV8cQUZz",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000460732.jpg",
+    "description": "a monkey sitting on the ground",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: the woman with one feet in the air and the ball is coming towards her\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "035_n49vPZ3tnANdnJvMfGztyZ",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000290477.jpg",
+    "description": "The fourth image depicts a church altar adorned with a large green plant in a vase with lush green plant in a vase, flanked by two white candles on either side of the vase. The altar is covered with a purple cloth. The background shows wooden pews.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: The tennis game\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "038_9LmxKyXxN8JCfER2MZAAmP",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000551650.jpg",
+    "description": "a plane flying in the sky with clouds in the sky is cloudy.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: Stop sign that is leaning to the right in the picture.\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "040_DCKLDRfProbXeJ8aSZT9Ha",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000549789.jpg",
+    "description": "",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: dark wood floors\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "041_3QHn6AW28dZzz3gNoNUpMw",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000452263.jpg",
+    "description": "a bear in the bear in the forest",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: the little boy on the sheep with the water in the back\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "043_MgeX72ppzXHrehgU2qhmvu",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000548523.jpg",
+    "description": "",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: white shirt\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "044_2CCtpozAj5QAP67odNo3uH",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000408534.jpg",
+    "description": "The image depicts a person kiteboarder in the ocean.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: Microwave in far right corner and old, old stove in middle\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "047_GcbutkAxNTuoVYBWqcZ2EF",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000483941.jpg",
+    "description": "fire hydrant",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: red backpack\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "048_XhuayYKd34YZFYLCHqgKJH",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000566249.jpg",
+    "description": "The fourth image depicts a sleek black motorcycle parked on a cobblade",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: The tennis game\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "051_BeUywrzY9YptGCuU8ktavy",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000317798.jpg",
+    "description": "sandwich with lettuce tomato and cucumber and cheese",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: fruit is in a bowl with pictures of fruit on it\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "063_K7jBopRVF4UL6mnkbRBiw9",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000572850.jpg",
+    "description": "a man wearing a black suit with a white shirt and a tie",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: white pants with a red stripe\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "064_miaVnypWFPWnnWt7F3kNWc",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000447854.jpg",
+    "description": "",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: There are umbrellas and a teenage boy standing to the left side of the picture\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "065_GbFKdkEGtHUgCeWsoDggAK",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000504977.jpg",
+    "description": "a woman sitting on a bench in a park",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: broccoli, rice, peas, one carrot\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "066_3tcgywbsLeQuwqKYELedoC",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000514518.jpg",
+    "description": "a snowy landscape with a person skiing slope surrounded by trees on a clear blue sky",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: Girl with all white clothes\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "067_AwprMBTcVE96Ffg36Y8atE",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000485212.jpg",
+    "description": "4 images are given",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: A black girl with red earrings is eating a sandwich with her eyes almost closed\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "068_FdWLXJSnNYHdNjCnjnuZEh",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000535312.jpg",
+    "description": "a white teddy bear with a blue ribbon around its neck and a smaller brown bear with a pink ribbon around its neck",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: pumpkin shirt\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "069_D2AD2pPKPXsAEETXVPyPV5",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000516766.jpg",
+    "description": "two teddy bears",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: There is a star above the guy\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "070_k9jbok9FBRFgcn2GGRZLeX",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000391199.jpg",
+    "description": "three men",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: red bowl\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "077_EbSYwUW6XVqfQJNf9pkVnx",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000468043.jpg",
+    "description": "a young boy sitting on a sheep statue, a boat with a scenic view of a boat with a scenic view of mountains in the background",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the second image, And a description is generated, DESCRIPTION: two guys playing paddle\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "082_cGiZG8ch4Q2bfCL9cE9FQi",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000574666.jpg",
+    "description": "A person is riding a skateboard on a black skateboard with red wheels.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: Modern kitchen with black / gray exterior and cardboard boxes on lower shelves\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "083_JoDPa8R2noHgCzsGY6F23Q",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000375509.jpg",
+    "description": "a cat walking on a desk with two computer monitors, a laptop, a computer keyboard, and a computer mouse.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: lady holding yellow frisbee\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "084_jpYy9QmonaLYSmEbEpBsge",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000580847.jpg",
+    "description": "a young woman playing tennis on a tennis",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: snowboarder doing a jump\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "086_82DLfNxneWqVNpjQi4zjCB",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000321308.jpg",
+    "description": "stop sign",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: laptop and monitor with cat in front of monitor\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "089_SSPbt5fSrj8o2f9aAaZdp4",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000476258.jpg",
+    "description": "a person wearing a yellow and black and black outfit riding a helmet, and a red light on their face, riding a skateboard.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the first image, And a description is generated, DESCRIPTION: broccoli, rice, peas, one carrot\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "092_LycEamGLGeYyKbotzNQrbm",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000567276.jpg",
+    "description": "a female tennis player in a green outfit with a red cap and red cap and green outfit playing tennis on a tennis racket",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: the one with the houses behind it\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "094_CTiCNB8PENFFcZ9v7AGrAq",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000490244.jpg",
+    "description": "a beach scene with multiple surfboards lined up against a flag and two people sitting on the sand.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: person with yellow shirt and a tag.\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "098_NswjCBbcgQAKLr7YKeNQui",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000568961.jpg",
+    "description": "a train station platform with a train arriving or subway car on the sign indicating \"Bronx Tour\" and \"Track\" signs, a yellow safety line on the platform, and a person standing in the train car. The train has red lights on the train.",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the third image, And a description is generated, DESCRIPTION: woman in orange sari\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  },
+  {
+    "folder": "099_ZDmf2r8sEcG5hw5U3vDaSd",
+    "target_label": "fourth",
+    "target_img_name": "COCO_val2014_000000566049.jpg",
+    "description": "a beach scene with a woman in a frisbee",
+    "raw_prompt": "<|grounding|> You are playing a reference game as the speaker. I will give you 4 different images. Your task is to generate a description of the TARGET image so that a listener can identify it among the others. Do NOT mention the position or order of the image (e.g., 'first', 'second', etc.). Focus only on unique visual details that distinguish the target.\nLook at this example, 4 images are given,\n<image>\n<image>\n<image>\n<image>\nThen the TARGET is selected, in this case, the fourth image, And a description is generated, DESCRIPTION: back of skiis are in the snow\nNow it is your turn to generate a description for the target image.\n\nThose are your 4 images,\nFirst: <image>\nSecond: <image>\nThird: <image>\nFourth: <image>\nYour TARGET is the fourth image.\nYour DESCRIPTION of the fourth image:"
+  }
+]
